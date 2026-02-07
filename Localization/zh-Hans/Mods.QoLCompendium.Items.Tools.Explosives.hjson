@@ -1,0 +1,84 @@
+AsphaltAutohighway: {
+	DisplayName: 沥青高速路
+	Tooltip:
+		'''
+		不消耗
+		创建一个横跨整个世界的沥青平台高速路
+		[C/FF0000:注意：]将会摧毁沿途所有的物块和墙壁
+		左键 创建双层平台
+		右键 创建单层平台
+		'''
+}
+
+AutoHouser: {
+	DisplayName: 自动房屋建造器
+	Tooltip:
+		'''
+		不消耗
+		建造一个城镇NPC房屋
+		'''
+}
+
+Hellbridger: {
+	DisplayName: 地狱世界平台
+	Tooltip:
+		'''
+		不消耗
+		创建一个横跨整个世界的黑曜石平台
+		[C/FF0000:注意：]将会摧毁沿途原版的物块和墙壁
+		但不会摧毁模组的建筑
+		左键 创建双层平台
+		右键 创建单层平台
+		'''
+}
+
+HellevatorCreator: {
+	DisplayName: 地狱电梯建造器
+	Tooltip:
+		'''
+		不消耗
+		创建一个地狱电梯
+		[C/FF0000:注意：]将会摧毁下方所有的物块和墙壁
+		'''
+}
+
+Lakemaker: {
+	DisplayName: 水池生成器
+	Tooltip:
+		'''
+		不消耗
+		在下方生成一个50x50的水
+		[C/FF0000:注意：]将会摧毁下方所有的物块和墙壁
+		[C/959595:注水效果很差且摧毁物块，请谨慎使用]
+		'''
+}
+
+Minibridge: {
+	DisplayName: 迷你战斗平台
+	Tooltip:
+		'''
+		不消耗 
+		创建400个图格长的平台
+		'''
+}
+
+Skybridger: {
+	DisplayName: 世界平台
+	Tooltip:
+		'''
+		不消耗
+		创建一个横跨整个世界的平台
+		[C/FF0000:注意：]将会摧毁沿途所有的物块和墙壁
+		左键 创建双层平台
+		右键 创建单层平台
+		'''
+}
+
+Superbomber: {
+	DisplayName: 超级炸弹
+	Tooltip:
+		'''
+		不消耗
+		摧毁炸弹上方一片巨大的正方形区域
+		'''
+}

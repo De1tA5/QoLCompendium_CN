@@ -1,0 +1,23 @@
+LittleYagiBuff: {
+	Description: 她真可爱
+	DisplayName: 小Yagi
+}
+
+MothBuff: {
+	DisplayName: 飞蛾
+	Description: 永久增加所有属性……吗？
+}
+
+OwlBuff: {
+	DisplayName: 猫头鹰
+	Description:
+		'''
+		还是猫头鹰
+		[C/959595:物品名称是 “Owl”描述是“Hooter”，两者都有猫头鹰的意思]
+		'''
+}
+
+SnakeBuff: {
+	DisplayName: 蛇
+	Description: 哦，好吧
+}

@@ -1,0 +1,25 @@
+DisplayName: 连锁挖掘设置
+
+VeinMiner: {
+	Label: "[i:3509] 连锁挖掘"
+	Tooltip: 切换启用连锁挖掘功能
+}
+
+VeinMinerSpeed: {
+	Label: "[i:3509] 连锁挖掘速度"
+	Tooltip:
+		'''
+		设置连锁挖掘时破坏物块的速度
+		数值越小，速度越快
+		'''
+}
+
+VeinMinerTileLimit: {
+	Tooltip: 设置连锁挖掘时最多能挖掘的物块数量
+	Label: "[i:3509] 连锁挖掘物块数量限制"
+}
+
+VeinMinerTileWhitelist: {
+	Tooltip: 列出所有能被进行连锁挖掘的物块列表
+	Label: "[i:3509] 连锁挖掘白名单"
+}

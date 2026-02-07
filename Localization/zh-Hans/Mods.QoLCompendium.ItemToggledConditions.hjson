@@ -1,0 +1,11 @@
+ItemEnabled: 启用该物品
+RecipeEnabled: 启用配方
+ItemConversions: 启用物品转换
+BossBags: 启用简易配方
+Crates: 启用简易配方
+Banners: 启用简易配方
+EasierRecipes: 启用简易配方
+CraftingStations: 启用合成站
+MobileStorages: 启用移动存储
+Pylons: 启用晶塔
+FurnitureRecipes: 启用家具配方

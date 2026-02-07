@@ -1,0 +1,18 @@
+AllInOneAccess: {
+	DisplayName: 一体化存储访问
+	Tooltip:
+		'''
+		打开移动存储菜单访问所有个人存储
+		右键点击该物品 打开/关闭虚空袋
+		'''
+}
+
+EtherianConstruct: {
+	DisplayName: 埃特尼亚护卫熔炉
+	Tooltip: 召唤一个漂浮的埃特尼亚护卫熔炉来存储你的物品
+}
+
+FlyingSafe: {
+	DisplayName: 飞行保险箱
+	Tooltip: 召唤一个漂浮的保险箱来存储你的物品
+}

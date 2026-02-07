@@ -1,0 +1,25 @@
+ConstructionEmblem: {
+	DisplayName: 建筑徽章
+	Tooltip: 提升15%物块和墙壁放置速度
+}
+
+CreationClubMembersPass: {
+	DisplayName: 创作俱乐部会员通行证
+	Tooltip:
+		'''
+		提升50%挖掘速度
+		提升75%物块和墙壁放置速度
+		增加5格物块放置距离
+		扩大物品拾取范围
+		自动给放置的物体上漆或涂料
+		自动给放置的物体安装致动器
+		开启回声视觉，显示隐藏物块
+		按住 向上 键可以够到更高的地方
+		“附于您购买的《上古卷轴V：天际 豪华版 重制版 年度游戏版》”
+		'''
+}
+
+MiningEmblem: {
+	DisplayName: 挖掘徽章
+	Tooltip: 提升15%挖掘速度
+}

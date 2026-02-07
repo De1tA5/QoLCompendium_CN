@@ -1,0 +1,28 @@
+AnglerRadar: {
+	DisplayName: 渔夫雷达
+	Tooltip: 显示目前的任务鱼
+}
+
+AnglersDream: {
+	DisplayName: 渔夫之梦
+	Tooltip:
+		'''
+		增加20点渔力
+		鱼线永远不会断
+		降低鱼饵的消耗率
+		允许在熔岩里钓鱼
+		显示你钓到的东西
+		显示目前的任务鱼
+		50%概率复制你捕获的鱼
+		'''
+}
+
+DuplicationBobber: {
+	DisplayName: 复制浮标
+	Tooltip: 50%概率复制你捕获的鱼
+}
+
+SonarDevice: {
+	DisplayName: 声呐仪
+	Tooltip: 显示你钓到的东西
+}

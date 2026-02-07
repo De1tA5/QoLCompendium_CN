@@ -1,0 +1,41 @@
+BloodMoonPedestal: {
+	DisplayName: 血月基座
+	Tooltip: 收藏该物品每天晚上触发[C/BE0103:血夜]
+}
+
+EclipsePedestal: {
+	DisplayName: 日食基座
+	Tooltip: 收藏该物品每天早上触发[C/D49504:日食]
+}
+
+MoonPedestal: {
+	DisplayName: 月亮基座
+	Tooltip:
+		'''
+		收藏该物品永远都是夜晚
+		将时间锁定在 7:30p.m - 次日4:30a.m
+		'''
+}
+
+PausePedestal: {
+	DisplayName: 时停基座
+	Tooltip: 收藏该物品暂停游戏时间
+}
+
+SunPedestal: {
+	DisplayName: 太阳基座
+	Tooltip:
+		'''
+		收藏该物品永远都是早上
+		将时间锁定在 4:30a.m - 7:30p.m
+		'''
+}
+
+Paperweight: {
+	DisplayName: 镇纸
+	Tooltip:
+		'''
+		被收藏时自动使用你所持的物品
+		打开物品栏时禁用该效果
+		'''
+}

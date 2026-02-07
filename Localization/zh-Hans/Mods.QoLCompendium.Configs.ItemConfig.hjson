@@ -1,0 +1,229 @@
+DisplayName: 物品设置
+
+DisableModdedItems: {
+	Label: "[i:509] 禁用模组物品"
+	Tooltip:
+		'''
+		切换是否完全禁用更全面的体验中的物品，禁用后模组物品将完全无法获得
+		如果物品被禁用，在此配置中将不会显示物品图标！
+		'''
+}
+
+AsphaltPlatform: {
+	Label: "[i:QoLCompendium/AsphaltPlatform] 沥青平台"
+	Tooltip: 切换启用 沥青平台
+}
+
+AutoStructures: {
+	Label: "[i:QoLCompendium/HellevatorCreator] 自动建筑"
+	Tooltip: 切换启用与自动建筑相关的物品
+}
+
+BannerBox: {
+	Label: "[i:QoLCompendium/BannerBox] 旗帜盒"
+	Tooltip: 切换启用 旗帜盒
+}
+
+BottomlessBuckets: {
+	Label: "[i:QoLCompendium/BottomlessChumBucket] 无底桶"
+	Tooltip: 切换启用与无底桶相关的物品
+}
+
+ChallengersCoin: {
+	Label: "[i:QoLCompendium/ChallengersCoin] 挑战者硬币"
+	Tooltip: 切换启用 挑战者硬币
+}
+
+SummoningRemote: {
+	Label: "[i:QoLCompendium/SummoningRemote] 召唤遥控"
+	Tooltip: 切换启用 召唤遥控
+}
+
+Mirrors: {
+	Label: "[i:QoLCompendium/CursedMirror] 更多魔镜"
+	Tooltip: 切换启用与魔镜相关的物品
+}
+
+DedicatedItems: {
+	Label: "[i:QoLCompendium/WoodenClub] 贡献者物品"
+	Tooltip: 切换启用 贡献者物品
+}
+
+EntityManipulator: {
+	Label: "[i:QoLCompendium/EntityManipulator] 实体操纵仪"
+	Tooltip: 切换启用 实体操纵仪
+}
+
+MiniSundial: {
+	Label: "[i:QoLCompendium/MiniSundial] 迷你日晷"
+	Tooltip: 切换启用 迷你日晷
+}
+
+InformationAccessories: {
+	Label: "[i:QoLCompendium/HeartbeatSensor] 信息类饰品"
+	Tooltip: 切换启用与信息相关的饰品
+}
+
+Magnets: {
+	Label: "[i:QoLCompendium/Magnet] 磁铁"
+	Tooltip: 切换启用与磁铁相关的物品
+}
+
+MobileStorages: {
+	Label: "[i:QoLCompendium/FlyingSafe] 移动存储"
+	Tooltip: 切换启用与移动存储相关的物品
+}
+
+MoonPedestals: {
+	Label: "[i:QoLCompendium/MoonPedestal] 月亮底座"
+	Tooltip: 切换启用 月亮底座相关的物品
+}
+
+Paperweight: {
+	Label: "[i:QoLCompendium/Paperweight] 镇纸"
+	Tooltip: 切换启用 镇纸
+}
+
+StarterBag: {
+	Label: "[i:QoLCompendium/StarterBag] 新手礼包"
+	Tooltip:
+		'''
+		切换启用 新手礼包
+		确保在打开前设置你想要的物品！
+		'''
+}
+
+WatchingEye: {
+	Label: "[i:QoLCompendium/WatchingEye] 注视之眼"
+	Tooltip: 切换启用 注视之眼
+}
+
+DestinationGlobe: {
+	Label: "[i:QoLCompendium/DestinationGlobe] 环境地球仪"
+	Tooltip: 切换启用 环境地球仪
+}
+
+PotionCrate: {
+	Label: "[i:QoLCompendium/PotionCrate] 药水箱"
+	Tooltip: 切换启用 药水箱
+}
+
+CraftingStations: {
+	Tooltip: 切换启用与制作站相关的物品
+	Label: "[i:QoLCompendium/BasicCraftingMonolith] 制作站"
+}
+
+RegrowthStaves: {
+	Label: "[i:QoLCompendium/Omnistaff] 更多再生法杖"
+	Tooltip: 切换启用与再生法杖相关的物品
+}
+
+Pylons: {
+	Label: "[i:QoLCompendium/CorruptionPylon] 更多晶塔"
+	Tooltip: 切换与晶塔相关的物品
+}
+
+TheFinalList: {
+	Label: "[i:QoLCompendium/TheFinalList] The Final List"
+	Tooltip: Toggles the Final List item
+}
+
+UltimateChecklist: {
+	Label: "[i:QoLCompendium/UltimateChecklist] 终极清单"
+	Tooltip: 切换启用 终极清单
+}
+
+CustomItems: {
+	Label: "[i:QoLCompendium/StarterBag] 定制物品"
+	Tooltip: 玩家打开新手礼包所给予的物品，根据这个列表被加入的物品
+}
+
+CustomItemQuantities: {
+	Label: "[i:3119] 定制物品数量"
+	Tooltip: 每个数字对应被加入物品的数量，若未设置数量则仅会给1个物品
+}
+
+PhaseInterrupter: {
+	Label: "[i:QoLCompendium/PhaseInterrupter] 月相中断器"
+	Tooltip: 切换启用 月相中断器
+}
+
+SuperDummy: {
+	Label: "[i:QoLCompendium/SuperDummy] 超级假人"
+	Tooltip: 切换启用 超级假人
+}
+
+RestockNotice: {
+	Label: "[i:QoLCompendium/RestockNotice] 补货通知"
+	Tooltip: 切换启用 补货通知
+}
+
+SkeletonRucksack: {
+	Label: "[i:QoLCompendium/SkeletonRucksack] 骷髅背包"
+	Tooltip: 切换启用 骷髅背包
+}
+
+TravelersMannequin: {
+	Label: "[i:QoLCompendium/TravelersMannequin] 旅商的人体模型"
+	Tooltip: 切换启用 旅商的人体模型
+}
+
+EndlessAmmo: {
+	Label: "[i:QoLCompendium/EndlessFlareBox] 无尽弹药"
+	Tooltip: 切换启用与无尽弹药相关的物品
+}
+
+GoldenLockpick: {
+	Tooltip: 切换启用 金撬锁器
+	Label: "[i:QoLCompendium/GoldenLockpick] 金撬锁器"
+}
+
+GoldenPowder: {
+	Tooltip: 切换启用 金粉
+	Label: "[i:QoLCompendium/GoldenPowder] 金粉"
+}
+
+LegendaryCatcher: {
+	Label: "[i:QoLCompendium/LegendaryCatcher] 传奇捕鱼者"
+	Tooltip: 切换启用 传奇捕鱼者
+}
+
+Eightworm: {
+	Label: "[i:QoLCompendium/Eightworm] ∞ 虫"
+	Tooltip: 切换启用 ∞ 虫
+}
+
+ConstructionAccessories: {
+	Tooltip: 切换启用与建筑相关的饰品
+	Label: "[i:QoLCompendium/ConstructionEmblem] 建筑类饰品"
+}
+
+FishingAccessories: {
+	Label: "[i:QoLCompendium/AnglerRadar] 钓鱼类饰品"
+	Tooltip: 切换启用与钓鱼相关的饰品
+}
+
+CrossModItems: {
+	Label: "[i:QoLCompendium/ForgottenOneSummon] 跨模组物品"
+	Tooltip: 切换启用 跨模组物品
+}
+
+UnsafeWalls: {
+	Label: "[i:3088] 危险墙"
+	Tooltip: 切换启用 危险墙
+}
+
+BossSummons: {
+	Tooltip: 切换启用 Boss召唤物
+	Label: "[i:QoLCompendium/CultistSummon] Boss召唤物"
+}
+
+PermanentBuffs: {
+	Label: "[i:QoLCompendium/PermanentIronskin] 永久Buff"
+	Tooltip: 切换启用 永久Buff物品
+}
+
+RepairedLifeFruit: {
+	Label: "[i:QoLCompendium/RepairedLifeFruit] 修复的生命果"
+	Tooltip: 切换启用 修复的生命果
+}

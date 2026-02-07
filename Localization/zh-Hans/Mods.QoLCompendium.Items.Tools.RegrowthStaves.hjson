@@ -1,0 +1,44 @@
+StaffOfShrooming: {
+	DisplayName: 蘑菇法杖
+	Tooltip: ""
+}
+
+StaffOfHallowing: {
+	DisplayName: 神圣法杖
+	Tooltip: ""
+}
+
+StaffOfAshing: {
+	DisplayName: 灰烬法杖
+	Tooltip: ""
+}
+
+StaffOfCysting: {
+	DisplayName: 囊肿法杖
+	Tooltip: ""
+}
+
+StaffOfHemorrhaging: {
+	DisplayName: 出血法杖
+	Tooltip: ""
+}
+
+StaffOfOvergrowth: {
+	DisplayName: 繁茂法杖
+	Tooltip: ""
+}
+
+Omnistaff: {
+	DisplayName: 全能法杖
+	Tooltip: 右键点击该物品切换草的类型
+}
+
+MossStaff: {
+	DisplayName: 苔藓法杖
+	Tooltip: 右键点击该物品切换苔藓的类型
+}
+
+GlowingMossStaff: {
+	DisplayName: 发光苔藓法杖
+	Tooltip: 右键点击该物品切换发光的类型
+}

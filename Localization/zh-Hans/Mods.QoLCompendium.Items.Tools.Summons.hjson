@@ -1,0 +1,119 @@
+ForgottenOneSummon: {
+	DisplayName: 海洋奇卵
+	Tooltip: 召唤遗忘之主
+}
+
+GiantClamSummon: {
+	DisplayName: 沉海蛤贝
+	Tooltip: 召唤巨像蛤
+}
+
+LeviathanAnahitaSummon: {
+	DisplayName: 迷人珍珠
+	Tooltip: 召唤利维坦和阿娜希塔
+}
+
+OldDukeSummon: {
+	DisplayName: 碗装血蠕虫
+	Tooltip: 召唤硫海遗爵
+}
+
+CultistSummon: {
+	DisplayName: 月亮魔印
+	Tooltip: 召唤拜月教邪教徒
+}
+
+DukeFishronSummon: {
+	DisplayName: 碗装松露虫
+	Tooltip: 召唤猪龙鱼公爵
+}
+
+EmpressOfLightSummon: {
+	DisplayName: 神圣魔晶
+	Tooltip: 召唤光之女皇
+}
+
+PlanteraSummon: {
+	DisplayName: 繁茂木槿
+	Tooltip: 召唤世纪之花
+}
+
+SkeletronSummon: {
+	DisplayName: 老人巫毒娃娃
+	Tooltip: 召唤骷髅王
+}
+
+WallOfFleshSummon: {
+	DisplayName: 肉辣椒
+	Tooltip: 召唤血肉墙
+}
+
+LifebringerSummon: {
+	DisplayName: 绿苹果
+	Tooltip: 召唤万籁携生
+}
+
+MaterealizerSummon: {
+	DisplayName: 超立方体
+	Tooltip: 召唤化物天匠
+}
+
+OverwatcherSummon: {
+	DisplayName: 过载怀表
+	Tooltip: 召唤极视终表
+}
+
+ScarabBeliefSummon: {
+	DisplayName: 非有蝴蝶
+	Tooltip: 召唤圣甲虫信仰
+}
+
+WorldsEndWhaleSummon: {
+	DisplayName: 陨落光环
+	Tooltip: 召唤世末·永落鲸
+}
+
+CragmawMireSummon: {
+	DisplayName: 硫酸陷阱
+	Tooltip: 召唤峭咽潭
+}
+
+EidolonWyrmSummon: {
+	DisplayName: 流明水晶
+	Tooltip: 召唤幻海妖龙
+}
+
+GiantSquidSummon: {
+	DisplayName: 小乌贼
+	Tooltip: 召唤巨像乌贼
+}
+
+MaulerSummon: {
+	DisplayName: 硫酸鲨鱼鳍
+	Tooltip: 召唤渊海狂鲨
+}
+
+NuclearTerrorSummon: {
+	DisplayName: 核燃焰
+	Tooltip: 召唤辐核骇兽(
+}
+
+PrimordialWyrmSummon: {
+	DisplayName: 始源水晶
+	Tooltip: 召唤始源妖龙
+}
+
+ReaperSharkSummon: {
+	DisplayName: 掠夺者鳞片
+	Tooltip: 召唤猎魂鲨
+}
+
+SummoningRemote: {
+	DisplayName: 召唤遥控
+	Tooltip:
+		'''
+		右键使用 在持有时打开选择界面
+		左键使用 召唤所选的Boss或事件
+		召唤限制会随着进度推进而变化
+		'''
+}

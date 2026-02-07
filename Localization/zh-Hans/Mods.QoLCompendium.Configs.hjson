@@ -1,0 +1,68 @@
+ConfigGlintID: {
+	Tooltip: ""
+
+	White: {
+		Label: 白色
+		Tooltip: ""
+	}
+
+	Red: {
+		Label: 红色
+		Tooltip: ""
+	}
+
+	Orange: {
+		Label: 橙色
+		Tooltip: ""
+	}
+
+	Yellow: {
+		Label: 黄色
+		Tooltip: ""
+	}
+
+	Green: {
+		Label: 绿色
+		Tooltip: ""
+	}
+
+	Lime: {
+		Label: 橙绿色
+		Tooltip: ""
+	}
+
+	Blue: {
+		Label: 蓝色
+		Tooltip: ""
+	}
+
+	Cyan: {
+		Label: 青色
+		Tooltip: ""
+	}
+
+	SkyBlue: {
+		Label: 天蓝色
+		Tooltip: ""
+	}
+
+	Purple: {
+		Label: 紫色
+		Tooltip: ""
+	}
+
+	Magenta: {
+		Label: 紫红色
+		Tooltip: ""
+	}
+
+	Pink: {
+		Label: 粉色
+		Tooltip: ""
+	}
+
+	Rainbow: {
+		Label: 彩虹色
+		Tooltip: ""
+	}
+}

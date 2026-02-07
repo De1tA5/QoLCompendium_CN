@@ -1,0 +1,103 @@
+BattalionLog: {
+	DisplayName: 军营记录
+	Tooltip: 显示哨兵栏
+}
+
+DeteriorationDisplay: {
+	DisplayName: 减益显示仪
+	Tooltip: 显示你施加减益每秒造成的伤害
+}
+
+Fitbit: {
+	DisplayName: 智能手环
+	Tooltip:
+		'''
+		显示伤害减免、挖掘速度加成和飞行时间
+		[C/959595:Fitbit本身是一个智能手环品牌]
+		'''
+}
+
+HarmInducer: {
+	DisplayName: 伤害诱导器
+	Tooltip: 显示你所持武器的伤害加成倍率
+}
+
+HeadCounter: {
+	DisplayName: 人数统计器
+	Tooltip: 显示生成速率
+}
+
+HeartbeatSensor: {
+	DisplayName: 心率传感器
+	Tooltip: 显示仆从栏、哨兵栏和生成率
+}
+
+IAH: {
+	DisplayName: I.A.H
+	Tooltip:
+		'''
+		显示该模组提供的所有额外信息
+		“Information Accessory Hotline”
+		（信息饰品热线）
+		'''
+}
+
+Kettlebell: {
+	DisplayName: 壶铃
+	Tooltip: 显示挖掘速度加成
+}
+
+LuckyDie: {
+	DisplayName: 幸运骰子
+	Tooltip: 显示暴击率
+}
+
+MetallicClover: {
+	DisplayName: 金属三叶草
+	Tooltip: 显示幸运值
+}
+
+PlateCracker: {
+	DisplayName: 碎盘器
+	Tooltip: 显示护甲穿透
+}
+
+Regenerator: {
+	DisplayName: 恢复注射器
+	Tooltip: 显示每秒生命再生
+}
+
+ReinforcedPanel: {
+	DisplayName: 加固面板
+	Tooltip: 显示伤害减免
+}
+
+Replenisher: {
+	DisplayName: 补魔注射器
+	Tooltip: 显示每秒魔力再生
+}
+
+SkullWatch: {
+	DisplayName: 骸骨怀表
+	Tooltip: 显示死亡次数
+}
+
+ToleranceDetector: {
+	DisplayName: 容差检测器
+	Tooltip: 显示护甲穿透、暴击率和所持武器的伤害加成倍率
+}
+
+TrackingDevice: {
+	DisplayName: 追踪设备
+	Tooltip: 显示仆从栏
+}
+
+VitalDisplay: {
+	DisplayName: 生命显示屏
+	Tooltip: 显示幸运值、生命再生和魔力再生
+}
+
+WingTimer: {
+	DisplayName: 飞行计时器
+	Tooltip: 显示飞行时间
+}

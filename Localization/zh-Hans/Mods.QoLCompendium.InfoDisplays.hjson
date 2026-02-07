@@ -1,0 +1,15 @@
+ArmorPenetrationInfoDisplay.DisplayName: 护甲穿透
+CritInfoDisplay.DisplayName: 暴击率
+DamageInfoDisplay.DisplayName: 伤害加成
+EnduranceInfoDisplay.DisplayName: Endurance
+LuckInfoDisplay.DisplayName: 幸运值
+ManaRegenInfoDisplay.DisplayName: Mana Regen
+MiningSpeedInfoDisplay.DisplayName: 挖掘速度
+MinionInfoDisplay.DisplayName: 仆从栏位
+RegenInfoDisplay.DisplayName: Life Regen
+SentryInfoDisplay.DisplayName: 哨兵栏位
+SpawnInfoDisplay.DisplayName: Spawn Rate
+WingTimeInfoDisplay.DisplayName: 翅膀飞行时间
+DeathsInfoDisplay.DisplayName: 死亡次数
+DebuffDamageInfoDisplay.DisplayName: 每秒减益伤害
+QuestFishInfoDisplay.DisplayName: 任务鱼

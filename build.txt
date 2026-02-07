@@ -1,0 +1,6 @@
+displayName = 更全面的体验
+author = 三杯伍迪
+version = 0.1
+sortAfter = QoLCompendium
+modReferences = QoLCompendium
+translationMod = true

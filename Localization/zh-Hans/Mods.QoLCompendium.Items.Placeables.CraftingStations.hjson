@@ -1,0 +1,101 @@
+AetherAltar: {
+	DisplayName: 以太祭坛
+	Tooltip:
+		'''
+		允许将可微光嬗变的物品制作为转换后的物品
+		获取方法：将恶魔/猩红祭坛进行微光嬗变
+		'''
+}
+
+DemonAltar: {
+	DisplayName: 恶魔祭坛
+	Tooltip:
+		'''
+		作用等同于邪恶祭坛
+		无法通过破坏祭坛获取困难模式矿石
+		'''
+}
+
+CrimsonAltar: {
+	DisplayName: 猩红祭坛
+	Tooltip:
+		'''
+		作用等同于邪恶祭坛
+		无法通过破坏祭坛获取困难模式矿石
+		'''
+}
+
+BasicCraftingMonolith: {
+	DisplayName: 基础制作柱
+	Tooltip: 作用等同于一些原版基础制作站
+}
+
+HardmodeCraftingMonolith: {
+	DisplayName: 困难模式制作柱
+	Tooltip: 作用等同于一些原版困难模式制作站
+}
+
+LunarCraftingMonolith: {
+	DisplayName: 夜明制作柱
+	Tooltip: 作用等同于原版所有的制作站
+}
+
+SpecializedCraftingMonolith: {
+	DisplayName: 专业制作柱
+	Tooltip: 作用等同于一些原版进阶制作站
+}
+
+BasicMartinsOrderCraftingMonolith: {
+	DisplayName: 马丁战律基础制作柱
+	Tooltip: 作用等同于[C/F5B400:马丁战律]基础制作站
+}
+
+HardmodeMartinsOrderCraftingMonolith: {
+	DisplayName: 马丁战律困难模式制作柱
+	Tooltip: 作用等同于[C/F5B400:马丁战律]困难模式制作站
+}
+
+MartinsOrderCraftingMonolith: {
+	DisplayName: 马丁战律制作柱
+	Tooltip: 作用等同于[C/F5B400:马丁战律]所有的制作站
+}
+
+BasicCalamityCraftingMonolith: {
+	DisplayName: 灾厄基础制作柱
+	Tooltip: 作用等同于[C/AB1B1B:灾厄]基础制作站
+}
+
+CalamityCraftingMonolith: {
+	DisplayName: 灾厄制作柱
+	Tooltip: 作用等同于[C/AB1B1B:灾厄]所有的制作站
+}
+
+HardmodeCalamityCraftingMonolith: {
+	DisplayName: 灾厄困难模式制作柱
+	Tooltip: 作用等同于[C/AB1B1B:灾厄]困难模式制作站
+}
+
+ThoriumCraftingMonolith: {
+	Tooltip: 作用等同于[C/00E5FF:瑟银]所有的制作站
+	DisplayName: 瑟银制作柱
+}
+
+BasicThoriumCraftingMonolith: {
+	Tooltip: 作用等同于[C/00E5FF:瑟银]基础制作站
+	DisplayName: 瑟银基础制作柱
+}
+
+BasicHomewardJourneyCraftingMonolith: {
+	DisplayName: 旅人归途基础制作柱
+	Tooltip: 作用等同于[C/FCE65B:旅人归途]基础制作站
+}
+
+HomewardJourneyCraftingMonolith: {
+	DisplayName: 旅人归途制作柱
+	Tooltip: 作用等同于[C/FCE65B:旅人归途]所有的制作站
+}
+
+UltimateCraftingMonolith: {
+	DisplayName: 究极制作柱
+	Tooltip: 作用等同于所有制作站
+}

@@ -1,0 +1,26 @@
+BottomlessChumBucket: {
+	DisplayName: 无底鱼饵桶
+	Tooltip:
+		'''
+		装着无尽数量的鱼饵
+		可扔入水中最多3次以提高渔力
+		可通过血月钓鱼获得
+		'''
+}
+
+Eightworm: {
+	DisplayName: ∞ 虫
+	Tooltip: “无限 + 蠕虫”
+}
+
+LegendaryCatcher: {
+	DisplayName: 传奇捕鱼者
+	Tooltip:
+		'''
+		投出荒谬数量的鱼线
+		可以在熔岩里钓鱼
+		鱼线永远不会断
+		在雨天或夜晚提升渔力
+		只需1个鱼饵就能无限使用
+		'''
+}

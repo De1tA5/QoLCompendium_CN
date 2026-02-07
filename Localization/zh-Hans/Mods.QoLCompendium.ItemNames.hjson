@@ -1,0 +1,127 @@
+MosaicMirror: {
+	Mirror0: 复合魔镜 （最后死亡点）
+	Mirror1: 复合魔镜 （返回）
+	Mirror2: 复合魔镜 （随机传送）
+}
+
+Omnistaff: {
+	Grass0: 全能法杖 （草）
+	Grass1: 全能法杖 （腐化草）
+	Grass2: 全能法杖 （猩红草）
+	Grass3: 全能法杖 （神圣草）
+	Grass4: 全能法杖 （丛林草）
+	Grass5: 全能法杖 （蘑菇草）
+	Grass6: 全能法杖 （灰烬草）
+}
+
+MossStaff: {
+	Moss0: 苔藓法杖 （蓝色）
+	Moss1: 苔藓法杖 （棕色）
+	Moss2: 苔藓法杖 （绿色）
+	Moss3: 苔藓法杖 （紫色）
+	Moss4: 苔藓法杖 （红色）
+}
+
+GlowingMossStaff: {
+	Moss0: 发光苔藓法杖 （氩）
+	Moss1: 发光苔藓法杖 （氪）
+	Moss2: 发光苔藓法杖 （熔岩）
+	Moss3: 发光苔藓法杖 （氖）
+	Moss4: 发光苔藓法杖 （氙）
+	Moss5: 发光苔藓法杖 （氦）
+}
+
+DestinationGlobe: {
+	Biome0: 环境地球仪 （未选择）
+	Biome1: 环境地球仪 （沙漠）
+	Biome2: 环境地球仪 （雪原）
+	Biome3: 环境地球仪 （丛林）
+	Biome4: 环境地球仪 （发光蘑菇）
+	Biome5: 环境地球仪 （腐化）
+	Biome6: 环境地球仪 （猩红）
+	Biome7: 环境地球仪 （神圣）
+	Biome8: 环境地球仪 （纯净）
+}
+
+EntityManipulator: {
+	SpawnModifier0: 实体操纵仪 （未选择）
+	SpawnModifier1: 实体操纵仪 （增加刷怪）
+	SpawnModifier2: 实体操纵仪 （减少刷怪）
+	SpawnModifier3: 实体操纵仪 （取消刷怪）
+	SpawnModifier4: 实体操纵仪 （取消事件）
+	SpawnModifier5: 实体操纵仪 （取消刷怪&事件）
+}
+
+SummoningRemote: {
+	Boss: 召唤遥控 （{0}）
+	BossTwins: 召唤遥控 （双子魔眼）
+	BossMoonLord: 召唤遥控 （月亮领主）
+	EventRain: 召唤遥控 （下雨）
+	EventWind: 召唤遥控 （大风）
+	EventSandstorm: 召唤遥控 （沙尘暴）
+	EventParty: 召唤遥控 （派对）
+	EventSlimeRain: 召唤遥控 （史莱姆雨）
+	EventBloodMoon: 召唤遥控 （血月）
+	EventGoblinArmy: 召唤遥控 （哥布林军队）
+	EventSnowLegion: 召唤遥控 （雪人军团）
+	EventPirateInvasion: 召唤遥控 （海盗入侵）
+	EventEclipse: 召唤遥控 （日食）
+	EventPumpkinMoon: 召唤遥控 （南瓜月）
+	EventFrostMoon: 召唤遥控 （霜月）
+	EventMartianMadness: 召唤遥控 （火星暴乱）
+	EventNebulaPillar: 召唤遥控 （星云柱）
+	EventSolarPillar: 召唤遥控 （日耀柱）
+	EventStardustPillar: 召唤遥控 （星辰柱）
+	EventVortexPillar: 召唤遥控 （星漩柱）
+	EventLunar: 召唤遥控 （月亮事件）
+	NoModifier: 召唤遥控 （未选择）
+}
+
+ChallengersCoin: {
+	Difficulty0: 挑战者硬币 （模式：经典）
+	Difficulty1: 挑战者硬币 （模式：专家）
+	Difficulty2: 挑战者硬币 （模式：大师）
+	Difficulty3: 挑战者硬币 （模式：旅行）
+}
+
+PhaseInterrupter: {
+	Moon0: 月相中断器 （满月）
+	Moon1: 月相中断器 （亏凸月）
+	Moon2: 月相中断器 （下弦月）
+	Moon3: 月相中断器 （残月）
+	Moon4: 月相中断器 （新月）
+	Moon5: 月相中断器 （娥眉月）
+	Moon6: 月相中断器 （上弦月）
+	Moon7: 月相中断器 （盈凸月）
+}
+
+AllInOneAccess: {
+	Open: 一体化存储访问 （打开虚空袋）
+	Closed: 一体化存储访问 （关闭虚空袋）
+}
+
+BottomlessLiquidBucket: {
+	Liquid0: 无底流体桶 （水）
+	Liquid1: 无底流体桶 （熔岩）
+	Liquid2: 无底流体桶 （蜂蜜）
+	Liquid3: 无底流体桶 （微光）
+}
+
+PermanentFlasks: {
+	FlaskOfCursedFlames: Permanent Flasks (Cursed Flames)
+	FlaskOfFire: Permanent Flasks (Fire)
+	FlaskOfGold: Permanent Flasks (Gold)
+	FlaskOfIchor: Permanent Flasks (Ichor)
+	FlaskOfNanites: Permanent Flasks (Nanites)
+	FlaskOfParty: Permanent Flasks (Party)
+	FlaskOfPoison: Permanent Flasks (Poison)
+	FlaskOfVenom: Permanent Flasks (Venom)
+}
+
+PermanentThoriumCoatings: {
+	DeepFreezeCoating: Permanent Thorium Coatings (Deep Freeze)
+	ExplosiveCoating: Permanent Thorium Coatings (Explosive)
+	GorgonCoating: Permanent Thorium Coatings (Gorgon)
+	SporeCoating: Permanent Thorium Coatings (Spore)
+	ToxicCoating: Permanent Thorium Coatings (Toxic)
+}

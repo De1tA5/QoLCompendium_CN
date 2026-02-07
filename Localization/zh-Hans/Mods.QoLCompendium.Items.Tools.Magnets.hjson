@@ -1,0 +1,24 @@
+Magnet: {
+	DisplayName: 磁铁
+	Tooltip: 收藏该物品提升525格物品拾取范围
+}
+
+HellstoneMagnet: {
+	DisplayName: 狱石磁铁
+	Tooltip: 收藏该物品提升1050格物品拾取范围
+}
+
+SoulMagnet: {
+	DisplayName: 灵魂磁体
+	Tooltip: 收藏该物品提升2100格物品拾取范围
+}
+
+SpectreMagnet: {
+	DisplayName: 幽灵磁铁
+	Tooltip: 收藏该物品提升4200格物品拾取范围
+}
+
+LunarMagnet: {
+	DisplayName: 夜明磁铁
+	Tooltip: 收藏该物品提升16800格物品拾取范围
+}

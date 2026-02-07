@@ -1,0 +1,19 @@
+AsphaltPlatform: {
+	DisplayName: 沥青平台
+	Tooltip: 提高奔跑速度
+}
+
+TreacherousGraniteWall: {
+	DisplayName: 危险花岗岩墙
+	Tooltip: 一面危险的的花岗岩墙壁能够生成敌怪
+}
+
+TreacherousMarbleWall: {
+	DisplayName: 危险大理石墙
+	Tooltip: 一面危险的的大理石墙壁能够生成敌怪
+}
+
+RepairedLifeFruit: {
+	DisplayName: 修复的生命果
+	Tooltip: 可摆放的生命果
+}

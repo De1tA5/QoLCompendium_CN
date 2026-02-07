@@ -1,0 +1,58 @@
+NotConsumable: 不消耗
+WorksInBanks: 在个人存储中同样生效
+StaffOfAshingPlaceable: 在灰烬块上种植[C/D18D67:灰烬草]
+StaffOfCystingPlaceable: 在土块或泥块上种植[C/6D6AAE:腐化草]
+StaffOfHallowingPlaceable: 在土块上种植[C/4EC1E3:神圣草]
+StaffOfHemorrhagingPlaceable: 在土块或泥块上种植[C/B74544:猩红草]
+StaffOfOvergrowthPlaceable: 在泥块上种植[C/8FD71D:丛林草]
+StaffOfShroomingPlaceable: 在泥块上种植[C/4EC1E3:蘑菇草]
+OmnistaffPlaceable: 在土块、泥块或灰烬块上种植各种草
+MossStaffPlaceable: 在石块或灰砖上种植各种苔藓
+GlowingMossStaffPlaceable: 在石块或灰砖上种植各种发光苔藓
+FlightTime: 飞行时间： {0}秒
+HorizontalSpeed: 水平速度： {0}
+VerticalSpeedMul: 垂直速度倍率： {0}
+HookReach: 射程距离： {0}
+HookPullSpeed: 牵引速度: {0}
+UsedItem: 你已经使用该强化物品
+UsedItemCountable: 你已经使用 {0}/{1}
+Shimmerable: 可微光嬗变
+ShimmerCoinLuck: 可经微光嬗变为钱币运气： {0}
+ShimmerableIntoItem: 可经微光嬗变为： [i:{0}] ({1})
+ShimmerableIntoNPC: 可经微光嬗变为: {0}
+UseAmmo: 使用 [i:{0}] ({1}) 作为弹药
+Active: 物品已激活
+ActiveBuff: 增益已激活
+ActiveBanner: 旗帜已激活
+ActiveCraftingStation: 制作站已激活
+PotionCrateTooltip: 当持有{0}瓶药水时右键点击来存入其中
+ItemDisabled: （物品已禁用）
+Disabled: （已禁用）
+FromMod: "[C/FCB137:来自模组：] {0}"
+WarriorClass: "[c/fe7902:-战士职业-]"
+RangerClass: "[c/22dd97:-射手职业-]"
+SorcererClass: "[c/fe7ee5:-法师职业-]"
+SummonerClass: "[c/88e2ff:-召唤师职业-]"
+SummonerClassWhip: "[c/88e2ff:-召唤师职业- （鞭子）]"
+ThrowerClass: "[c/a1724a:-投手职业-]"
+Classless: "[c/623ea6:-无职业-]"
+Tool: "[c/ffffff:-工具-]"
+RogueClass: "[c/ce84e3:-盗贼职业-]"
+DruidClass: "[c/c4f129:-德鲁伊职业-]"
+BardClass: "[c/00ff80:-吟游诗人职业-]"
+HealerClass: "[c/ffff5b:-牧师职业-]"
+DarkHealerClass: "[c/b266ff:-牧师职业-]"
+EngineerClass: "[c/6dd450:-Engineer职业-]"
+ArtistClass: "[c/ff7d8e:-艺术家职业-]"
+RevenantClass: "[c/42305b:-Revenant职业-]"
+VoidWarriorClass: "[c/51257d:-虚空战士职业-]"
+VoidRangerClass: "[c/51257d:-虚空射手职业-]"
+VoidSorcererClass: "[c/51257d:-虚空法师职业-]"
+VoidSummonerClass: "[c/51257d:-虚空召唤师职业-]"
+VoidThrowerClass: "[c/51257d:-虚空投手职业-]"
+VoidRogueClass: "[c/51257d:-虚空盗贼职业-]"
+VoidBardClass: "[c/51257d:-虚空吟游诗人职业-]"
+VoidHealerClass: "[c/51257d:-虚空牧师职业-]"
+VoidGenericClass: "[c/51257d:-虚空职业-]"
+KillMobileStorage: 在物品栏中右键点击取消所有的已激活的移动存储
+AssetNotFound: "[c/cf1d1d:模组资产未找到，已使用默认资产]"

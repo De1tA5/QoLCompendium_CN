@@ -1,0 +1,20 @@
+ArmorPenetration: 护甲穿透
+CriticalStrikeChance: % 暴击率
+DamageMultiplier: x 伤害加成
+DeathCount: 总死亡次数
+Endurance: % 伤害减免
+Luck: 幸运值
+ManaRegeneration: 每秒魔力回复
+MiningSpeed: % 挖掘速度
+MinionSlots: 仆从栏位
+Regeneration: 每秒生命回复
+SentrySlots: 哨兵栏位
+SpawnRate: 每秒敌怪刷新
+WingTime: 秒 飞行时间
+FullHealth: 满生命值
+FullMana: 满魔力值
+SpawnsDisabled: Spawns Disabled
+InfiniteWingTime: 无限飞行时间
+DDPS: "{0} Debuff damage per second"
+NoDPS: N/A
+QuestFinished: 任务完成

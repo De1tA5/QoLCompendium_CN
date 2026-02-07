@@ -1,0 +1,60 @@
+DisplayName: 工具提示栏设置
+
+ShimmerableTooltip: {
+	Tooltip: 为能够进行微光嬗变的物品添加文本提示
+	Label: "[i:5342] 可微光嬗变文本"
+}
+
+NoFavoriteTooltip: {
+	Label: "[i:75] 无收藏文本"
+	Tooltip: 移除被收藏文本提示
+}
+
+WorksInBanksTooltip: {
+	Tooltip:
+		'''
+		为能在个人存储生效的物品添加文本提示
+		需要开启“主要设置”中“实用饰品在个人存储中生效”功能才能生效
+		'''
+	Label: "[i:87] 个人存储生效文本"
+}
+
+WingStatsTooltips: {
+	Label: "[i:493] 翅膀属性文本"
+	Tooltip: 翅膀增加3条显示属性的文本提示
+}
+
+HookStatsTooltips: {
+	Label: "[i:84] 钩爪属性文本"
+	Tooltip: 钩爪增加2条显示属性的文本提示
+}
+
+UsedPermanentUpgradeTooltip: {
+	Tooltip: 为已使用的永久强化物品添加显示文本提示（如[i:29]生命水晶）
+	Label: "[i:5337] 已使用永久强化文本"
+}
+
+AmmoTooltip: {
+	Tooltip: 为物品添加其使用弹药类型的显示文本提示
+	Label: "[i:3104] 使用弹药文本"
+}
+
+ActiveTooltip: {
+	Tooltip: 为物品添加显示其是否处于激活状态的文本提示
+	Label: "[i:292] 物品激活文本"
+}
+
+NoYoyoTooltip: {
+	Tooltip: 移除部分悠悠球的Logo文本提示
+	Label: "[i:3285] 无悠悠球Logo"
+}
+
+FromModTooltip: {
+	Tooltip: 在物品名称下方添加显示其所属模组的文本提示
+	Label: "[i:3084] 物品所属模组文本"
+}
+
+ClassTagTooltip: {
+	Tooltip: 在物品名称下方添加显示其对应的职业文本提示
+	Label: "[i:3121] 职业标签文本"
+}

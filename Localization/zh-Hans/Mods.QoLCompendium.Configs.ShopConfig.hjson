@@ -1,0 +1,201 @@
+DisplayName: 商店设置
+
+BMPotionShop: {
+	Label: "[i:28] 药水商店"
+	Tooltip: ""
+}
+
+BMStationShop: {
+	Label: "[i:3198] 增益站商店"
+	Tooltip: ""
+}
+
+BMMaterialShop: {
+	Label: "[i:23] 材料商店"
+	Tooltip: ""
+}
+
+BMMovementAccessoryShop: {
+	Label: "[i:54] 移动类饰品商店"
+	Tooltip: ""
+}
+
+BMCombatAccessoryShop: {
+	Label: "[i:3212] 战斗类饰品商店"
+	Tooltip: ""
+}
+
+BMInformationShop: {
+	Label: "[i:3123] 信息类/建筑类饰品商店"
+	Tooltip: ""
+}
+
+BMBagShop: {
+	Label: "[i:3332] 宝藏袋商店"
+	Tooltip: ""
+}
+
+BMCrateShop: {
+	Label: "[i:2334] 宝匣/摸彩袋商店"
+	Tooltip: ""
+}
+
+BMOreShop: {
+	Label: "[i:11] 矿石/锭商店"
+	Tooltip: ""
+}
+
+BMNaturalBlockShop: {
+	Label: "[i:2] 自然物块商店"
+	Tooltip: ""
+}
+
+BMBuildingBlockShop: {
+	Label: "[i:129] 建筑物块商店"
+	Tooltip: ""
+}
+
+BMHerbShop: {
+	Label: "[i:313] 草药和植物商店"
+	Tooltip: ""
+}
+
+BMFishShop: {
+	Label: "[i:2290] 钓鱼和鱼类商店"
+	Tooltip: ""
+}
+
+BMMountShop: {
+	Label: "[i:2430] 坐骑和钩爪商店"
+	Tooltip: ""
+}
+
+BMAmmoShop: {
+	Label: "[i:3104] 弹药商店"
+	Tooltip: ""
+}
+
+ECPotionShop: {
+	Label: "[i:28] 模组药水商店"
+	Tooltip: ""
+}
+
+ECStationShop: {
+	Label: "[i:3198] 模组增益站商店"
+	Tooltip: ""
+}
+
+ECMaterialShop: {
+	Label: "[i:23] 模组材料商店"
+	Tooltip: ""
+}
+
+ECBagShop: {
+	Label: "[i:3332] 模组宝藏袋商店"
+	Tooltip: ""
+}
+
+ECCrateShop: {
+	Label: "[i:2334] 模组宝匣/摸彩袋商店"
+	Tooltip: ""
+}
+
+ECOreShop: {
+	Label: "[i:11] 模组矿石/锭商店"
+	Tooltip: ""
+}
+
+ECNaturalBlocksShop: {
+	Label: "[i:2] 模组自然物块商店"
+	Tooltip: ""
+}
+
+ECBuildingBlocksShop: {
+	Label: "[i:129] 模组建筑物块商店"
+	Tooltip: ""
+}
+
+ECHerbShop: {
+	Label: "[i:313] 模组草药和植物商店"
+	Tooltip: ""
+}
+
+ECFishShop: {
+	Label: "[i:2290] 模组鱼类商店"
+	Tooltip: ""
+}
+
+GlobalPriceMultiplier: {
+	Label: "[i:161] 全局价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+PotionPriceMultiplier: {
+	Label: "[i:161] 药水价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+StationPriceMultiplier: {
+	Label: "[i:161] 增益站价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+MaterialPriceMultiplier: {
+	Label: "[i:161] 材料价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+AccessoryPriceMultiplier: {
+	Label: "[i:161] 饰品价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+BagPriceMultiplier: {
+	Label: "[i:161] 宝藏袋价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+CratePriceMultiplier: {
+	Label: "[i:161] 宝匣/摸彩袋价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+OrePriceMultiplier: {
+	Label: "[i:161] 矿石/锭价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+NaturalBlockPriceMultiplier: {
+	Label: "[i:161] 自然物块价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+BuildingBlockPriceMultiplier: {
+	Label: "[i:161] 建筑物块价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+HerbPriceMultiplier: {
+	Label: "[i:161] 草药价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+FishPriceMultiplier: {
+	Label: "[i:161] 鱼类价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+MountPriceMultiplier: {
+	Label: "[i:161] 坐骑价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+AmmoPriceMultiplier: {
+	Label: "[i:161] 弹药价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+BossScaling: {
+	Label: "[i:560] Boss宝藏袋价格倍率调整"
+	Tooltip: 切换启用是否让宝藏袋在每次击败Boss后价格增加
+}

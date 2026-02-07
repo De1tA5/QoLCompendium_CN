@@ -1,0 +1,787 @@
+DisplayName: 主要设置
+
+EndlessPotionBuffs: {
+	Label: "[i:292] 无尽药水Buff"
+	Tooltip:
+		'''
+		切换启用无尽药水Buff
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessStationBuffs: {
+	Label: "[i:3198] 无尽增益站Buff"
+	Tooltip:
+		'''
+		切换启用无尽增益站Buff
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessHealing: {
+	Label: "[i:188] 无尽治疗药水和魔力药水"
+	Tooltip:
+		'''
+		切换启用无尽治疗药水和魔力药水
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessBanners: {
+	Label: "[i:1683] 无尽旗帜"
+	Tooltip:
+		'''
+		切换启用无尽旗帜
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessAmmo: {
+	Label: "[i:97] 无尽弹药"
+	Tooltip:
+		'''
+		切换启用无尽弹药
+		所有弹药类型均生效
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessBait: {
+	Label: "[i:2676] 无尽鱼饵"
+	Tooltip:
+		'''
+		切换启用无尽鱼饵
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessBossSummons: {
+	Label: "[i:43] 无尽Boss召唤物"
+	Tooltip:
+		'''
+		切换启用无尽Boss召唤物
+		使Boss召唤物变为不消耗
+		并将Boss召唤物最大堆叠数量设置为1
+		'''
+}
+
+EndlessConsumables: {
+	Label: "[i:3] 无尽消耗品"
+	Tooltip:
+		'''
+		切换启用无尽消耗品
+		包括图格物块、墙壁和其他杂项物品
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessWeapons: {
+	Label: "[i:42] 无尽消耗品武器"
+	Tooltip:
+		'''
+		切换启用无尽消耗品武器
+		你可以改变"堆叠需求量"设置，来调整无尽所需的堆叠数量
+		'''
+}
+
+EndlessBuffAmount: {
+	Label: "[i:161] 无尽药水Buff堆叠需求量"
+	Tooltip: 更改 无尽药水Buff 所需的物品数量
+}
+
+EndlessStationAmount: {
+	Label: "[i:161] 无尽增益站Buff堆叠需求量"
+	Tooltip: 更改 无尽增益站Buff 所需的物品数量
+}
+
+EndlessHealingAmount: {
+	Label: "[i:161] 无尽治疗药水和魔力药水堆叠需求量"
+	Tooltip: 更改 无尽治疗药水和魔力药水 所需的物品数量
+}
+
+EndlessBannerAmount: {
+	Label: "[i:161] 无尽旗帜堆叠需求量"
+	Tooltip: 更改 无尽旗帜 所需的物品数量
+}
+
+EndlessItemAmount: {
+	Label: "[i:161] 无尽消耗品堆叠需求量"
+	Tooltip: 更改 无尽消耗品 所需的物品数量
+}
+
+EndlessWeaponAmount: {
+	Label: "[i:161] 无尽消耗品武器堆叠需求量"
+	Tooltip: 更改 无尽消耗品武器 所需的物品数量
+}
+
+EndlessAmmoAmount: {
+	Tooltip: 更改 无尽弹药 所需的物品数量
+	Label: "[i:161] 无尽弹药堆叠需求量"
+}
+
+EndlessBaitAmount: {
+	Tooltip: 更改 无尽鱼饵 所需的物品数量
+	Label: "[i:161] 无尽鱼饵堆叠需求量"
+}
+
+ActiveBuffsHaveEnchantedEffects: {
+	Label: "[i:1067] 激活的Buff物品具有附魔特效"
+	Tooltip:
+		'''
+		切换启用是否让激活的Buff物品具有类似《我的世界》附魔特效
+		你可以修改“主要客户端设置”的“闪光颜色”来改变附魔特效的颜色
+		'''
+}
+
+ActiveBannersHaveEnchantedEffects: {
+	Label: "[i:1067] 激活的旗帜具有附魔特效"
+	Tooltip:
+		'''
+		切换启用是否让激活的旗帜具有类似《我的世界》附魔特效
+		你可以修改“主要客户端设置”的“闪光颜色”来改变附魔特效的颜色
+		'''
+}
+
+IncreaseMaxStack: {
+	Label: "[i:2] 物品最大堆叠量"
+	Tooltip:
+		'''
+		更改可堆叠物品的最大堆叠量
+		最大值可设为 99999
+		'''
+}
+
+UtilityAccessoriesWorkInBanks: {
+	Label: "[i:3084] 实用饰品在个人存储中生效"
+	Tooltip:
+		'''
+		切换启用是否让实用饰品在个人存储中生效
+		适用于以下饰品：
+		 - 信息类饰品
+		 - 电线类饰品和大型设计图
+		 - 建筑类饰品
+		 - 钓鱼类饰品
+		 - 某些杂项饰品
+		 - 许多符合这些类别的模组饰品
+		'''
+}
+
+FountainsWorkFromInventories: {
+	Label: "[i:909] 喷泉在物品栏生效"
+	Tooltip: 切换启用是否让喷泉在你的物品栏或个人存储中激活对应环境
+}
+
+StackableQuestItems: {
+	Label: "[i:2452] 任务物品可堆叠"
+	Tooltip: 切换启用是否让 任务物品 可被堆叠
+}
+
+NonConsumableKeys: {
+	Label: "[i:329] 不消耗钥匙"
+	Tooltip: 切换启用是否让 暗影钥匙/金撬锁器 在作为制作材料时会被消耗
+}
+
+BossItemTransmutation: {
+	Label: "[i:5349] Boss掉落物微光嬗变"
+	Tooltip: 切换启用是否让Boss掉落物能在微光中循环转换
+}
+
+ItemConversions: {
+	Label: "[i:86] 物品转换配方和微光嬗变"
+	Tooltip:
+		'''
+		切换启用是否将简易物品转化加入配方
+		部分物品微光转换也受该设置影响
+		'''
+}
+
+EasierRecipes: {
+	Label: "[i:1683] 简易配方"
+	Tooltip:
+		'''
+		切换启用是否加入更简单的物品获取配方
+		加入如下配方：
+		 - Boss掉落物： 使用Boss宝藏袋
+		 - 敌怪掉落物： 使用对应旗帜
+		 - 宝箱战利品： 使用宝匣/钥匙
+		 - 宝匣战利品： 使用宝匣
+		'''
+}
+
+EmblemLooping: {
+	Label: "[i:490] 职业徽章循环转换"
+	Tooltip:
+		'''
+		切换启用是否让职业徽章可通过配方循环转换
+		如果你启用了很多模组，可能需要一段时间才能获得你想要的徽章
+		'''
+}
+
+PortableStations: {
+	Label: "[i:36] 便捷制作站"
+	Tooltip: 切换启用是否让制作站可以在物品栏或个人存储中生效
+}
+
+NoDeveloperSetsFromBossBags: {
+	Label: "[i:3287] Boss宝藏袋无开发者套装"
+	Tooltip: 切换启用是否让Boss宝藏袋不掉落开发者套装
+}
+
+EnemiesDropMoreCoins: {
+	Label: "[i:855] 敌人掉落更多钱币"
+	Tooltip:
+		'''
+		加倍从敌怪掉落钱币数量
+		数值越高，掉落的钱币越多
+		'''
+}
+
+EncumberingStoneAllowsCoins: {
+	Label: "[i:4346] 负重石允许拾起钱币"
+	Tooltip: 切换启用是否让负重石在激活时允许拾起钱币
+}
+
+AutoMoneyQuickStack: {
+	Label: "[i:87] 自动快速堆叠钱币"
+	Tooltip:
+		'''
+		切换启用是否让钱币自动存放入你的猪猪存钱罐中
+		即使你的物品栏中没有钱币，商人仍然可以入住
+		'''
+}
+
+GoldenCarpDelight: {
+	Label: "[i:2308] 金鲤鱼可以制作金美味"
+	Tooltip: 切换启用是否让金鲤鱼可以用来制作金美味
+}
+
+EasierUniversalPylon: {
+	Label: "[i:4951] 可制作万能晶塔"
+	Tooltip: 切换启用是否让万能晶塔可以被制作
+}
+
+FurnitureRecipes: {
+	Label: "[i:1461] 缺失家具配方"
+	Tooltip:
+		'''
+		切换启用是否为以下家具组加入配方：
+		 - 黑曜石家具
+		 - 蓝色地牢家具
+		 - 绿色地牢家具
+		 - 粉色地牢家具
+		 - 金家具
+		'''
+}
+
+AutoReuseUpgrades: {
+	Label: "[i:29] 自动重复使用永久提升物品"
+	Tooltip: 切换启用是否让自动连点与多数永久提升物品（如生命水晶）一起生效
+}
+
+GoodPrefixesHaveEnchantedEffects: {
+	Label: "[i:1067] 好前缀物品具有附魔特效"
+	Tooltip: 切换启用是否让具有好前缀的物品具有类似《我的世界》的附魔特效
+}
+
+ReworkReforging: {
+	Label: "[i:1291] 重铸重做"
+	Tooltip: 切换启用是否将重铸功能重做为类似《灾厄》模组的版本
+}
+
+FullyDisableRecipes: {
+	Label: "[i:3507] 完全禁用模组配方"
+	Tooltip:
+		'''
+		切换启用是否完全禁用模组配方
+		影响包括：
+		 - Boss宝藏袋配方
+		 - 宝匣配方
+		 - 旗帜配方
+		 - 摸彩袋配方（如[i:3093]、[i:4345]）
+		 - 同级物品配方（如[i:4714]和[i:4607]）
+		 - 转换配方
+		'''
+}
+
+BlackMarketDealerCanSpawn: {
+	Label: "[i:4413] 黑市商人可以入住"
+	Tooltip: 切换启用是否让黑市商人可以入住
+}
+
+EtherealCollectorCanSpawn: {
+	Label: "[i:4412] 飘灵收藏家可以入住"
+	Tooltip: 切换启用是否让飘灵收藏家可以入住
+}
+
+RemoveBiomeShopRequirements: {
+	Label: "[i:4766] 移除商店环境需求"
+	Tooltip:
+		'''
+		切换启用是否移除商店某些物品需要访问特定环境才能解锁的条件
+		启用后会永久影响这个世界
+		（疑似不生效）
+		'''
+}
+
+TownNPCsDontDie: {
+	Label: "[i:1175] 城镇NPC不会受到伤害"
+	Tooltip:
+		'''
+		切换启用是否让城镇NPC受到伤害
+		他们依旧会被熔岩和玩家攻击杀死
+		'''
+}
+
+FastTownNPCSpawns: {
+	Label: "[i:17] 城镇NPC快速生成"
+	Tooltip:
+		'''
+		' 
+		改变城镇NPC的生成速度
+		数值越高，生成速度越快
+		'''
+}
+
+TownNPCSpawnImprovements: {
+	Label: "[i:985] 城镇NPC无需被拯救即可入住"
+	Tooltip:
+		'''
+		允许城镇NPC无需被拯救即可入住
+		包括：
+		 - 渔夫
+		 - 高尔夫球手
+		 - 发型师
+		 - 哥布林工匠
+		 - 酒馆老板
+		 - 机械师
+		 - 巫师
+		 - 税收官
+		'''
+}
+
+NoTownSlimes: {
+	Label: "[i:23] 移除城镇史莱姆"
+	Tooltip: 阻止城镇史莱姆入住
+}
+
+TownNPCsLiveInEvil: {
+	Label: "[i:61] 城镇NPC可以在邪恶环境中居住"
+	Tooltip: 切换启用是否让城镇NPC可以在腐化或猩红环境中居住
+}
+
+DisableHappiness: {
+	Label: "[i:58] 禁用城镇NPC幸福度"
+	Tooltip: 切换禁用城镇NPC的幸福度机制
+}
+
+OverridePylonSales: {
+	Label: "[i:4876] 强制售卖晶塔"
+	Tooltip: 切换启用是否让NPC总是售卖晶塔
+}
+
+HappinessPriceChange: {
+	Label: "[i:74] 幸福价格倍率调整"
+	Tooltip:
+		'''
+		改变城镇NPC的价格倍率
+		数值越低，NPC越幸福
+		仅在幸福度机制被禁用时生效
+		'''
+}
+
+ReforgePriceChange: {
+	Label: "[i:73] 重铸价格倍率调整"
+	Tooltip:
+		'''
+		改变重铸物品时的价格倍率
+		数值越高，重铸价格越便宜
+		'''
+}
+
+AnglerQuestInstantReset: {
+	Label: "[i:2374] 渔夫任务立刻刷新"
+	Tooltip: 切换启用是否让渔夫任务在完成后立刻刷新
+}
+
+LunarPillarShieldHeath: {
+	Label: "[i:3539] 天界柱护盾值"
+	Tooltip:
+		'''
+		改变天界柱的护盾值
+		数值越低，护盾值越少
+		'''
+}
+
+LunarPillarsDropMoreFragments: {
+	Label: "[i:3458] 更多月亮碎片"
+	Tooltip: 切换启用是否让天界柱掉落更多碎片
+}
+
+LunarEnemiesDropFragments: {
+	Label: "[i:3456] 天界柱敌怪掉落碎片"
+	Tooltip: 切换启用是否让天界柱生成的敌怪掉落碎片
+}
+
+JellyfishDropGel: {
+	Label: "[i:2436] 水母掉落凝胶"
+	Tooltip: 切换启用是否让水母掉落凝胶
+}
+
+PinkJellyfishDropPinkGel: {
+	Label: "[i:2438] 粉色水母掉落粉色凝胶"
+	Tooltip: 切换启用是否让粉色水母掉落粉色凝胶
+}
+
+OneKillForBestiaryEntries: {
+	Label: "[i:583] 一次击杀解锁图鉴条目"
+	Tooltip: 切换启用是否一次击杀解锁该敌怪的完整图鉴条目
+}
+
+LavaSlimesDontDropLava: {
+	Label: "[i:207] 熔岩史莱姆生成熔岩"
+	Tooltip: 切换启用是否让熔岩史莱姆在专家及以上模式下生成熔岩
+}
+
+ExtraDefenderMedalDrops: {
+	Tooltip: 切换启用是否让 [i:3828]撒旦军队 小Boss掉落护卫奖章
+	Label: "[i:3817] 额外护卫奖章掉落"
+}
+
+RelicsInExpert: {
+	Tooltip:
+		'''
+		切换启用是否在专家模式下掉落大师模式的物品
+		影响所有大师模式专属物品
+		'''
+	Label: "[i:4924] 专家模式掉落大师模式物品"
+}
+
+NoSpawnsDuringBosses: {
+	Label: "[i:2324] Boss战无敌怪生成"
+	Tooltip: 切换启用是否在Boss战期间生成敌怪
+}
+
+NoNaturalBossSpawns: {
+	Label: "[i:560] Boss不再自然生成"
+	Tooltip:
+		'''
+		切换启用是否让Boss自然生成
+		禁用自然生成的Boss包括：
+		 - 克苏鲁之眼
+		 - 双子魔眼
+		 - 毁灭者
+		 - 机械骷髅王
+		'''
+}
+
+ExtraLures: {
+	Label: "[i:5139] 额外鱼线"
+	Tooltip: 改变钓鱼竿投掷的浮标数量
+}
+
+MobileStoragesFollowThePlayer: {
+	Label: "[i:3213] 移动存储跟随玩家"
+	Tooltip: 切换启用是否让移动存储跟随玩家
+}
+
+NoFallingSandDamage: {
+	Label: "[i:169] 坠落方块无伤害"
+	Tooltip:
+		'''
+		切换启用是否让坠落方块不伤害玩家（如[i:169]）
+		无法免疫窒息伤害
+		'''
+}
+
+NoLittering: {
+	Label: "[i:169] 无物块垃圾"
+	Tooltip:
+		'''
+		切换启用是否让沙块、泥沙块和墓碑弹幕能够放置其物块
+		（疑似无效果）
+		'''
+}
+
+NoLarvaBreak: {
+	Label: "[i:1133] 蜂王的幼虫只能被挖掘破坏"
+	Tooltip:
+		'''
+		切换启用是否让蜂王的幼虫只能被挖掘破坏
+		不会被火把、挥舞武器或武器弹幕破坏
+		'''
+}
+
+PurificationPowderCleansesWalls: {
+	Label: "[i:66] 净化粉能净化墙壁"
+	Tooltip:
+		'''
+		切换启用是否让净化粉能净化墙壁
+		仅能净化原版墙壁
+		'''
+}
+
+IncreasePlaceSpeed: {
+	Label: "[i:2214] 提高物块放置速度"
+	Tooltip: 提高物块放置速度
+}
+
+IncreasePlaceRange: {
+	Label: "[i:2215] 提高物块放置距离"
+	Tooltip: 提高物块放置距离
+}
+
+IncreaseToolSpeed: {
+	Label: "[i:1] 增加工具使用速度"
+	Tooltip: 增加工具使用速度
+}
+
+FasterExtractinator: {
+	Label: "[i:997] 更快的提炼机"
+	Tooltip: 切换启用是否让提炼机能够更快提炼
+}
+
+ExtraBuffSlots: {
+	Label: "[i:296] 额外Buff栏"
+	Tooltip: 改变可用Buff栏的数量
+}
+
+KeepBuffsOnDeath: {
+	Tooltip: 切换启用是否让增益在死亡后仍然保留
+	Label: "[i:4870] 死亡保留增益"
+}
+
+KeepDebuffsOnDeath: {
+	Tooltip: 切换启用是否让减益在死亡后仍然保留
+	Label: "[i:4870] 死亡保留减益"
+}
+
+InfiniteSliceOfCake: {
+	Tooltip: 切换启用是否让糖果冲刺增益像其他增益站一样无限持续
+	Label: "[i:3750] 无限蛋糕块增益"
+}
+
+HideBuffs: {
+	Label: "[i:298] 隐藏Buff"
+	Tooltip:
+		'''
+		切换启用是否隐藏Buff的显示
+		减益、召唤物、坐骑和宠物仍然显示
+		'''
+}
+
+RegrowthAutoReplant: {
+	Label: "[i:213] 再生法杖重种草药"
+	Tooltip:
+		'''
+		允许再生法杖和再生之斧自动重种被收获的草药
+		允许再生之斧重种被收获的宝石果
+		'''
+}
+
+LifeformAnalyzerPointer: {
+	Label: "[i:3118] 生命体分析机指针"
+	Tooltip: 切换启用使用生命体分析机时显示指向稀有生物的箭头
+}
+
+NoExpertIceWaterChilled: {
+	Label: "[i:664] 冰水不造成[C/99D9EA:冷冻]减益"
+	Tooltip: 在专家及以上难度，使你免疫冰雪环境中水施加的[C/99D9EA:冷冻]减益
+}
+
+NoShimmerSink: {
+	Tooltip: 切换启用是否在微光下不获得[C/A6B5F7:微光闪烁]减益
+	Label: "[i:5364] 无微光闪烁"
+}
+
+AutoTeams: {
+	Label: "[i:3621] 自动加入团队"
+	Tooltip:
+		'''
+		当连接到多人游戏时，自动加入所选的团队
+		0 = 禁用
+		1 = 红色
+		2 = 绿色
+		3 = 蓝色
+		4 = 黄色
+		5 = 粉色
+		'''
+}
+
+AllHairStylesAvailable: {
+	Label: "[i:1990] 解锁全部发型"
+	Tooltip:
+		'''
+		切换启用是否在角色创建时所有发型均可用
+		（部分发型需在击败世纪之花、火星暴乱和月亮领主后解锁）
+		'''
+}
+
+NoTombstoneDrops: {
+	Label: "[i:321] 无墓碑掉落"
+	Tooltip: 切换启用是否在死亡时不掉落墓碑
+}
+
+HellstoneSpelunker: {
+	Label: "[i:174] 狱石能被洞穴探险增益高亮"
+	Tooltip: 切换启用是否让狱石在洞穴探险增益下被高亮显示
+}
+
+DangersenseIgnoresThinIce: {
+	Label: "[i:4391] 危险感增益忽略薄冰"
+	Tooltip: 切换启用是否让危险感增益对薄冰进行高亮显示
+}
+
+DangersenseHighlightsSiltAndSlush: {
+	Label: "[i:424] 危险感增益高亮泥沙块和雪泥块"
+	Tooltip: 切换启用是否让危险感增益高亮泥沙块和雪泥块
+}
+
+AutoFishing: {
+	Label: "[i:2294] 自动钓鱼"
+	Tooltip: 切换启用自动钓鱼
+}
+
+NoLakeSizePenalty: {
+	Label: "[i:3031] 池子大小无渔力惩罚"
+	Tooltip: 切换启用是否让鱼可以在任何大小的池子中被钓到
+}
+
+NoPylonTeleportRestrictions: {
+	Label: "[i:4951] 晶塔无传送限制"
+	Tooltip:
+		'''
+		切换启用是否让晶塔传送不受限制
+		无需NPC、对应环境或处于Boss战也可以传送
+		'''
+}
+
+NoPylonPlacementRestrictions: {
+	Label: "[i:4951] 晶塔无放置限制"
+	Tooltip:
+		'''
+		切换启用是否让晶塔放置不受限制
+		允许摆放多个同种晶塔
+		'''
+}
+
+InstantRespawn: {
+	Label: "[i:583] 立刻复活"
+	Tooltip:
+		'''
+		切换启用立刻复活，若启用死亡时会使所有敌对NPC消失
+		仅在单人游戏中生效！
+		'''
+}
+
+FullHealthRespawn: {
+	Label: "[i:29] 满血复活"
+	Tooltip: 切换启用是否在复活后处于满生命值和魔力值
+}
+
+WingSlot: {
+	Label: "[i:4978] 翅膀栏"
+	Tooltip: 切换启用一个用于翅膀的饰品栏
+}
+
+BootSlot: {
+	Label: "[i:54] 靴子栏"
+	Tooltip: 切换启用一个用于靴子的饰品栏
+}
+
+ShieldSlot: {
+	Label: "[i:156] 盾牌栏"
+	Tooltip: 切换启用一个用于盾牌的饰品栏
+}
+
+ExpertSlot: {
+	Label: "[i:3335] 专家栏"
+	Tooltip: 切换启用一个用于专家专属饰品的饰品栏
+}
+
+MapTeleporting: {
+	Label: "[i:2351] 地图传送"
+	Tooltip: 切换启用是否可以通过全屏地图右键点击传送对应位置
+}
+
+DisableEvilBiomeSpread: {
+	Label: "[i:59] 禁用环境扩散"
+	Tooltip: 切换禁用腐化、猩红和神圣环境的扩散
+}
+
+FountainsCauseBiomes: {
+	Label: "[i:909] 喷泉激活对应环境"
+	Tooltip: 切换启用是否在靠近喷泉时激活其对应的环境
+}
+
+FastTreeGrowth: {
+	Label: "[i:27] 加速树木生长"
+	Tooltip: 切换启用是否让树木更快生长
+}
+
+FastHerbGrowth: {
+	Label: "[i:313] 加速草药生长"
+	Tooltip: 切换启用是否让草药更快生长
+}
+
+TreesDropMoreWhenShook: {
+	Label: "[i:4856] 摇树掉落更多物品"
+	Tooltip: 切换启用是否让摇树掉落更多的果实和宝石
+}
+
+HeartCrystalGlow: {
+	Label: "[i:29] 生命水晶发光"
+	Tooltip: 切换启用是否让放置的生命水晶发光
+}
+
+LifeFruitGlow: {
+	Label: "[i:1291] 生命果发光"
+	Tooltip: 切换启用是否让放置的生命果发光
+}
+
+BreakAllDungeonBricks: {
+	Label: "[i:134] 破裂地牢砖块全部掉落"
+	Tooltip: 切换启用是否让所有破裂的地牢砖块在其中一个被破坏时全部掉落
+}
+
+BombableHardmodeOres: {
+	Label: "[i:167] 困难模式矿石可被炸掉"
+	Tooltip:
+		'''
+		切换启用是否让困难模式矿石在击败所有机械Boss后可以被炸掉
+		击败世纪之花后可以炸掉叶绿矿
+		'''
+}
+
+MoreFallenStars: {
+	Label: "[i:75] 更多落星"
+	Tooltip:
+		'''
+		增加落星的数量
+		范围 1-500，正常数值为 1
+		数值越大，落星越多
+		'''
+}
+
+NoMeteorSpawns: {
+	Tooltip:
+		'''
+		切换启用是否让陨石不再自然坠落
+		如果有一颗陨石要坠落，你会直接获得所有陨石矿
+		'''
+	Label: "[i:116] 不生成陨石"
+}
+
+ChristmasActive: {
+	Tooltip: 切换启用圣诞节事件
+	Label: "[i:1958] 圣诞节事件"
+}
+
+HalloweenActive: {
+	Tooltip: 切换启用万圣节事件
+	Label: "[i:1844] 万圣节事件"
+}
+
+DisableCredits: {
+	Tooltip: 切换启用是否在击败月亮领主后不显示制作人员名单
+	Label: "[i:264] 禁用制作人员名单"
+}

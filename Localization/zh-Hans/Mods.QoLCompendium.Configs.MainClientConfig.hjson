@@ -1,0 +1,57 @@
+DisplayName: 主要客户端设置
+
+FavoriteResearching: {
+	Tooltip: 切换启用是否自动研究被收藏的物品，如果它们满足堆叠数量满足需求
+	Label: "[i:75] 自动研究被收藏的物品"
+}
+
+NoAuraVisuals: {
+	Label: "[i:2348] 光环可视化"
+	Tooltip:
+		'''
+		切换启用是否某些光环效果可见
+		适用于:
+		 - 狱火药水光环
+		 - 特斯拉药水光环 （《灾厄》）
+		'''
+}
+
+CombatTextLimit: {
+	Label: "[i:3119] 战斗文本限制大小"
+	Tooltip:
+		'''
+		改变显示的战斗文本的数量上限
+		（战斗文本是指攻击敌怪跳出的伤害数字以及治疗药水恢复的数字）
+		'''
+}
+
+DisableDashDoubleTap: {
+	Label: "[i:3097] 禁用双击冲刺"
+	Tooltip:
+		'''
+		切换启用是否可以双击冲刺
+		避免某些场景误触
+		'''
+}
+
+GlintColor: {
+	Tooltip: 改变物品闪光特效的颜色
+	Label: "[i:1067] 闪光颜色"
+}
+
+ConfigGlintID: {
+	Rainbow.Label: 彩虹色
+	Pink.Label: 粉色
+	Magenta.Label: 紫红色
+	Purple.Label: 紫色
+	SkyBlue.Label: 天蓝色
+	Cyan.Label: 青色
+	Blue.Label: 蓝色
+	Lime.Label: 橙绿色
+	Green.Label: 绿色
+	Yellow.Label: 黄色
+	Orange.Label: 橙色
+	Red.Label: 红色
+	White.Label: 白色
+	Tooltip: ""
+}

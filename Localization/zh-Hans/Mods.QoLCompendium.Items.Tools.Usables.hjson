@@ -1,0 +1,130 @@
+BannerBox: {
+	DisplayName: 旗帜盒
+	Tooltip:
+		'''
+		自动应用背包收纳的旗帜效果
+		在任意个人存储中生效
+		'''
+}
+
+BottomlessLiquidBucket: {
+	DisplayName: 无底流体桶
+	Tooltip:
+		'''
+		装满无尽的流体
+		可以被倒出
+		右键点击该物品切换流体类型
+		'''
+}
+
+ChallengersCoin: {
+	DisplayName: 挑战者硬币
+	Tooltip:
+		'''
+		左键使用 改变世界的难度
+		右键使用 切换旅行模式
+		'''
+}
+
+DestinationGlobe: {
+	DisplayName: 环境地球仪
+	Tooltip:
+		'''
+		左键使用 切换所处环境
+		收藏该物品永久处于所选的环境
+		'''
+}
+
+EntityManipulator: {
+	DisplayName: 实体操纵仪
+	Tooltip:
+		'''
+		左键使用 切换生成率倍率调整
+		收藏该物品激活所选的生成率调整
+		'''
+}
+
+GoldenLockpick: {
+	DisplayName: 金撬锁器
+	Tooltip: 打开所有的上锁金箱和金锁盒
+}
+
+GoldenPowder: {
+	DisplayName: 金粉
+	Tooltip: 将动物转变为对应的金版本
+}
+
+MiniSundial: {
+	DisplayName: 迷你日晷
+	Tooltip:
+		'''
+		左键使用 改变时间
+		分别在 黎明、正午、黄昏和午夜 之间切换
+		右键使用 加速时间到下一个 4:30a.m 和 7:30p.m
+		'''
+}
+
+PhaseInterrupter: {
+	DisplayName: 月相中断器
+	Tooltip: 左键使用选择月相
+}
+
+PotionCrate: {
+	DisplayName: 药水箱
+	Tooltip:
+		'''
+		空手右键点击取走存入的药水
+		在任意个人存储中生效
+		'''
+}
+
+RestockNotice: {
+	DisplayName: 补货通知
+	Tooltip: 刷新旅商的商店物品
+}
+
+SkeletonRucksack: {
+	DisplayName: 骷髅背包
+	Tooltip: 召唤骷髅商人
+}
+
+StarterBag: {
+	DisplayName: 新手礼包
+	Tooltip:
+		'''
+		右键点击获得你是设置的初始物品
+		确定你在“物品设置”中设置出事物品！
+		'''
+}
+
+SuperDummy: {
+	DisplayName: 超级假人
+	Tooltip:
+		'''
+		在你的光标位置召唤一个漂浮的超级假人
+		召唤物和追踪弹幕会攻击他
+		能够触发命中效果
+		右键使用 移除所有的超级假人
+		一次最多生成100个超级假人
+		'''
+}
+
+TravelersMannequin: {
+	DisplayName: 旅商的人体模型
+	Tooltip: 召唤旅商
+}
+
+UltimateChecklist: {
+	DisplayName: 终极清单
+	Tooltip:
+		'''
+		左键使用 解锁所有研究复制物品
+		右键使用 解锁所有图鉴条目
+		无法撤销使用后的效果
+		'''
+}
+
+WatchingEye: {
+	DisplayName: 注视之眼
+	Tooltip: 点亮整个地图
+}

@@ -1,0 +1,47 @@
+CursedMirror: {
+	DisplayName: 诅咒魔镜
+	Tooltip: 传送你至最后的死亡地点
+}
+
+MirrorOfReturn: {
+	DisplayName: 返回魔镜
+	Tooltip:
+		'''
+		将你传送回出生点或重生点并创建一个传送门
+		使用传送门可回到使用魔镜的地方
+		'''
+}
+
+MosaicMirror: {
+	DisplayName: 复合魔镜
+	Tooltip:
+		'''
+		右键点击该物品切换传送目标
+		显示该模组提供的所有额外信息
+		将你传送至城镇NPC或你的队友附近
+		在全屏地图上点击他们的图标即可传送
+		'''
+}
+
+TeleportationMirror: {
+	DisplayName: 传送魔镜
+	Tooltip: 将你传送至随机位置
+}
+
+WarpMirror: {
+	DisplayName: 扭曲魔镜
+	Tooltip:
+		'''
+		将你传送至城镇NPC附近
+		在全屏地图上点击他们的图标即可传送
+		'''
+}
+
+WormholeMirror: {
+	DisplayName: 虫洞魔镜
+	Tooltip:
+		'''
+		将你传送至你的队友附近
+		在全屏地图上点击他们的图标即可传送
+		'''
+}

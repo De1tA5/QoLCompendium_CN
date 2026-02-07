@@ -1,0 +1,62 @@
+SkyPylon: {
+	DisplayName: 天空晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
+
+HellPylon: {
+	DisplayName: 地狱晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
+
+DungeonPylon: {
+	DisplayName: 地牢晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
+
+CrimsonPylon: {
+	DisplayName: 猩红晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
+
+CorruptionPylon: {
+	DisplayName: 腐化晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
+
+TemplePylon: {
+	DisplayName: 丛林神庙晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
+
+AetherPylon: {
+	DisplayName: 以太晶塔
+	Tooltip:
+		'''
+		无需城镇居民即可进行传送
+		只能放置在匹配的环境中且每种类型只能放置一个
+		'''
+}
