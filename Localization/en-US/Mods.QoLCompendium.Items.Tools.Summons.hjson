@@ -33,6 +33,11 @@ EmpressOfLightSummon: {
 	Tooltip: Summons the Empress of Light
 }
 
+GolemSummon: {
+	DisplayName: Overgrown Power Cell
+	Tooltip: Summons Golem
+}
+
 PlanteraSummon: {
 	DisplayName: Lush Hibiscus
 	Tooltip: Summons Plantera

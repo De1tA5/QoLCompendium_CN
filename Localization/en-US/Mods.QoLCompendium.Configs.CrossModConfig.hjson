@@ -39,12 +39,13 @@ CalamityEffigyRecipes: {
 }
 
 CalamityCrateDropRevert: {
-	Label: "[i:3981] Remove Calamity Crate Nerf"
-	Tooltip:
-		'''
-		Toggles if crates are reverted back to their pre-nerf state when using Calamity
-		Hardmode ores are still locked behind reworked progression!
-		'''
+	Label: "[i:3981] Undo Calamity Crate Nerf"
+	Tooltip: Toggles if crates are reverted back to their pre-nerf state when using Calamity
+}
+
+MoreCrateDrops: {
+	Label: "[i:3979] More Crate Drops"
+	Tooltip: Toggles if more crate drops are added for various mods
 }
 
 RemoveThoriumExhaustion: {

@@ -884,3 +884,93 @@ EndlessBloodshotPouch: {
 	Tooltip: ""
 	DisplayName: Endless Bloodshot Pouch
 }
+
+EndlessForceBreakQuiver: {
+	DisplayName: Endless Force Break Quiver
+	Tooltip: ""
+}
+
+EndlessDivineFireBulletPouch: {
+	DisplayName: Endless Divine Fire Bullet Pouch
+	Tooltip: ""
+}
+
+EndlessForceBreakBulletPouch: {
+	DisplayName: Endless Force Break Bullet Pouch
+	Tooltip: ""
+}
+
+EndlessMartyrBulletPouch: {
+	DisplayName: Endless Martyr's Bullet Pouch
+	Tooltip: ""
+}
+
+EndlessPlagueBulletPouch: {
+	DisplayName: Endless Plague Bullet Pouch
+	Tooltip: ""
+}
+
+EndlessSteelBulletPouch: {
+	DisplayName: Endless Steel Bullet Pouch
+	Tooltip: ""
+}
+
+EndlessRailgunBattery: {
+	DisplayName: Endless Railgun Battery
+	Tooltip: ""
+}
+
+EndlessMiniNukeIIIPouch: {
+	DisplayName: Endless Mini Nuke III Pouch
+	Tooltip: ""
+}
+
+EndlessMiniNukeIVPouch: {
+	DisplayName: Endless Mini Nuke IV Pouch
+	Tooltip: ""
+}
+
+EndlessShellIIIPouch: {
+	DisplayName: Endless Shell III Pouch
+	Tooltip: ""
+}
+
+EndlessShellIIPouch: {
+	DisplayName: Endless Shell II Pouch
+	Tooltip: ""
+}
+
+EndlessShellIPouch: {
+	DisplayName: Endless Shell I Pouch
+	Tooltip: ""
+}
+
+EndlessShellIVPouch: {
+	DisplayName: Endless Shell IV Pouch
+	Tooltip: ""
+}
+
+EndlessShellVPouch: {
+	DisplayName: Endless Shell V Pouch
+	Tooltip: ""
+}
+
+EndlessT1MissilePouch: {
+	DisplayName: Endless T.1 Missile Pouch
+	Tooltip: ""
+}
+
+EndlessT2MissilePouch: {
+	DisplayName: Endless T.2 Missile Pouch
+	Tooltip: ""
+}
+
+EndlessT3MissilePouch: {
+	DisplayName: Endless T.3 Missile Pouch
+	Tooltip: ""
+}
+
+EndlessT4MissilePouch: {
+	DisplayName: Endless T.4 Missile Pouch
+	Tooltip: ""
+}
