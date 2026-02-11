@@ -1,107 +1,112 @@
 DisplayName: 跨模组设置
 
 AFKPetsCropFix: {
-	Label: "[i:369] AFKPets Crops No Tile Cut"
-	Tooltip: Toggles if AFKPets crops can be broken by projectiles or melee swings
+	Label: "[i:369] [C/2C7C4B:AFKPets] - 作物能被快速破坏"
+	Tooltip: 切换启用是否让AFKPets的作物能被弹幕或近战挥舞破坏
 }
 
 AFKPetsFasterCropGrowth: {
-	Label: "[i:369] AFKPets Faster Crop Growth"
-	Tooltip: Toggles if AFKPets crops grow faster
+	Label: "[i:369] [C/2C7C4B:AFKPets] - 作物快速成长"
+	Tooltip: 切换启用是否让AFKPets的作物能更快成长
 }
 
 AFKPetsRegrowthReplant: {
-	Label: "[i:369] AFKPets Crop Replanting"
-	Tooltip: Toggles if AFKPets crops are able to be replanted when harvested by the Staff or Axe of Regrowth
+	Label: "[i:369] [C/2C7C4B:AFKPets] - 作物重种"
+	Tooltip: 切换启用是否让AFKPets的作物在被再生法杖或再生之斧收获时自动重种
 }
 
 CrystalDragonsTopazPrefixFix: {
-	Label: "[i:509] Crystal Dragons Topaz Prefix Fix"
+	Label: "[i:509] Crystal Dragons - 黄玉龙前缀修复"
 	Tooltip:
 		'''
-		Toggles if Topaz Dragon prefixes are removed when not using the Topaz race
-		Only really noticeable with mods such as AutoReforge
+		切换启用是否在未使用黄玉龙种族属性时，移除该种族的前缀
+		只有在像 自动重铸 这样的模组中才能被明显察觉
 		'''
 }
 
 MrPlagueRacesPrefixFix: {
-	Label: "[i:509] Mr Plague's Races Goblin Prefix Fix"
+	Label: "[i:509] [c/ef507c:MrPlague's Authentic Races] - 哥布林前缀修复"
 	Tooltip:
 		'''
-		Toggles if Goblin race prefixes are removed when not using race stats
-		Only really noticeable with mods such as AutoReforge
+		切换启用是否在未使用哥布林种族属性时，移除该种族的前缀
+		只有在像 自动重铸 这样的模组中才能被明显察觉
 		'''
 }
 
 CalamityEffigyRecipes: {
-	Label: "[i:35] Calamity Effigy Recipes"
-	Tooltip: Toggles if recipes are added for the Crimson and Corruption Effigies
+	Label: "[i:35] [C/AB1B1B:灾厄] - 雕像配方"
+	Tooltip: 切换启用是否为腐化雕像和血腥雕像添加配方
 }
 
 CalamityCrateDropRevert: {
-	Label: "[i:3981] Remove Calamity Crate Nerf"
+	Label: "[i:3981] [C/AB1B1B:灾厄] - 取消宝匣削弱"
+	Tooltip: 切换启用是否在启用灾厄时，让宝匣回退至未削弱前版本的效果
+}
+
+MoreCrateDrops: {
+	Label: "[i:3979] 更多宝匣掉落"
 	Tooltip:
 		'''
-		Toggles if crates are reverted back to their pre-nerf state when using Calamity
-		Hardmode ores are still locked behind reworked progression!
+		切换启用是否为各个模组增加更多宝匣掉落
+		[C/959595:译者补充:经源码查询和反编译，该选项没对应代码意味着没有任何用处]
 		'''
 }
 
 RemoveThoriumExhaustion: {
-	Label: "[i:509] Remove Thorium Exhaustion"
-	Tooltip: Toggles if Thorium thrower weapons have the exhaustion mechanic removed
+	Label: "[i:509] [C/00E5FF:瑟银] - 移除疲劳值"
+	Tooltip: 切换启用是否将瑟银投手武器的疲劳值机制移除
 }
 
 RemoveThoriumExhaustionTooltip: {
-	Label: "[i:279] Remove Thorium Exhaustion Tooltip"
-	Tooltip: Toggles if Thorium thrower weapons have the exhaustion tooltip removed
+	Label: "[i:279] [C/00E5FF:瑟银] - 移除武器疲劳值文本"
+	Tooltip: 切换启用是否将瑟银投手武器的疲劳值相关文本移除
 }
 
 EndlessInspirationPotions: {
-	Label: "[i:189] Endless Inspiration Potions"
+	Label: "[i:189] [C/68FFB6:灵感药水] - 无尽灵感药水"
 	Tooltip:
 		'''
-		Toggles endless Inspiration Potions
-		'Inspiration Potions - Thorium' is a Thorium addon!
+		切换启用无尽灵感药水
+		“Inspiration Potions - Thorium”是瑟银的一个附属模组！
 		'''
 }
 
 EndlessInspirationPotionsAmount: {
-	Label: "[i:161] Endless Inspiration Potions Amount"
-	Tooltip: Change the amount of items needed for endless Inspiration Potions
+	Label: "[i:161] [C/68FFB6:灵感药水] - 无尽所需数量"
+	Tooltip: 更改 无尽灵感药水 所需的物品数量
 }
 
 CalamityEntropyArmorPrefixesHaveEnchantedEffects: {
-	Label: "[i:1067] Calamity Entropy Armor Prefixes Have Enchanted Effects"
-	Tooltip: Toggles if Calamity Entropy Armor Prefixes have an enchanted effect, like Minecraft
+	Label: "[i:1067] [C/9E22E7:灾熵] - 盔甲前缀具有附魔特效"
+	Tooltip: 切换启用是否让 灾熵有前缀的盔甲具有类似《我的世界》附魔特效
 }
 
 ShimmerableAnglerCoins: {
-	Label: "[i:73] Shimmerable Homeward Journey Angler Coins"
-	Tooltip: Toggles if Gold Angler Coins can be shimmered into Silver Angler Coins
+	Label: "[i:73] [C/FCE65B:旅人归途] - 垂钓者金币可微光嬗变"
+	Tooltip: 切换启用是否让 垂钓者金币能够微光嬗变为垂钓者银币
 }
 
 HomewardJourneyRarityFix: {
-	Label: "[i:509] Homeward Journey Rarity Fix"
-	Tooltip: Toggles if the Flinx Fur Hat is green rarity instead of lime
+	Label: "[i:509] [C/FCE65B:旅人归途] - 稀有度修复"
+	Tooltip: 切换启用是否将 小雪怪皮毛帽稀有度调整为[C/96FF96:绿色]而非[C/96FF0A:青柠色]
 }
 
 EndlessVoidConsumables: {
-	Label: "[i:5041] Endless Secrets of the Shadows Void Consumables"
-	Tooltip: Toggles endless void consumables
+	Label: "[i:5041] [C/C694E8:暗影奥秘] - 无尽虚空消耗品"
+	Tooltip: 切换启用无尽虚空消耗品
 }
 
 EndlessVoidConsumablesAmount: {
-	Label: "[i:161] Endless Secrets of the Shadows Void Consumables Amount"
-	Tooltip: Change the amount of items needed for endless void consumables
+	Label: "[i:161] [C/C694E8:暗影奥秘] - 无尽所需数量"
+	Tooltip: 更改 无尽虚空消耗品 所需的物品数量
 }
 
 ElementsAwokenPuffSlimes: {
-	Label: "[i:440] Elements Awoken Puff Slimes"
-	Tooltip: Toggles if Puff Slimes from Elements Awoken can spawn naturally in the forest
+	Label: "[i:440] [C/52B875:元素觉醒] - 泡芙史莱姆"
+	Tooltip: 切换启用是否让泡芙史莱姆能够在森林里自然生成
 }
 
 SpiritClassicBossSummonClassificationFix: {
-	Label: "[i:560] Spirit Classic Boss Summon Classification Fix"
-	Tooltip: Toggles if Spirit Classic boss summon items are correctly classified as boss summons
+	Label: "[i:560] [C/51BDE3:魂灵·经典] - Boss召唤物归类修复"
+	Tooltip: 切换启用是否让魂灵·经典的Boss召唤物品能被正确归类为Boss召唤物
 }

@@ -31,6 +31,11 @@ SunPedestal: {
 		'''
 }
 
+MysticMoonPedestal: {
+	DisplayName: 苍蓝秘月基座
+	Tooltip: 收藏该物品每天晚上触发[C/6790F6:苍蓝秘月]
+}
+
 Paperweight: {
 	DisplayName: 镇纸
 	Tooltip:

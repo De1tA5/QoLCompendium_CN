@@ -2,6 +2,7 @@ MosaicMirror: {
 	Mirror0: 复合魔镜 （最后死亡点）
 	Mirror1: 复合魔镜 （返回）
 	Mirror2: 复合魔镜 （随机传送）
+	Mirror3: 复合魔镜 （城镇NPC/队友）
 }
 
 Omnistaff: {
@@ -45,11 +46,11 @@ DestinationGlobe: {
 
 EntityManipulator: {
 	SpawnModifier0: 实体操纵仪 （未选择）
-	SpawnModifier1: 实体操纵仪 （增加刷怪）
-	SpawnModifier2: 实体操纵仪 （减少刷怪）
-	SpawnModifier3: 实体操纵仪 （取消刷怪）
+	SpawnModifier1: 实体操纵仪 （增加生成）
+	SpawnModifier2: 实体操纵仪 （减少生成）
+	SpawnModifier3: 实体操纵仪 （取消生成）
 	SpawnModifier4: 实体操纵仪 （取消事件）
-	SpawnModifier5: 实体操纵仪 （取消刷怪&事件）
+	SpawnModifier5: 实体操纵仪 （取消生成&事件）
 }
 
 SummoningRemote: {

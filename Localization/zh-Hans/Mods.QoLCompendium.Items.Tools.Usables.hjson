@@ -128,3 +128,12 @@ WatchingEye: {
 	DisplayName: 注视之眼
 	Tooltip: 点亮整个地图
 }
+
+SuperchargedSuperCell: {
+	DisplayName: 超级充能电池
+	Tooltip:
+		'''
+		使嘉登军械库的物品处于100%充能
+		在任意个人存储中生效
+		'''
+}

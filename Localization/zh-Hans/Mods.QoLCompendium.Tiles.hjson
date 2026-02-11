@@ -1,25 +1,25 @@
-BasicMonolithTile.MapEntry: Basic Crafting Monolith
-HardmodeMonolithTile.MapEntry: Hardmode Crafting Monolith
-LunarMonolithTile.MapEntry: Lunar Crafting Monolith
-SpecializedMonolithTile.MapEntry: Specialized Crafting Monolith
-DemonAltarTile.MapEntry: Demon Altar
-CrimsonAltarTile.MapEntry: Crimson Altar
-SkyPylonTile.MapEntry: Sky Pylon
-HellPylonTile.MapEntry: Underworld Pylon
-DungeonPylonTile.MapEntry: Dungeon Pylon
-CrimsonPylonTile.MapEntry: Crimson Pylon
-CorruptionPylonTile.MapEntry: Corruption Pylon
-AetherAltarTile.MapEntry: Aether Altar
-AetherPylonTile.MapEntry: Aether Pylon
-TemplePylonTile.MapEntry: Temple Pylon
-BasicThoriumMonolithTile.MapEntry: Basic Thorium Crafting Monolith
-ThoriumMonolithTile.MapEntry: Thorium Crafting Monolith
-HardmodeCalamityMonolithTile.MapEntry: Hardmode Calamity Crafting Monolith
-CalamityMonolithTile.MapEntry: Calamity Crafting Monolith
-BasicCalamityMonolithTile.MapEntry: Basic Calamity Crafting Monolith
-UltimateMonolithTile.MapEntry: Ultimate Crafting Monolith
-BasicHomewardJourneyMonolithTile.MapEntry: Basic Homeward Journey Crafting Monolith
-HomewardJourneyMonolithTile.MapEntry: Homeward Journey Crafting Monolith
-BasicMartinsOrderMonolithTile.MapEntry: Basic Martin's Order Crafting Monolith
-HardmodeMartinsOrderMonolithTile.MapEntry: Hardmode Martin's Order Crafting Monolith
-MartinsOrderMonolithTile.MapEntry: Martin's Order Crafting Monolith
+BasicMonolithTile.MapEntry: 基础制作柱
+HardmodeMonolithTile.MapEntry: 困难模式制作柱
+LunarMonolithTile.MapEntry: 夜明制作柱
+SpecializedMonolithTile.MapEntry: 专业制作柱
+DemonAltarTile.MapEntry: 恶魔祭坛
+CrimsonAltarTile.MapEntry: 猩红祭坛
+SkyPylonTile.MapEntry: 天空晶塔
+HellPylonTile.MapEntry: 地狱晶塔
+DungeonPylonTile.MapEntry: 地牢晶塔
+CrimsonPylonTile.MapEntry: 猩红晶塔
+CorruptionPylonTile.MapEntry: 腐化晶塔
+AetherAltarTile.MapEntry: 以太祭坛
+AetherPylonTile.MapEntry: 以太晶塔
+TemplePylonTile.MapEntry: 丛林神庙晶塔
+BasicThoriumMonolithTile.MapEntry: 瑟银基础制作柱
+ThoriumMonolithTile.MapEntry: 瑟银制作柱
+HardmodeCalamityMonolithTile.MapEntry: 灾厄困难模式制作柱
+CalamityMonolithTile.MapEntry: 灾厄制作柱
+BasicCalamityMonolithTile.MapEntry: 灾厄基础制作柱
+UltimateMonolithTile.MapEntry: 究极制作柱
+BasicHomewardJourneyMonolithTile.MapEntry: 旅人归途基础制作柱
+HomewardJourneyMonolithTile.MapEntry: 旅人归途制作柱
+BasicMartinsOrderMonolithTile.MapEntry: 马丁战律基础制作柱
+HardmodeMartinsOrderMonolithTile.MapEntry: 马丁战律困难模式制作柱
+MartinsOrderMonolithTile.MapEntry: 马丁战律制作柱

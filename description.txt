@@ -1,1 +1,10 @@
-Modify this file with a description of your mod.
+Quality of Life Compendium - 更全面的体验
+是一个集成式的优化游玩体验的模组，其包含
+-连锁挖矿
+-翅膀栏
+-盾牌栏
+-鞋子栏
+-类似懒人的体验优化物品
+-类似炼金术士的NPC
+-大量可选配置更改
+-以及超多模组的兼容

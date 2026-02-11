@@ -1,79 +1,81 @@
-SuperDummy.DisplayName: Super Dummy
+SuperDummy.DisplayName: 超级假人
 
 BMDealerNPC: {
-	DisplayName: Black Market Dealer
-	Census.SpawnCondition: No condition
+	DisplayName: 黑市商人
+	Census.SpawnCondition: 无条件
 
 	TownNPCMood: {
-		Content: This place is pretty alright.
-		NoHome: Can you please make me a house?
-		FarFromHome: How did I get here?
-		LoveSpace: This is the best place to be for sure.
-		DislikeCrowded: Too many people.
-		HateCrowded: Please move some of these people out.
-		LoveBiome: This {BiomeName} is pretty chill.
-		LikeBiome: I like {BiomeName}.
-		DislikeBiome: This {BiomeName} is too dry.
-		LoveNPC: I love when {NPCName} hands out shots.
-		LikeNPC: My friend {NPCName} has a lot of cool stuff.
-		DislikeNPC: That girl {NPCName} is too loud.
-		HateNPC: The Tax Collector, {NPCName}, gets in the way of profit.
-		LikeNPC_Princess: The Princess is cool.
-		Princess_LovesNPC: "{NPCName} is awesome!"
+		Content: 这地方挺不错的。
+		NoHome: 你能为我建栋房子吗？
+		FarFromHome: 我是怎么到这儿的？
+		LoveSpace: 毫无疑问，这里是最好的地方。
+		DislikeCrowded: 太多人了。
+		HateCrowded: 请把某些人移出去。
+		LoveBiome: "{BiomeName}颇为宁静。"
+		LikeBiome: 我喜欢{BiomeName}。
+		DislikeBiome: "{BiomeName}太干燥了。"
+		LoveNPC: 我喜欢{NPCName}来一杯的时候。
+		LikeNPC: 我朋友{NPCName}有许多酷玩意。
+		DislikeNPC: 那个女孩{NPCName}太吵了。
+		HateNPC: 税收官，{NPCName}，妨碍我赚钱了。
+		LikeNPC_Princess: 公主实在是太棒了。
+		Princess_LovesNPC: "{NPCName}非常了不起！"
 	}
 
 	ShopName: {
-		Potions: Black Market Dealer: Potions
-		"Flasks, Stations & Foods": Black Market Dealer: Flasks, Stations & Foods
-		Materials: Black Market Dealer: Materials
-		"Movement Accessories": Black Market Dealer: Movement Accessories
-		"Combat Accessories": Black Market Dealer: Combat Accessories
-		"Informative/Building Gear": Black Market Dealer: Informative/Building Gear
-		"Treasure Bags": Black Market Dealer: Treasure Bags
-		"Crates & Grab Bags": Black Market Dealer: Crates & Grab Bags
-		"Ores & Bars": Black Market Dealer: Ores & Bars
-		"Natural Blocks": Black Market Dealer: Natural Blocks
-		"Building Blocks": Black Market Dealer: Building Blocks
-		"Herbs & Plants": Black Market Dealer: Herbs & Plants
-		"Fish & Fishing Gear": Black Market Dealer: Fish & Fishing Gear
-		"Mounts & Hooks": Black Market Dealer: Mounts & Hooks
-		Ammo: Black Market Dealer: Ammo
+		PotionShop: 药水 & 食物
+		StationsAndUpgradesShop: 增益站 & 强化物品
+		MaterialShop: 制作材料
+		MobilityAccessoryShop: 移动类饰品
+		CombatAccessoryShop: 战斗类饰品
+		ToolsAndInfoShop: 工具 & 信息类装备
+		TreasureBagShop: 宝藏袋
+		CratesAndGrabBagsShop: 宝匣 & 摸彩袋
+		OresAndBarsShop: 矿石 & 锭
+		NaturalBlockShop: 自然物块
+		BuildingBlockShop: 建筑物块
+		HerbsAndPlantsShop: 草药 & 植物
+		FishShop: 鱼类相关
+		CritterShop: 小动物
+		MountsAndHooksShop: 坐骑 & 钩爪
+		AmmoShop: 弹药
+		ShopChanger: 改变商店
 	}
 }
 
 EtherealCollectorNPC: {
-	DisplayName: Ethereal Collector
-	Census.SpawnCondition: No condition
+	DisplayName: 飘灵收藏家
+	Census.SpawnCondition: 无条件
 
 	TownNPCMood: {
-		Content: This place is pretty alright.
-		NoHome: Can you please make me a house?
-		FarFromHome: How did I get here?
-		LoveSpace: This is the best place to be for sure.
-		DislikeCrowded: Too many people.
-		HateCrowded: Please move some of these people out.
-		LoveBiome: This {BiomeName} is pretty chill.
-		LikeBiome: I like {BiomeName}.
-		DislikeBiome: This {BiomeName} is too dry.
-		LoveNPC: I love when {NPCName} does her incantations.
-		LikeNPC: My friend {NPCName} has a lot of cool stuff.
-		DislikeNPC: That guy {NPCName} is too loud.
-		HateNPC: The Tax Collector, {NPCName}, gets in the way of profit.
-		LikeNPC_Princess: The Princess is cool.
-		Princess_LovesNPC: "{NPCName} is awesome!"
+		Content: 这地方挺不错的。
+		NoHome: 你能为我建栋房子吗？
+		FarFromHome: 我是怎么到这儿的？
+		LoveSpace: 毫无疑问，这里是最好的地方。
+		DislikeCrowded: 太多人了。
+		HateCrowded: 请把某些人移出去。
+		LoveBiome: "{BiomeName}颇为宁静。"
+		LikeBiome: 我喜欢{BiomeName}。
+		DislikeBiome: "{BiomeName}太干燥了。"
+		LoveNPC: 我喜欢{NPCName}施展咒语的时候。
+		LikeNPC: 我朋友{NPCName}有许多酷玩意。
+		DislikeNPC: 那个家伙{NPCName}太吵了。
+		HateNPC: 税收官，{NPCName}，妨碍我赚钱了。
+		LikeNPC_Princess: 公主实在是太棒了。
+		Princess_LovesNPC: "{NPCName}非常了不起！"
 	}
 
 	ShopName: {
-		"Modded Potions": Ethereal Collector: Modded Potions
-		"Modded Flasks, Stations & Foods": Ethereal Collector: Modded Flasks, Stations & Foods
-		"Modded Materials": Ethereal Collector: Modded Materials
-		"Modded Materials 2": Ethereal Collector: Modded Materials 2
-		"Modded Treasure Bags": Ethereal Collector: Modded Treasure Bags
-		"Modded Crates & Grab Bags": Ethereal Collector: Modded Crates & Grab Bags
-		"Modded Ores & Bars": Ethereal Collector: Modded Ores & Bars
-		"Modded Natural Blocks": Ethereal Collector: Modded Natural Blocks
-		"Modded Building Blocks": Ethereal Collector: Modded Building Blocks
-		"Modded Herbs & Plants": Ethereal Collector: Modded Herbs & Plants
-		"Modded Fish & Fishing Gear": Ethereal Collector: Modded Fish & Fishing Gear
+		"Modded Potions": Ethereal Collector: 模组药水
+		"Modded Flasks, Stations & Foods": Ethereal Collector: 模组药剂，增益站 & 食物
+		"Modded Materials": Ethereal Collector: 模组材料
+		"Modded Materials 2": Ethereal Collector: 模组材料2
+		"Modded Treasure Bags": Ethereal Collector: 模组宝藏袋
+		"Modded Crates & Grab Bags": Ethereal Collector: 模组宝匣 & 摸彩袋
+		"Modded Ores & Bars": Ethereal Collector: 模组矿石 & 锭
+		"Modded Natural Blocks": Ethereal Collector: 模组自然物块
+		"Modded Building Blocks": Ethereal Collector: 模组建筑物块
+		"Modded Herbs & Plants": Ethereal Collector: 模组草药 & 植物
+		"Modded Fish & Fishing Gear": Ethereal Collector: 模组鱼类 & 钓鱼装备
 	}
 }

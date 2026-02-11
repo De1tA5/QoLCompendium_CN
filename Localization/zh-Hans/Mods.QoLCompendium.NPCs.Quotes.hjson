@@ -1,0 +1,6 @@
+BMDealerNPC: {
+	ChatDefault: 嘿，想来点东西吗？
+	Chat0: 搞到非法物品是我的专长。
+	Chat1: 只要交点钱，我就帮你搞定。
+	Chat2: 别问我从哪搞到所有的货。
+}

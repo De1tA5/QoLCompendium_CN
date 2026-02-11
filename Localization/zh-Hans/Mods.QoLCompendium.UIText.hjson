@@ -1,62 +1,47 @@
-BMPotionText: Potions
-BMStationText: Flasks, Stations & Foods
-BMMaterialText: Materials
-BMMovementAccessoryText: Movement Accessories
-BMCombatAccessoryText: Combat Accessories
-BMInformativeText: Informative/Building Gear
-BMBagText: Treasure Bags
-BMCrateText: Crates & Grab Bags
-BMOreText: Ores & Bars
-BMNaturalBlockText: Natural Blocks
-BMBuildingBlockText: Building Blocks
-BMHerbText: Herbs & Plants
-BMFishText: Fish & Fishing Gear
-BMMountText: Mounts & Hooks
-BMAmmoText: Ammo
-ECPotionText: Modded Potions
-ECStationText: Modded Flasks, Stations & Foods
-ECMaterialText: Modded Materials (Mods: A-M)
-ECMaterial2Text: Modded Materials (Mods: N-Z)
-ECBagText: Modded Treasure Bags
-ECCrateText: Modded Crates & Grab Bags
-ECOreText: Modded Ores & Bars
-ECNaturalBlockText: Modded Natural Blocks
-ECBuildingBlockText: Modded Building Blocks
-ECHerbText: Modded Herbs & Plants
-ECFishText: Modded Fish & Fishing Gear
-BossText: Bosses
-EventText: Events
-MinibossText: Minibosses
-IncreaseSpawnText: Increase Spawns
-DecreaseSpawnText: Decrease Spawns
-CancelSpawnText: No Spawns
-CancelEventText: No Events
-CancelSpawnAndEventText: No Spawns or Events
-RevertText: Revert Changes
-FullMoonText: Full Moon
-WaningGibbousText: Waning Gibbous
-ThirdQuarterText: Third Quarter
-WaningCrescentText: Waning Crescent
-NewMoonText: New Moon
-WaxingCrescentText: Waxing Crescent
-FirstQuarterText: First Quarter
-WaxingGibbousText: Waxing Gibbous
-PiggyBankText: Piggy Bank
-SafeText: Safe
-DefendersForgeText: Defender's Forge
-VoidVaultText: Void Vault
-DesertText: Desert
-SnowText: Snow
-JungleText: Jungle
-GlowingMushroomText: Glowing Mushroom
-CorruptionText: Corruption
-CrimsonText: Crimson
-HallowText: Hallow (Requires Hardmode)
-PurityText: Purity
-CloseText: Close
-ResetText: Reset Selection
-DisabledText: "{0} [c/cf1d1d:(DISABLED)]"
-GardenGnomeText: Garden Gnome
+ECPotionText: 模组药水
+ECStationText: 模组药剂，增益站 & 食物
+ECMaterialText: 模组材料 （模组：A-M）
+ECMaterial2Text: 模组材料 （模组：N-Z）
+ECBagText: 模组宝藏袋
+ECCrateText: 模组宝匣 & 摸彩袋
+ECOreText: 模组矿石 & 锭
+ECNaturalBlockText: 模组自然物块
+ECBuildingBlockText: 模组建筑物块
+ECHerbText: 模组草药 & 植物
+ECFishText: 模组鱼类 & 钓鱼装备
+BossText: Boss
+EventText: 事件
+MinibossText: 迷你Boss
+IncreaseSpawnText: 提升生成率
+DecreaseSpawnText: 降低生成率
+CancelSpawnText: 禁用生成
+CancelEventText: 禁用事件
+CancelSpawnAndEventText: 禁用生成和事件
+RevertText: 撤销更改
+FullMoonText: 满月
+WaningGibbousText: 亏凸月
+ThirdQuarterText: 下弦月
+WaningCrescentText: 残月
+NewMoonText: 新月
+WaxingCrescentText: 娥眉月
+FirstQuarterText: 上弦月
+WaxingGibbousText: 盈凸月
+PiggyBankText: 猪猪存钱罐
+SafeText: 保险箱
+DefendersForgeText: 护卫熔炉
+VoidVaultText: 虚空袋
+DesertText: 沙漠
+SnowText: 雪原
+JungleText: 丛林
+GlowingMushroomText: 发光蘑菇
+CorruptionText: 腐化
+CrimsonText: 猩红
+HallowText: 神圣 （需要困难模式）
+PurityText: 纯净
+CloseText: 关闭
+ResetText: 重置选项
+DisabledText: "{0} [c/cf1d1d:（已禁用）]"
+GardenGnomeText: 花园地精
 ArenaText: Arena Buffs
 PotionText: Potion Buffs
 StationText: Station Buffs
@@ -71,8 +56,8 @@ SOTSText: Open Secrets of the Shadows Buffs
 SpiritClassicText: Open Spirit Classic Buffs
 ThoriumText: Open Thorium Buffs
 VitalityText: Open Vitality Buffs
-UnloadedText: Mod Unloaded
-EnableText: Left click to enable
-DisableText: Left click to disable
-NoBuffText: No active buffs
-BuffTogglerText: Permanent Buff Toggler
+UnloadedText: 模组未加载
+EnableText: 左键点击以[C/7BF900:启用]
+DisableText: 左键点击以[C/FF3500:禁用]
+NoBuffText: 无激活Buff
+BuffTogglerText: 永久Buff切换面板

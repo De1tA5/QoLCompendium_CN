@@ -1,16 +1,19 @@
 ForgottenOneSummon: {
 	DisplayName: 海洋奇卵
-	Tooltip: 召唤遗忘之主
+	Tooltip:
+		'''
+		召唤遗忘之主
+		在深海中使用
+		'''
 }
 
 GiantClamSummon: {
 	DisplayName: 沉海蛤贝
-	Tooltip: 召唤巨像蛤
-}
-
-LeviathanAnahitaSummon: {
-	DisplayName: 迷人珍珠
-	Tooltip: 召唤利维坦和阿娜希塔
+	Tooltip:
+		'''
+		召唤巨像蛤
+		在沉沦之海中使用
+		'''
 }
 
 OldDukeSummon: {
@@ -31,6 +34,11 @@ DukeFishronSummon: {
 EmpressOfLightSummon: {
 	DisplayName: 神圣魔晶
 	Tooltip: 召唤光之女皇
+}
+
+GolemSummon: {
+	DisplayName: 过生能量电池
+	Tooltip: 召唤石巨人
 }
 
 PlanteraSummon: {
@@ -75,37 +83,65 @@ WorldsEndWhaleSummon: {
 
 CragmawMireSummon: {
 	DisplayName: 硫酸陷阱
-	Tooltip: 召唤峭咽潭
+	Tooltip:
+		'''
+		召唤峭咽潭
+		在硫磺海使用
+		'''
 }
 
 EidolonWyrmSummon: {
 	DisplayName: 流明水晶
-	Tooltip: 召唤幻海妖龙
+	Tooltip:
+		'''
+		召唤幻海妖龙
+		在深渊第四层使用
+		'''
 }
 
 GiantSquidSummon: {
 	DisplayName: 小乌贼
-	Tooltip: 召唤巨像乌贼
+	Tooltip:
+		'''
+		召唤巨像乌贼
+		在深渊第四层使用
+		'''
 }
 
 MaulerSummon: {
 	DisplayName: 硫酸鲨鱼鳍
-	Tooltip: 召唤渊海狂鲨
+	Tooltip:
+		'''
+		召唤渊海狂鲨
+		在硫磺海使用
+		'''
 }
 
 NuclearTerrorSummon: {
 	DisplayName: 核燃焰
-	Tooltip: 召唤辐核骇兽(
+	Tooltip:
+		'''
+		召唤辐核骇兽
+		在硫磺海使用
+		'''
 }
 
 PrimordialWyrmSummon: {
 	DisplayName: 始源水晶
-	Tooltip: 召唤始源妖龙
+	Tooltip:
+		'''
+		召唤始源妖龙
+		在深渊第四层使用
+		'''
 }
 
 ReaperSharkSummon: {
 	DisplayName: 掠夺者鳞片
-	Tooltip: 召唤猎魂鲨
+	Tooltip:
+		'''
+		召唤猎魂鲨
+		在深渊第四层使用
+		'''
 }
 
 SummoningRemote: {

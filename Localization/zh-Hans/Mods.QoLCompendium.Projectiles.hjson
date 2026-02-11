@@ -1,23 +1,23 @@
-AutoHouserProj.DisplayName: Auto Houser
-HellevatorCreatorProj.DisplayName: Hellevator Creator
-LifeformLocator.DisplayName: Lifeform Locator
+AutoHouserProj.DisplayName: 自动建房器
+HellevatorCreatorProj.DisplayName: 地狱电梯建造器
+LifeformLocator.DisplayName: 生物定位器
 SillySlapperWhip.DisplayName: Silly Slapper
-HellbridgerProj.DisplayName: Hellbridger
-HellbridgerSingleProj.DisplayName: Hellbridger Single
-SkybridgerProj.DisplayName: Skybridger
-SkybridgerSingleProj.DisplayName: Skybridger Single
-LakemakerProj.DisplayName: Lakemaker
-SuperbomberProj.DisplayName: Superbomber
-LittleYagi.DisplayName: Little Yagi
-AsphaltAutohighwayProj.DisplayName: Asphalt Autohighway
-AsphaltAutohighwaySingleProj.DisplayName: Asphalt Autohighway Single
-Moth.DisplayName: Moth
-Owl.DisplayName: Owl
-Snake.DisplayName: Snake
-LegendaryBobber.DisplayName: Legendary Bobber
-EtherianConstructProjectile.DisplayName: Etherian Construct
-FlyingSafeProjectile.DisplayName: Flying Safe
-MinibridgeProj.DisplayName: Minibridge
-BuildIndicatorProjectile.DisplayName: Build Indicator
-GoldenPowderProjectile.DisplayName: Golden Powder
-NPCSpawner.DisplayName: NPC Spawner
+HellbridgerProj.DisplayName: 地狱世界平台
+HellbridgerSingleProj.DisplayName: 单层地狱世界平台
+SkybridgerProj.DisplayName: 世界平台
+SkybridgerSingleProj.DisplayName: 单层世界平台
+LakemakerProj.DisplayName: 水池生成器
+SuperbomberProj.DisplayName: 超级炸弹
+LittleYagi.DisplayName: 小Yagi
+AsphaltAutohighwayProj.DisplayName: 沥青高速路
+AsphaltAutohighwaySingleProj.DisplayName: 单层沥青高速路
+Moth.DisplayName: 飞蛾
+Owl.DisplayName: 猫头鹰
+Snake.DisplayName: 蛇
+LegendaryBobber.DisplayName: 传奇浮标
+EtherianConstructProjectile.DisplayName: 埃特尼亚护卫熔炉
+FlyingSafeProjectile.DisplayName: 飞行保险箱
+MinibridgeProj.DisplayName: 迷你战斗平台
+BuildIndicatorProjectile.DisplayName: 建造指示器
+GoldenPowderProjectile.DisplayName: 金粉
+NPCSpawner.DisplayName: NPC生成器

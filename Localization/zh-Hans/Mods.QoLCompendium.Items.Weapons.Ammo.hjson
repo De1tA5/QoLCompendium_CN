@@ -155,7 +155,7 @@ EndlessPoisonDartPouch: {
 
 EndlessSeedPouch: {
 	DisplayName: 无尽种子袋
-	Tooltip: 搭配吹管使用
+	Tooltip: ""
 }
 
 EndlessBlueFlareBox: {
@@ -250,243 +250,211 @@ EndlessStarPouch: {
 
 EndlessStyngerBoltQuiver: {
 	DisplayName: 无尽毒刺矢箭袋
-	Tooltip: 爆炸成致命的弹片
+	Tooltip: ""
 }
 
 EndlessClusterRocketIIPouch: {
-	DisplayName: 无尽二级技术火箭袋
-	Tooltip: Will destroy tiles
+	DisplayName: 无尽二级集束火箭袋
+	Tooltip: ""
 }
 
 EndlessClusterRocketIPouch: {
-	DisplayName: 无尽一级技术火箭袋
-	Tooltip: Will not destroy tiles
+	DisplayName: 无尽一级集束火箭袋
+	Tooltip: ""
 }
 
 EndlessDryRocketPouch: {
-	DisplayName: 无尽Dry Rocket弹袋
-	Tooltip: Absorbs liquid on impact
+	DisplayName: 无尽干火箭袋
+	Tooltip: ""
 }
 
 EndlessHoneyRocketPouch: {
-	DisplayName: 无尽Honey Rocket弹袋
-	Tooltip: Spreads honey on impact
+	DisplayName: 无尽蜂蜜火箭袋
+	Tooltip: ""
 }
 
 EndlessLavaRocketPouch: {
-	DisplayName: 无尽Lava Rocket弹袋
-	Tooltip: Spreads lava on impact
+	DisplayName: 无尽熔岩火箭袋
+	Tooltip: ""
 }
 
 EndlessMiniNukeIIPouch: {
-	DisplayName: 无尽Mini Nuke II弹袋
-	Tooltip: Huge blast radius. Will destroy tiles
+	DisplayName: 无尽二型迷你核弹袋
+	Tooltip: ""
 }
 
 EndlessMiniNukeIPouch: {
-	DisplayName: 无尽Mini Nuke I弹袋
-	Tooltip: Huge blast radius. Will not destroy tiles
+	DisplayName: 无尽一型迷你核弹袋
+	Tooltip: ""
 }
 
 EndlessRocketIIIPouch: {
-	DisplayName: 无尽Rocket III弹袋
-	Tooltip: Large blast radius. Will not destroy tiles
+	DisplayName: 无尽三型火箭袋
+	Tooltip: ""
 }
 
 EndlessRocketIIPouch: {
-	DisplayName: 无尽Rocket II弹袋
-	Tooltip: Small blast radius. Will destroy tiles
+	DisplayName: 无尽二型火箭袋
+	Tooltip: ""
 }
 
 EndlessRocketIPouch: {
-	DisplayName: 无尽Rocket I弹袋
-	Tooltip: Small blast radius. Will not destroy tiles
+	DisplayName: 无尽一型火箭袋
+	Tooltip: ""
 }
 
 EndlessRocketIVPouch: {
-	DisplayName: 无尽Rocket IV弹袋
-	Tooltip: Large blast radius. Will destroy tiles
+	DisplayName: 无尽四型火箭袋
+	Tooltip: ""
 }
 
 EndlessWetRocketPouch: {
-	DisplayName: 无尽Wet Rocket弹袋
-	Tooltip: Spreads water on impact
+	DisplayName: 无尽湿火箭袋
+	Tooltip: ""
 }
 
 EndlessBlueSolution: {
-	DisplayName: 无尽Blue Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Hallow
-		'''
+	DisplayName: 无尽蓝溶液
+	Tooltip: ""
 }
 
 EndlessBrownSolution: {
-	DisplayName: 无尽Brown Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Forest
-		'''
+	DisplayName: 无尽棕溶液
+	Tooltip: ""
 }
 
 EndlessDarkBlueSolution: {
-	DisplayName: 无尽Dark Blue Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads Glowing Mushrooms
-		'''
+	DisplayName: 无尽深蓝溶液
+	Tooltip: ""
 }
 
 EndlessGreenSolution: {
-	DisplayName: 无尽Green Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Purity
-		'''
+	DisplayName: 无尽绿溶液
+	Tooltip: ""
 }
 
 EndlessPurpleSolution: {
-	DisplayName: 无尽Purple Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Corruption
-		'''
+	DisplayName: 无尽紫溶液
+	Tooltip: ""
 }
 
 EndlessRedSolution: {
-	DisplayName: 无尽Red Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Crimson
-		'''
+	DisplayName: 无尽红溶液
+	Tooltip: ""
 }
 
 EndlessWhiteSolution: {
-	DisplayName: 无尽White Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Snow
-		'''
+	DisplayName: 无尽白溶液
+	Tooltip: ""
 }
 
 EndlessYellowSolution: {
-	DisplayName: 无尽Yellow Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Desert
-		'''
+	DisplayName: 无尽黄溶液
+	Tooltip: ""
 }
 
 EndlessScrapMetalQuiver: {
-	DisplayName: 无尽Scrap Metal箭袋
+	DisplayName: 无尽废金属箭袋
 	Tooltip: ""
 }
 
 EndlessVibrantQuiver: {
-	DisplayName: 无尽Vibrant箭袋
+	DisplayName: 无尽振荡箭袋
 	Tooltip: ""
 }
 
 EndlessWormholeQuiver: {
-	DisplayName: 无尽Wormhole箭袋
+	DisplayName: 无尽虫洞箭袋
 	Tooltip: ""
 }
 
 EndlessBouncyQuiver: {
-	DisplayName: 无尽Bouncy箭袋
+	DisplayName: 无尽弹力箭袋
 	Tooltip: ""
 }
 
 EndlessGlowingQuiver: {
-	DisplayName: 无尽Glowing箭袋
+	DisplayName: 无尽辉光箭袋
 	Tooltip: ""
 }
 
 EndlessHyperQuiver: {
-	DisplayName: 无尽Hyper箭袋
+	DisplayName: 无尽究极箭袋
 	Tooltip: ""
 }
 
 EndlessPoisonQuiver: {
-	DisplayName: 无尽Poison箭袋
+	DisplayName: 无尽剧毒箭袋
 	Tooltip: ""
 }
 
 EndlessSeaQuiver: {
-	DisplayName: 无尽Sea箭袋
+	DisplayName: 无尽海洋箭袋
 	Tooltip: ""
 }
 
 EndlessShadowflameQuiver: {
-	DisplayName: 无尽Shadowflame箭袋
+	DisplayName: 无尽暗影焰箭袋
 	Tooltip: ""
 }
 
 EndlessStickyQuiver: {
-	DisplayName: 无尽Sticky箭袋
+	DisplayName: 无尽粘性箭袋
 	Tooltip: ""
 }
 
 EndlessTectonicQuiver: {
-	DisplayName: 无尽Tectonic箭袋
+	DisplayName: 无尽板块箭袋
 	Tooltip: ""
 }
 
 EndlessTrojanQuiver: {
-	DisplayName: 无尽Trojan箭袋
+	DisplayName: 无尽特洛伊箭袋
 	Tooltip: ""
 }
 
 EndlessUltraGlowingQuiver: {
-	DisplayName: 无尽Ultra Glowing箭袋
+	DisplayName: 无尽超亮箭袋
 	Tooltip: ""
 }
 
 EndlessZincQuiver: {
-	DisplayName: 无尽Zinc箭袋
+	DisplayName: 无尽锌箭袋
 	Tooltip: ""
 }
 
 EndlessBloodfireQuiver: {
-	DisplayName: 无尽Bloodfire箭袋
+	DisplayName: 无尽血炎箭袋
 	Tooltip: ""
 }
 
 EndlessCinderQuiver: {
-	DisplayName: 无尽Cinder箭袋
+	DisplayName: 无尽余烬箭袋
 	Tooltip: ""
 }
 
 EndlessElysianQuiver: {
-	DisplayName: 无尽Elysian箭袋
+	DisplayName: 无尽极乐箭袋
 	Tooltip: ""
 }
 
 EndlessIcicleQuiver: {
-	DisplayName: 无尽Icicle箭袋
+	DisplayName: 无尽冰锥箭袋
 	Tooltip: ""
 }
 
 EndlessSproutingQuiver: {
-	DisplayName: 无尽Sprouting箭袋
+	DisplayName: 无尽春芽箭袋
 	Tooltip: ""
 }
 
 EndlessVanquisherQuiver: {
-	DisplayName: 无尽Vanquisher箭袋
+	DisplayName: 无尽征戮箭袋
 	Tooltip: ""
 }
 
 EndlessVeriumQuiver: {
-	DisplayName: 无尽Verium箭袋
+	DisplayName: 无尽钫箭袋
 	Tooltip: ""
 }
 
@@ -506,142 +474,138 @@ EndlessFrostfireQuiver: {
 }
 
 EndlessBewitchedQuiver: {
-	DisplayName: 无尽Bewitched箭袋
+	DisplayName: 无尽着魔箭袋
 	Tooltip: ""
 }
 
 EndlessDivineFireQuiver: {
-	DisplayName: 无尽Divine Fire箭袋
+	DisplayName: 无尽圣火箭袋
 	Tooltip: ""
 }
 
 EndlessMartyrQuiver: {
-	DisplayName: 无尽Martyr箭袋
+	DisplayName: 无尽烈士箭袋
 	Tooltip: ""
 }
 
 EndlessPlagueQuiver: {
-	DisplayName: 无尽Plague箭袋
+	DisplayName: 无尽瘟疫箭袋
 	Tooltip: ""
 }
 
 EndlessSteelQuiver: {
-	DisplayName: 无尽Steel箭袋
+	DisplayName: 无尽钢箭袋
 	Tooltip: ""
 }
 
 EndlessCrystalQuiver: {
-	DisplayName: 无尽Crystal箭袋
+	DisplayName: 无尽水晶箭袋
 	Tooltip: ""
 }
 
 EndlessDurasteelQuiver: {
-	DisplayName: 无尽Durasteel箭袋
+	DisplayName: 无尽耐钢箭袋
 	Tooltip: ""
 }
 
 EndlessGhostPulseQuiver: {
-	DisplayName: 无尽Ghost Pulse箭袋
+	DisplayName: 无尽波魂箭袋
 	Tooltip: ""
 }
 
 EndlessIcyQuiver: {
-	DisplayName: 无尽Icy箭袋
+	DisplayName: 无尽碎冰箭袋
 	Tooltip: ""
 }
 
 EndlessSpiritQuiver: {
-	DisplayName: 无尽Spirit箭袋
+	DisplayName: 无尽灵魂箭袋
 	Tooltip: ""
 }
 
 EndlessTalonQuiver: {
-	DisplayName: 无尽Talon箭袋
+	DisplayName: 无尽爪箭袋
 	Tooltip: ""
 }
 
 EndlessThoriumSteelQuiver: {
-	DisplayName: 无尽Thorium Steel箭袋
+	DisplayName: 无尽钢箭袋
 	Tooltip: ""
 }
 
 EndlessBloodfireBulletPouch: {
-	DisplayName: 无尽Bloodfire Bullet弹袋
+	DisplayName: 无尽血炎弹袋
 	Tooltip: ""
 }
 
 EndlessBubonicRoundPouch: {
-	DisplayName: 无尽Bubonic Round弹袋
+	DisplayName: 无尽鼠疫弹袋
 	Tooltip: ""
 }
 
 EndlessDryadsTearPouch: {
-	DisplayName: 无尽Dryads Tear弹袋
+	DisplayName: 无尽树妖之泪弹袋
 	Tooltip: ""
 }
 
 EndlessFlashRoundPouch: {
-	DisplayName: 无尽Flash Round弹袋
+	DisplayName: 无尽眩晕弹袋
 	Tooltip: ""
 }
 
 EndlessGodSlayerSlugPouch: {
-	DisplayName: 无尽God Slayer Slug弹袋
+	DisplayName: 无尽弑神弹袋
 	Tooltip: ""
 }
 
 EndlessHailstormBulletPouch: {
-	DisplayName: 无尽Hailstorm Bullet弹袋
+	DisplayName: 无尽冰雹风暴弹袋
 	Tooltip: ""
 }
 
 EndlessHallowPointRoundPouch: {
-	DisplayName: 无尽Hallow Point Round弹袋
+	DisplayName: 无尽神圣空尖弹袋
 	Tooltip: ""
 }
 
 EndlessHolyFireBulletPouch: {
-	DisplayName: 无尽Holy Fire Bullet弹袋
+	DisplayName: 无尽圣火弹袋
 	Tooltip: ""
 }
 
 EndlessHyperiusBulletPouch: {
-	DisplayName: 无尽Hyperius Bullet弹袋
+	DisplayName: 无尽海伯里斯弹袋
 	Tooltip: ""
 }
 
 EndlessMarksmanRoundPouch: {
-	DisplayName: 无尽Marksman Round弹袋
+	DisplayName: 无尽神射手弹袋
 	Tooltip: ""
 }
 
 EndlessMortarRoundPouch: {
-	DisplayName: 无尽Mortar Round弹袋
+	DisplayName: 无尽迫击炮弹袋
 	Tooltip: ""
 }
 
 EndlessRubberMortarRoundPouch: {
-	DisplayName: 无尽Rubber Mortar Round弹袋
+	DisplayName: 无尽橡胶迫击炮弹袋
 	Tooltip: ""
 }
 
 EndlessBloodRune: {
-	DisplayName: 无尽Blood Rune
+	DisplayName: 无尽血之符文
 	Tooltip: ""
 }
 
 EndlessWulfrumCogworkShard: {
-	DisplayName: 无尽Wulfrum Cogwork Shard
+	DisplayName: 无尽钨钢齿轮碎片
 	Tooltip: ""
 }
 
 EndlessAstralSolution: {
-	DisplayName: 无尽Astral Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Astral Infection
-		'''
+	DisplayName: 无尽星源溶液
+	Tooltip: ""
 }
 
 EndlessOblivionQuiver: {
@@ -666,17 +630,17 @@ EndlessAsthraltiteQuiver: {
 
 EndlessMoonflareQuiver: {
 	Tooltip: ""
-	DisplayName: 无尽Moonflare箭袋
+	DisplayName: 无尽月辉箭袋
 }
 
 EndlessBileQuiver: {
 	Tooltip: ""
-	DisplayName: 无尽Bile箭袋
+	DisplayName: 无尽胆汁箭袋
 }
 
 EndlessAquaQuiver: {
 	Tooltip: ""
-	DisplayName: 无尽Aqua箭袋
+	DisplayName: 无尽水箭袋
 }
 
 EndlessInvarQuiver: {
@@ -685,12 +649,8 @@ EndlessInvarQuiver: {
 }
 
 EndlessCyanSolution: {
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Frozen Hell
-		'''
-	DisplayName: 无尽Cyan Solution
+	Tooltip: ""
+	DisplayName: 无尽Cyan溶液
 }
 
 EndlessRustyGrenadePouch: {
@@ -700,7 +660,7 @@ EndlessRustyGrenadePouch: {
 
 EndlessGodSlayerRocketPouch: {
 	Tooltip: ""
-	DisplayName: 无尽God Slayer Rocket弹袋
+	DisplayName: 无尽God Slayer 火箭袋
 }
 
 EndlessCondensedBulletPouch: {
@@ -724,163 +684,236 @@ EndlessRockBulletPouch: {
 }
 
 EndlessAccursedQuiver: {
-	DisplayName: 无尽Accursed箭袋
+	DisplayName: 无尽诅咒箭袋
 	Tooltip: ""
 }
 
 EndlessBeetleQuiver: {
-	DisplayName: 无尽Beetle箭袋
+	DisplayName: 无尽甲虫箭袋
 	Tooltip: ""
 }
 
 EndlessCompressedAirCapsulePouch: {
-	DisplayName: 无尽Compressed Air Capsule弹袋
+	DisplayName: 无尽压缩空气胶囊袋
 	Tooltip: ""
 }
 
 EndlessFishyumCoinBag: {
-	DisplayName: 无尽Fishyum Coin Bag
+	DisplayName: 无尽可疑钱币袋
 	Tooltip: ""
 }
 
 EndlessHayBale: {
-	DisplayName: 无尽Hay Bale
+	DisplayName: 无尽干草捆
 	Tooltip: ""
 }
 
 EndlessWoodSplinterBundle: {
-	DisplayName: 无尽Wood Splinter Bundle
+	DisplayName: 无尽木碎片束
 	Tooltip: ""
 }
 
 EndlessDiggerRocketPouch: {
-	DisplayName: 无尽Digger Rocket弹袋
+	DisplayName: 无尽挖掘钻火箭袋
 	Tooltip: ""
 }
 
 EndlessDrillRocketPouch: {
-	DisplayName: 无尽Drill Rocket弹袋
+	DisplayName: 无尽钻头火箭袋
 	Tooltip: ""
 }
 
 EndlessMakeshiftProximityMinePouch: {
-	DisplayName: 无尽Makeshift Proximity Mine弹袋
+	DisplayName: 无尽应急感应雷袋
 	Tooltip: ""
 }
 
 EndlessMissile03Pouch: {
-	DisplayName: 无尽Missile 03弹袋
+	DisplayName: 无尽03型导弹袋
 	Tooltip: ""
 }
 
 EndlessMissile05Pouch: {
-	DisplayName: 无尽Missile 05弹袋
+	DisplayName: 无尽05型导弹袋
 	Tooltip: ""
 }
 
 EndlessMissile07Pouch: {
-	DisplayName: 无尽Missile 07弹袋
+	DisplayName: 无尽07型导弹袋
 	Tooltip: ""
 }
 
 EndlessPrototypeRocketPouch: {
-	DisplayName: 无尽Prototype Rocket弹袋
+	DisplayName: 无尽原型火箭袋
 	Tooltip: ""
 }
 
 EndlessBlackSolution: {
-	DisplayName: 无尽Black Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Void
-		'''
+	DisplayName: 无尽黑溶液
+	Tooltip: ""
 }
 
 EndlessGraySolution: {
-	DisplayName: 无尽Gray Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Does not spread anything
-		'''
+	DisplayName: 无尽灰溶液
+	Tooltip: ""
 }
 
 EndlessMeanSolution: {
-	DisplayName: 无尽Mean Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads pain instead of a biome
-		Ignores 20 points of enemy defense
-		'''
+	DisplayName: 无尽普通溶液
+	Tooltip: ""
 }
 
 EndlessTealSolution: {
-	DisplayName: 无尽Teal Solution
-	Tooltip:
-		'''
-		Used by the Clentaminator
-		Spreads the Jungle
-		'''
+	DisplayName: 无尽青溶液
+	Tooltip: ""
 }
 
 EndlessZincBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Zinc Bullet弹袋
+	DisplayName: 无尽锌弹袋
 }
 
 EndlessTrojanBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Trojan Bullet弹袋
+	DisplayName: 无尽特洛伊弹袋
 }
 
 EndlessTectonicBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Tectonic Bullet弹袋
+	DisplayName: 无尽板块弹袋
 }
 
 EndlessStickyBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Sticky Bullet弹袋
+	DisplayName: 无尽粘性弹袋
 }
 
 EndlessShimmerBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Shimmer Bullet弹袋
+	DisplayName: 无尽微光弹袋
 }
 
 EndlessShadowflameBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Shadowflame Bullet弹袋
+	DisplayName: 无尽暗影焰t弹袋
 }
 
 EndlessSeashellBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Seashell Bullet弹袋
+	DisplayName: 无尽贝壳弹袋
 }
 
 EndlessPoisonBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Poison Bullet弹袋
+	DisplayName: 无尽剧毒弹袋
 }
 
 EndlessJestersBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Jester's Bullet弹袋
+	DisplayName: 无尽小丑弹袋
 }
 
 EndlessHyperBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Hyper Bullet弹袋
+	DisplayName: 无尽究极弹袋
 }
 
 EndlessBouncyBulletPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Bouncy Bullet弹袋
+	DisplayName: 无尽弹力弹袋
 }
 
 EndlessBloodshotPouch: {
 	Tooltip: ""
-	DisplayName: 无尽Bloodshot弹袋
+	DisplayName: 无尽血腥弹袋
+}
+
+EndlessForceBreakQuiver: {
+	DisplayName: 无尽断键箭袋
+	Tooltip: ""
+}
+
+EndlessDivineFireBulletPouch: {
+	DisplayName: 无尽圣火弹袋
+	Tooltip: ""
+}
+
+EndlessForceBreakBulletPouch: {
+	DisplayName: 无尽断键弹袋
+	Tooltip: ""
+}
+
+EndlessMartyrBulletPouch: {
+	DisplayName: 无尽烈士弹袋
+	Tooltip: ""
+}
+
+EndlessPlagueBulletPouch: {
+	DisplayName: 无尽瘟疫弹袋
+	Tooltip: ""
+}
+
+EndlessSteelBulletPouch: {
+	DisplayName: 无尽钢弹袋
+	Tooltip: ""
+}
+
+EndlessRailgunBattery: {
+	DisplayName: 无尽轨道炮电池
+	Tooltip: ""
+}
+
+EndlessMiniNukeIIIPouch: {
+	DisplayName: 无尽三型迷你核弹袋
+	Tooltip: ""
+}
+
+EndlessMiniNukeIVPouch: {
+	DisplayName: 无尽四型迷你核弹袋
+	Tooltip: ""
+}
+
+EndlessShellIIIPouch: {
+	DisplayName: 无尽三等炮弹袋
+	Tooltip: ""
+}
+
+EndlessShellIIPouch: {
+	DisplayName: 无尽二等炮弹袋
+	Tooltip: ""
+}
+
+EndlessShellIPouch: {
+	DisplayName: 无尽一等炮弹袋
+	Tooltip: ""
+}
+
+EndlessShellIVPouch: {
+	DisplayName: 无尽四等炮弹袋
+	Tooltip: ""
+}
+
+EndlessShellVPouch: {
+	DisplayName: 无尽五等炮弹袋
+	Tooltip: ""
+}
+
+EndlessT1MissilePouch: {
+	DisplayName: 无尽一类导弹袋
+	Tooltip: ""
+}
+
+EndlessT2MissilePouch: {
+	DisplayName: 无尽二类导弹袋
+	Tooltip: ""
+}
+
+EndlessT3MissilePouch: {
+	DisplayName: 无尽三类导弹袋
+	Tooltip: ""
+}
+
+EndlessT4MissilePouch: {
+	DisplayName: 无尽四类导弹袋
+	Tooltip: ""
 }

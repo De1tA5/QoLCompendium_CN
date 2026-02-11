@@ -1,1 +1,69 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+[h2] Quality of Life Compendium - 更全面的体验-直装汉化[/h2]
+
+硬编码部分汉化使用——[url=https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationLib] TigerForceLocalizationLib [/url]
+以及我自己的代码进行修复
+目前汉化程度：99%
+
+[url=https://github.com/De1tA5/QoLCompendium_CN] 开源汉化库 [/url]
+
+使用方法：启用本mod以及 Quality of Life Compendium
+
+Quality of Life Compendium - 更全面的体验
+是一个集成式的优化游玩体验的模组，其包含
+[code]
+[list]
+    [*]连锁挖矿（支持白名单、挖掘速度和数量调整）
+    [*]翅膀、盾牌和靴子栏
+    [*]类似懒人的体验优化物品（如无限Buff以及无限弹药）
+    [*]类似炼金术士的NPC（出售饰品、材料以及宝藏袋，推荐安装 商店翻页）
+    [*]大量可选配置更改（太多了不举例了）
+    [*]以及超多模组的兼容（模组配置、NPC以及无限Buff等均有覆盖）
+[/list]
+[/code]
+
+以下是他兼容模组（对就是这么多）
+[code]
+[list]
+    [*]灾厄
+    [*]灾熵
+    [*]灾劫
+    [*]灾蛤
+    [*]灾厄重燃
+    [*]众神之怒
+    [*]旧神之猎
+    [*]灾厄虚荣
+    [*]Fargo魂石
+    [*]瑟银
+    [*]瑟银冥界
+    [*]诸神的黄昏
+    [*]灵感药水
+    [*]旅人归途
+    [*]马丁战律
+    [*]魂灵·经典
+    [*]魂灵·新魄
+    [*]救赎
+    [*]暗影奥秘
+    [*]万灵
+    [*]亚伯顿之影
+    [*]阿瓦隆
+    [*]AFK拓展和宠物模组
+    [*]元素觉醒
+    [*]死渊
+    [*]糖果之地
+    [*]点击者职业
+    [*]Consolaria
+    [*]MrPlague's Authentic Races
+    [*]Crystal Dragons Race
+    [*]以及作者自己的Buffaria
+    等等（有些模组我连听都没听过）
+[/list]
+[/code]
+
+[h3] 目前计划 [/h3]
+[list]
+    [*]补完所有ModCondition、补上亚伯顿之影汉化
+    [*]持续更新汉化
+    [*]如果你有发现漏翻或错翻可以在评论区指出
+[/list]
+
+[spoiler] 至此我已经把Jabon（该模组作者）的几个大型组全做汉化了 Super Souls DLC 、Quality of Life Compendium、 Buffaria [/spoiler]

@@ -65,6 +65,11 @@ BMFishShop: {
 	Tooltip: ""
 }
 
+BMCritterShop: {
+	Label: "[i:2019] 小动物商店"
+	Tooltip: ""
+}
+
 BMMountShop: {
 	Label: "[i:2430] 坐骑和钩爪商店"
 	Tooltip: ""
@@ -181,6 +186,11 @@ HerbPriceMultiplier: {
 }
 
 FishPriceMultiplier: {
+	Label: "[i:161] 鱼类价格倍率"
+	Tooltip: 范围 1 - 1000
+}
+
+CritterPriceMultiplier: {
 	Label: "[i:161] 鱼类价格倍率"
 	Tooltip: 范围 1 - 1000
 }

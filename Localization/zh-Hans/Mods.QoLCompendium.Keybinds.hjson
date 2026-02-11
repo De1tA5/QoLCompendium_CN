@@ -1,9 +1,9 @@
-SendNPCsHomeBind.DisplayName: Teleport NPCs Home
-WhitelistTileBind.DisplayName: Whitelist Tile
-RemoveWhitelistedTileBind.DisplayName: Remove Whitelisted Tile
-RecallBind.DisplayName: Quick Recall
-MosaicMirrorBind.DisplayName: Quick Mosaic Mirror
-DashBind.DisplayName: Dash
-PermanentBuffUIToggleBind.DisplayName: Permanent Buff UI Toggle
-QuickRodBind.DisplayName: Quick Rod of Discord
-VeinmineBind.DisplayName: Veinmine
+SendNPCsHomeBind.DisplayName: 传送NPC回家
+WhitelistTileBind.DisplayName: 列入物块白名单
+RemoveWhitelistedTileBind.DisplayName: 移出物块白名单
+RecallBind.DisplayName: 快速回家
+MosaicMirrorBind.DisplayName: 快速复合魔镜
+DashBind.DisplayName: 冲刺
+PermanentBuffUIToggleBind.DisplayName: 永久Buff切换面板
+QuickRodBind.DisplayName: 快速混沌传送杖
+VeinmineBind.DisplayName: 连锁挖掘

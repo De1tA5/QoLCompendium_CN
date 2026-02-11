@@ -65,4 +65,14 @@ ConfigGlintID: {
 		Label: 彩虹色
 		Tooltip: ""
 	}
+
+	Teal: {
+		Label: 青绿色
+		Tooltip: ""
+	}
+
+	Black: {
+		Label: 黑色
+		Tooltip: ""
+	}
 }

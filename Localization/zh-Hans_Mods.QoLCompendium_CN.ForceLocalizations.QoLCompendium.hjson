@@ -1,0 +1,314 @@
+Content: {
+	NPCs: {
+		EtherealCollectorNPC: {
+			SetChatButtons: {
+				15: {
+					// NewString: Shop Changer
+					OldString: Shop Changer
+				}
+
+				14: {
+					// NewString: Get some burgers
+					OldString: Get some burgers
+				}
+
+				13: {
+					// NewString: Modded Fish & Fishing Gear
+					OldString: Modded Fish & Fishing Gear
+				}
+
+				12: {
+					// NewString: Modded Herbs & Plants
+					OldString: Modded Herbs & Plants
+				}
+
+				11: {
+					// NewString: Modded Building Blocks
+					OldString: Modded Building Blocks
+				}
+
+				10: {
+					// NewString: Modded Natural Blocks
+					OldString: Modded Natural Blocks
+				}
+
+				1: {
+					// NewString: Modded Potions
+					OldString: Modded Potions
+				}
+
+				9: {
+					// NewString: Modded Ores & Bars
+					OldString: Modded Ores & Bars
+				}
+
+				8: {
+					// NewString: Modded Crates & Grab Bags
+					OldString: Modded Crates & Grab Bags
+				}
+
+				7: {
+					// NewString: Modded Treasure Bags
+					OldString: Modded Treasure Bags
+				}
+
+				6: {
+					// NewString: Modded Materials 2
+					OldString: Modded Materials 2
+				}
+
+				5: {
+					// NewString: 模组材料 （模组：N-Z）
+					OldString: Modded Materials (Mods: N-Z)
+				}
+
+				4: {
+					// NewString: Modded Materials
+					OldString: Modded Materials
+				}
+
+				3: {
+					// NewString: 模组材料 （模组：A-M）
+					OldString: Modded Materials (Mods: A-M)
+				}
+
+				2: {
+					// NewString: Modded Flasks, Stations & Foods
+					OldString: Modded Flasks, Stations & Foods
+				}
+			}
+
+			GetChat: {
+				5: {
+					NewString: 这把银短剑看起来不错！拿着这些汉堡，算是赏你让我见到这件宝物！
+					OldString: That Silver Shortsword is looking mighty fine! Take some burgers for showing me this beauty!
+				}
+
+				4: {
+					NewString: 如果有城镇居民死了，我会乐意卖掉他们的物品！
+					OldString: If one of the townsfolk dies, I'll gladly sell their items!
+				}
+
+				3: {
+					NewString: 你为什么不偶尔打打怪，刷点装备呢？
+					OldString: Why don't you try to farm your gear sometimes?
+				}
+
+				2: {
+					NewString: 你走得越远，我就更能具象化。
+					OldString: The more you progress, the more I materialize for you
+				}
+
+				1: {
+					NewString: 我不会告诉你我从哪来。
+					OldString: I won't tell you where I'm from
+				}
+			}
+
+			SetBestiary: {
+				1: {
+					NewString: 他来此地贩卖东西，但他从何而来？
+					OldString: He arrived to sell his wares, but where did he come from?
+				}
+			}
+		}
+
+		BMDealerNPC: {
+			SetChatButtons: {
+				33: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.ShopChanger
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.ShopChanger
+				}
+
+				32: {
+					NewString: AmmoShop
+					OldString: AmmoShop
+				}
+
+				31: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.AmmoShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.AmmoShop
+				}
+
+				30: {
+					NewString: MountsAndHooksShop
+					OldString: MountsAndHooksShop
+				}
+
+				3: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.StationsAndUpgradesShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.StationsAndUpgradesShop
+				}
+
+				29: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.MountsAndHooksShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.MountsAndHooksShop
+				}
+
+				28: {
+					NewString: CritterShop
+					OldString: CritterShop
+				}
+
+				27: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.CritterShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.CritterShop
+				}
+
+				26: {
+					NewString: FishShop
+					OldString: FishShop
+				}
+
+				25: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.FishShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.FishShop
+				}
+
+				24: {
+					NewString: HerbsAndPlantsShop
+					OldString: HerbsAndPlantsShop
+				}
+
+				23: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.HerbsAndPlantsShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.HerbsAndPlantsShop
+				}
+
+				22: {
+					NewString: BuildingBlockShop
+					OldString: BuildingBlockShop
+				}
+
+				21: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.BuildingBlockShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.BuildingBlockShop
+				}
+
+				20: {
+					NewString: NaturalBlockShop
+					OldString: NaturalBlockShop
+				}
+
+				2: {
+					NewString: PotionShop
+					OldString: PotionShop
+				}
+
+				19: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.NaturalBlockShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.NaturalBlockShop
+				}
+
+				18: {
+					NewString: OresAndBarsShop
+					OldString: OresAndBarsShop
+				}
+
+				17: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.OresAndBarsShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.OresAndBarsShop
+				}
+
+				16: {
+					NewString: CratesAndGrabBagsShop
+					OldString: CratesAndGrabBagsShop
+				}
+
+				15: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.CratesAndGrabBagsShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.CratesAndGrabBagsShop
+				}
+
+				14: {
+					NewString: TreasureBagShop
+					OldString: TreasureBagShop
+				}
+
+				13: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.TreasureBagShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.TreasureBagShop
+				}
+
+				12: {
+					NewString: ToolsAndInfoShop
+					OldString: ToolsAndInfoShop
+				}
+
+				11: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.ToolsAndInfoShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.ToolsAndInfoShop
+				}
+
+				10: {
+					NewString: CombatAccessoryShop
+					OldString: CombatAccessoryShop
+				}
+
+				1: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.PotionShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.PotionShop
+				}
+
+				9: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.CombatAccessoryShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.CombatAccessoryShop
+				}
+
+				8: {
+					NewString: MobilityAccessoryShop
+					OldString: MobilityAccessoryShop
+				}
+
+				7: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.MobilityAccessoryShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.MobilityAccessoryShop
+				}
+
+				6: {
+					NewString: MaterialShop
+					OldString: MaterialShop
+				}
+
+				5: {
+					NewString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.MaterialShop
+					OldString: Mods.QoLCompendium.NPCs.BMDealerNPC.ShopName.MaterialShop
+				}
+
+				4: {
+					NewString: StationsAndUpgradesShop
+					OldString: StationsAndUpgradesShop
+				}
+			}
+
+			GetChat: {
+				4: {
+					NewString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.ChatDefault
+					OldString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.ChatDefault
+				}
+
+				3: {
+					NewString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.Chat2
+					OldString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.Chat2
+				}
+
+				2: {
+					NewString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.Chat1
+					OldString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.Chat1
+				}
+
+				1: {
+					NewString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.Chat0
+					OldString: Mods.QoLCompendium.NPCs.Quotes.BMDealerNPC.Chat0
+				}
+			}
+
+			SetBestiary: {
+				1: {
+					NewString: 他来自遥远的土地，贩卖难以获得的物品，但问题是他究竟如何得到这些东西的……
+					OldString: He hails from a far away land to sell items that are difficult to get, but how did he even obtain them...
+				}
+			}
+		}
+	}
+}
