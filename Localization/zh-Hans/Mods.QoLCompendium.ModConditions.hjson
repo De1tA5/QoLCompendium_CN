@@ -22,9 +22,9 @@ beenToHallow: 访问神圣环境
 beenToTemple: 访问丛林蜥蜴神庙环境
 beenToDungeon: 访问地牢环境
 beenToAether: 访问以太环境
-downedCrabson: 击败 Crabson
+downedCrabson: 击败巨蟹蛤
 downedOmegaStarite: 击败终末源星
-downedDustDevil: 击败 the Dust Devil
+downedDustDevil: 击败沙尘恶魔
 downedHyperStarite: 击败 Hyper Starite
 downedUltraStarite: 击败 Ultra Starite
 downedRedSprite: 击败 the Red Sprite
@@ -34,7 +34,7 @@ downedGlimmer: 完成 the Glimmer
 downedGaleStreams: 完成 the Gale Streams
 beenToCrabCrevice: 访问the Crab Crevice
 downedSlayerOfEvil: 击败恶魔杀手
-downedSATLA: 击败 SATLA-001
+downedSATLA: 击败SATLA-001
 downedDrFetus: 击败胎儿博士
 downedSlimesHope: 击败史莱姆复仇联盟
 downedPoliticianSlime: 击败史莱姆总统
@@ -131,26 +131,26 @@ downedLad: 击败 Lad
 downedHornlitz: 击败 Hornlitz
 downedSnowDon: 击败 Snow Don
 downedStoffie: 击败 Stoffie
-downedLilyWhite: 击败 Lily White
-downedRumia: 击败 Rumia
-downedEternityLarva: 击败 Eternity Larva
-downedNazrin: 击败 Nazrin
-downedHinaKagiyama: 击败 Hina Kagiyama
-downedSekibanki: 击败 Sekibanki
-downedSeiran: 击败 Seiran
-downedNitoriKawashiro: 击败 Nitori Kawashiro
-downedMedicineMelancholy: 击败 Medicine Melancholy
-downedCirno: 击败 Cirno
-downedMinamitsuMurasa: 击败 Minamitsu Murasa
-downedAliceMargatroid: 击败 Alice Margatroid
-downedSakuyaIzayoi: 击败 Sakuya Izayoi
-downedSeijaKijin: 击败 Seija Kijin
-downedMayumiJoutouguu: 击败 Mayumi Joutouguu
-downedToyosatomimiNoMiko: 击败 Toyosatomimi no Miko
-downedKaguyaHouraisan: 击败 Kaguya Houraisan
-downedUtsuhoReiuji: 击败 Utsuho Reiuji
-downedTenshiHinanawi: 击败 Tenshi Hinanawi
-downedKisume: 击败 Kisume
+downedLilyWhite: 击败莉莉霍瓦特
+downedRumia: 击败露米娅
+downedEternityLarva: 击败爱塔妮缇拉尔瓦
+downedNazrin: 击败娜兹玲
+downedHinaKagiyama: 击败键山雏
+downedSekibanki: 击败赤蛮奇
+downedSeiran: 击败清兰
+downedNitoriKawashiro: 击败河城荷取
+downedMedicineMelancholy: 击败梅蒂欣·梅兰可莉
+downedCirno: 击败琪露诺
+downedMinamitsuMurasa: 击败村纱水蜜
+downedAliceMargatroid: 击败爱丽丝·玛格特洛依德
+downedSakuyaIzayoi: 击败十六夜咲夜
+downedSeijaKijin: 击败鬼人正邪
+downedMayumiJoutouguu: 击败杖刀偶磨弓
+downedToyosatomimiNoMiko: 击败丰聪耳神子
+downedKaguyaHouraisan: 击败蓬莱山辉夜
+downedUtsuhoReiuji: 击败灵乌路空
+downedTenshiHinanawi: 击败比那名居天子
+downedKisume: 击败琪斯美
 downedTrerios: 击败 Trerios
 downedMagmaEye: 击败 the Magma Eye
 downedJack: 击败 Jack
@@ -321,23 +321,23 @@ downedDunestock: 击败 Dunestock
 downedHexedConstructor: 击败 the Hexed Constructor
 downedShadowcrawler: 击败 the Shadowcrawler
 downedPrototypeI: 击败 Prototype I
-downedGrandThunderBird: 击败 the Grand Thunder Bird
-downedQueenJellyfish: 击败 Queen Jellyfish
-downedViscount: 击败 the Viscount
-downedGraniteEnergyStorm: 击败 the Granite Energy Storm
-downedBuriedChampion: 击败 the Buried Champion
-downedStarScouter: 击败 the Star Scouter
-downedBoreanStrider: 击败 the Borean Strider
-downedFallenBeholder: 击败 the Fallen Beholder
-downedLich: 击败 the Lich
-downedForgottenOne: 击败 the Forgotten One
-downedPrimordials: 击败 the Primordials
-downedPatchWerk: 击败 a Patch Werk
-downedCorpseBloom: 击败 a Corpse Bloom
-downedIllusionist: 击败 an Illusionist
-beenToAquaticDepths: 访问the Aquatic Depths
-downedGraniteOvergrowth: 击败 a Granite Overgrowth
-downedBeholder: 击败 the Beholder
+downedGrandThunderBird: 击败惊雷王鹰
+downedQueenJellyfish: 击败水母皇后
+downedViscount: 击败蝙蝠子爵
+downedGraniteEnergyStorm: 击败花岗岩流能风暴
+downedBuriedChampion: 击败英灵遗骸
+downedStarScouter: 击败星际监察者
+downedBoreanStrider: 击败极地遁蛛
+downedFallenBeholder: 击败堕落注视者
+downedLich: 击败巫妖
+downedForgottenOne: 击败遗忘之主
+downedPrimordials: 击败始生灾灵
+downedPatchWerk: 击败缝合人
+downedCorpseBloom: 击败绝命花
+downedIllusionist: 击败幻术师
+beenToAquaticDepths: 访问深海
+downedGraniteOvergrowth: 击败紊乱花岗岩
+downedBeholder: 击败看守者
 downedDredger: 击败 the Dredger
 downedCharcoolSnowman: 击败 the Charcool Snowman
 downedCosmicMenace: 击败 the Cosmic Menace
@@ -444,42 +444,42 @@ downedZombiePiglinBrute: 击败 a Zombie Piglin Brute
 downedFlamingPumpkin: 击败 the Flaming Pumpkin
 downedDecree: 击败 the Decree
 beenToJadeLake: 访问the Jade Lake
-talkedToSkeletonMerchant: Talked to Skeleton Merchant
-talkedToTravelingMerchant: Talked to Traveling Merchant
-downedNoxus: 击败 the Entropic God, Noxus
-downedNamelessDeityOfLight: 击败 the Nameless Deity of Light
-downedMACEProject: 击败 the MACE Project
-downedProtectorVolt: 击败 Protector Volt
-downedBlisterface: 击败 Blisterface
-downedIrradiatedBehemoth: 击败 the Irradiated Behemoth
-downedTheJanitor: 击败 the Janitor
-downedCalavia: 击败 Calavia
-downedEaglecrestGolem: 击败 the Eaglecrest Golem
-downedSkullDigger: 击败 the Skull Digger
-downedBasan: 击败 Basan
-downedCockatrice: 击败 a Cockatrice
-shimmerableAfterMoonLordOrSupremeCalamitas: 击败 Moon Lord, or 击败 Supreme Calamitas with Calamity enabled
-downedCruiser: 击败 the Cruiser
-downedCursedCoffin: 击败 the Cursed Coffin
-downedOrdealAny: 击败 any考验
-downedNihilityTwin: 击败 the Nihility Twin
-downedProphet: 击败 the Prophet
-ItemObtained: Sold when item is obtained at a stack of {0}
+talkedToSkeletonMerchant: 与骷髅商人交谈过
+talkedToTravelingMerchant: 与旅商交谈过
+downedNoxus: 击败暗熵终神，诺克萨斯
+downedNamelessDeityOfLight: 击败无名光神
+downedMACEProject: 击败MACE工程
+downedProtectorVolt: 击败守卫者伏特
+downedBlisterface: 击败脓疱疮脸
+downedIrradiatedBehemoth: 击败辐射巨兽
+downedTheJanitor: 击败清洁工
+downedCalavia: 击败卡拉维亚
+downedEaglecrestGolem: 击败鹰冠魔像
+downedSkullDigger: 击败掘颅者
+downedBasan: 击败波山
+downedCockatrice: 击败鸡蛇
+shimmerableAfterMoonLordOrSupremeCalamitas: 击败月亮领主，或启用《灾厄》击败至尊女巫，灾厄
+downedCruiser: 击败巡游者
+downedCursedCoffin: 击败咒缚灵棺
+downedOrdealAny: 击败任意考验
+downedNihilityTwin: 击败虚无双子
+downedProphet: 击败先知
+ItemObtained: 当物品堆叠数在 {0} 以上时出售
 downedLuminaris: 击败 Luminaris
-downedExcavator: 击败 the Excavator
+downedExcavator: 击败掘地重蝎
 downedHauntedRainforest: 完成 the Haunted Rainforest
 downedCactusCat: 击败 the Cactus Cat
-downedNekoSlime: 击败 the Neko Slime
-downedNightmareAmplifierSlime: 击败 the Nightmare Amplifier Slime
-downedGoblinChariot: 击败 the Goblin Chariot
-downedBigDipper: 击败 the Big Dipper
-downedPuppetOpera: 击败 the Puppet Opera
-downedAvatarOfEmptiness: 击败 the Avatar of Emptiness
-DownedXG07Mars: 击败 XG-07 马尔斯
+downedNekoSlime: 击败猫猫头
+downedNightmareAmplifierSlime: 击败梦魇史莱姆
+downedGoblinChariot: 击败哥布林战车
+downedBigDipper: 击败大熊星座
+downedPuppetOpera: 击败木偶歌剧
+downedAvatarOfEmptiness: 击败虚无化身
+DownedXG07Mars: 击败 XG-07 玛尔斯
 beenToSpiritUnderground: 访问the Spirit underground
 beenToInfernalDepths: 访问炼狱深渊
 beenToMaze: 访问暗处
-beenToFrozenHell: 访问the Frozen Hell
+beenToFrozenHell: 访问寒狱
 downedPrimordialWyrm: 击败始源妖龙
 downedSpookFishron: 击败 Spook Fishron
 beenToLowerCatacombs: 访问the Lower Catacombs
@@ -504,9 +504,12 @@ DownedRegaroth: 击败 Regaroth
 DownedScourgeFighter: 击败 the Scourge Fighter
 DownedInfernace: 击败 Infernace
 DownedWasteland: 击败废土
-downedRiftDenizen: Mods.QoLCompendium.ModConditions.downedRiftDenizen
-downedSelfsimilarSentinel: Mods.QoLCompendium.ModConditions.downedSelfsimilarSentinel
-downedEclipxie: Mods.QoLCompendium.ModConditions.downedEclipxie
-downedHemorrphage: Mods.QoLCompendium.ModConditions.downedHemorrphage
-downedPolarities: Mods.QoLCompendium.ModConditions.downedPolarities
-HasBeenToSavanna: Mods.QoLCompendium.ModConditions.HasBeenToSavanna
+downedRiftDenizen: 击败隙间之眼
+downedSelfsimilarSentinel: 击败自相似哨位
+downedEclipxie: 击败蚀日妖灵
+downedHemorrphage: 击败血裂噬菌体
+downedPolarities: 击败电磁两级
+HasBeenToSavanna: 访问稀树平原
+RevengeanceMode: 处于复仇模式
+DeathMode: 处于死亡模式
+RevengeanceOrDeathMode: 处于复仇或死亡模式

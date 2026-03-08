@@ -28,6 +28,11 @@ StaffOfOvergrowth: {
 	Tooltip: ""
 }
 
+StaffOfInfecting: {
+	DisplayName: 星染法杖
+	Tooltip: ""
+}
+
 Omnistaff: {
 	DisplayName: 全能法杖
 	Tooltip: 右键点击该物品切换草的类型

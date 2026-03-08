@@ -34,8 +34,28 @@ DisableDashDoubleTap: {
 		'''
 }
 
+ActiveBuffsHaveEnchantedEffects: {
+	Label: "[i:1067] 激活的Buff物品具有附魔特效"
+	Tooltip: 切换启用是否让激活的Buff物品具有类似《我的世界》附魔特效
+}
+
+ActiveBannersHaveEnchantedEffects: {
+	Label: "[i:1067] 激活的旗帜具有附魔特效"
+	Tooltip: 切换启用是否让激活的旗帜具有类似《我的世界》附魔特效
+}
+
+GoodPrefixesHaveEnchantedEffects: {
+	Label: "[i:1067] 好前缀物品具有附魔特效"
+	Tooltip: 切换启用是否让具有好前缀的物品具有类似《我的世界》的附魔特效
+}
+
+CalamityEntropyArmorPrefixesHaveEnchantedEffects: {
+	Label: "[i:1067] [C/9E22E7:灾熵] - 盔甲前缀具有附魔特效"
+	Tooltip: 切换启用是否让 灾熵有前缀的盔甲具有类似《我的世界》附魔特效
+}
+
 GlintColor: {
-	Tooltip: 改变物品闪光特效的颜色
+	Tooltip: 改变物品附魔闪光特效的颜色
 	Label: "[i:1067] 闪光颜色"
 }
 

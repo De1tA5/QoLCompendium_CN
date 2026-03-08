@@ -3,6 +3,7 @@ SuperDummy.DisplayName: 超级假人
 BMDealerNPC: {
 	DisplayName: 黑市商人
 	Census.SpawnCondition: 无条件
+	Bestiary: 他来自遥远的土地，贩卖难以获得的物品，但问题是他究竟如何得到这些东西的……
 
 	TownNPCMood: {
 		Content: 这地方挺不错的。
@@ -41,11 +42,20 @@ BMDealerNPC: {
 		AmmoShop: 弹药
 		ShopChanger: 改变商店
 	}
+
+	Names: {
+		Name0: Bon
+		Name1: Ned
+		Name2: Jay
+		Name3: Jack
+		Name4: Jabon
+	}
 }
 
 EtherealCollectorNPC: {
 	DisplayName: 飘灵收藏家
 	Census.SpawnCondition: 无条件
+	Bestiary: 他来此地贩卖东西，但他从何而来？
 
 	TownNPCMood: {
 		Content: 这地方挺不错的。
@@ -66,16 +76,31 @@ EtherealCollectorNPC: {
 	}
 
 	ShopName: {
-		"Modded Potions": Ethereal Collector: 模组药水
-		"Modded Flasks, Stations & Foods": Ethereal Collector: 模组药剂，增益站 & 食物
-		"Modded Materials": Ethereal Collector: 模组材料
-		"Modded Materials 2": Ethereal Collector: 模组材料2
-		"Modded Treasure Bags": Ethereal Collector: 模组宝藏袋
-		"Modded Crates & Grab Bags": Ethereal Collector: 模组宝匣 & 摸彩袋
-		"Modded Ores & Bars": Ethereal Collector: 模组矿石 & 锭
-		"Modded Natural Blocks": Ethereal Collector: 模组自然物块
-		"Modded Building Blocks": Ethereal Collector: 模组建筑物块
-		"Modded Herbs & Plants": Ethereal Collector: 模组草药 & 植物
-		"Modded Fish & Fishing Gear": Ethereal Collector: 模组鱼类 & 钓鱼装备
+		ModdedPotionShop: 模组药水 & 食物
+		ModdedStationsAndUpgradesShop: 模组增益站 & 强化物品
+		ModdedMaterialShop: 模组材料 （模组：A-M）
+		ModdedMaterialShop2: 模组材料 （模组：N-Z）
+		ModdedMobilityAccessoryShop: 模组移动类饰品
+		ModdedCombatAccessoryShop: 模组战斗类饰品
+		ModdedToolsAndInfoShop: 模组工具 & 信息类装备
+		ModdedTreasureBagShop: 模组宝藏袋
+		ModdedCratesAndGrabBagsShop: 模组宝匣 & 摸彩袋
+		ModdedOresAndBarsShop: 模组矿石 & 锭
+		ModdedNaturalBlockShop: 模组自然物块
+		ModdedBuildingBlockShop: 模组建筑物块
+		ModdedHerbsAndPlantsShop: 模组草药 & 植物
+		ModdedFishShop: 模组鱼类相关
+		ModdedCritterShop: 模组小动物
+		ModdedMountsAndHooksShop: 模组坐骑 & 钩爪
+		ModdedAmmoShop: 模组弹药
+		ShopChanger: 改变商店
+	}
+
+	Names: {
+		Name0: Spiri
+		Name1: Lumen
+		Name2: Dexter
+		Name3: Geist
+		Name4: Sullivan
 	}
 }

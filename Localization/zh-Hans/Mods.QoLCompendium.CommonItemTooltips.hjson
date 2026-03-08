@@ -6,6 +6,7 @@ StaffOfHallowingPlaceable: 在土块上种植[C/4EC1E3:神圣草]
 StaffOfHemorrhagingPlaceable: 在土块或泥块上种植[C/B74544:猩红草]
 StaffOfOvergrowthPlaceable: 在泥块上种植[C/8FD71D:丛林草]
 StaffOfShroomingPlaceable: 在泥块上种植[C/4EC1E3:蘑菇草]
+StaffOfInfectingPlaceable: 在星幻土块上种植[C/4D949A:星幻草]
 OmnistaffPlaceable: 在土块、泥块或灰烬块上种植各种草
 MossStaffPlaceable: 在石块或灰砖上种植各种苔藓
 GlowingMossStaffPlaceable: 在石块或灰砖上种植各种发光苔藓

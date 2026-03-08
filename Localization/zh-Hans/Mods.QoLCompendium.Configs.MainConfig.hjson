@@ -124,24 +124,6 @@ EndlessBaitAmount: {
 	Label: "[i:161] 无尽鱼饵堆叠需求量"
 }
 
-ActiveBuffsHaveEnchantedEffects: {
-	Label: "[i:1067] 激活的Buff物品具有附魔特效"
-	Tooltip:
-		'''
-		切换启用是否让激活的Buff物品具有类似《我的世界》附魔特效
-		你可以修改“主要客户端设置”的“闪光颜色”来改变附魔特效的颜色
-		'''
-}
-
-ActiveBannersHaveEnchantedEffects: {
-	Label: "[i:1067] 激活的旗帜具有附魔特效"
-	Tooltip:
-		'''
-		切换启用是否让激活的旗帜具有类似《我的世界》附魔特效
-		你可以修改“主要客户端设置”的“闪光颜色”来改变附魔特效的颜色
-		'''
-}
-
 IncreaseMaxStack: {
 	Label: "[i:2] 物品最大堆叠量"
 	Tooltip:
@@ -179,6 +161,11 @@ StackableQuestItems: {
 NonConsumableKeys: {
 	Label: "[i:329] 不消耗钥匙"
 	Tooltip: 切换启用是否让 暗影钥匙/金撬锁器 在作为制作材料时会被消耗
+}
+
+MoreCrateDrops: {
+	Label: "[i:3979] 更多宝匣掉落"
+	Tooltip: 切换启用是否为原版和模组宝匣增加更多宝匣掉落
 }
 
 BossItemTransmutation: {
@@ -278,11 +265,6 @@ AutoReuseUpgrades: {
 	Tooltip: 切换启用是否让自动连点与多数永久提升物品（如生命水晶）一起生效
 }
 
-GoodPrefixesHaveEnchantedEffects: {
-	Label: "[i:1067] 好前缀物品具有附魔特效"
-	Tooltip: 切换启用是否让具有好前缀的物品具有类似《我的世界》的附魔特效
-}
-
 ReworkReforging: {
 	Label: "[i:1291] 重铸重做"
 	Tooltip: 切换启用是否将重铸功能重做为类似《灾厄》模组的版本
@@ -336,7 +318,6 @@ FastTownNPCSpawns: {
 	Label: "[i:17] 城镇NPC快速生成"
 	Tooltip:
 		'''
-		' 
 		改变城镇NPC的生成速度
 		数值越高，生成速度越快
 		'''
@@ -612,7 +593,7 @@ AllHairStylesAvailable: {
 	Tooltip:
 		'''
 		切换启用是否在角色创建时所有发型均可用
-		（部分发型需在击败世纪之花、火星暴乱和月亮领主后解锁）
+		（原版的部分发型需在击败世纪之花、火星暴乱和月亮领主后解锁）
 		'''
 }
 
@@ -723,6 +704,11 @@ FastHerbGrowth: {
 	Tooltip: 切换启用是否让草药更快生长
 }
 
+HerbSmartCursor: {
+	Label: "[i:5295] 智能光标作用于炼金草药"
+	Tooltip: 换启用是否让智能光标作用于炼金草药
+}
+
 TreesDropMoreWhenShook: {
 	Label: "[i:4856] 摇树掉落更多物品"
 	Tooltip: 切换启用是否让摇树掉落更多的果实和宝石
@@ -784,4 +770,14 @@ HalloweenActive: {
 DisableCredits: {
 	Tooltip: 切换启用是否在击败月亮领主后不显示制作人员名单
 	Label: "[i:264] 禁用制作人员名单"
+}
+
+MoreCrateDrops: {
+	// Label: "[i:3979] More Crate Drops"
+	// Tooltip: Toggles if more crate drops are added to vanilla and modded crates
+}
+
+HerbSmartCursor: {
+	// Label: "[i:5295] Smart Cursor Works With Alchemy Herbs"
+	// Tooltip: Toggles if smart cursor can be used with alchemy herbs
 }

@@ -15,6 +15,11 @@ AFKPetsRegrowthReplant: {
 	Tooltip: 切换启用是否让AFKPets的作物在被再生法杖或再生之斧收获时自动重种
 }
 
+DepthsHerbFix: {
+	Label: "[i:369] [C/5B087D:死渊] - 修复矮影树为易碎物块"
+	Tooltip: 切换启用是否让 矮影树能被再生法杖或再生之斧收集
+}
+
 CrystalDragonsTopazPrefixFix: {
 	Label: "[i:509] Crystal Dragons - 黄玉龙前缀修复"
 	Tooltip:
@@ -43,15 +48,6 @@ CalamityCrateDropRevert: {
 	Tooltip: 切换启用是否在启用灾厄时，让宝匣回退至未削弱前版本的效果
 }
 
-MoreCrateDrops: {
-	Label: "[i:3979] 更多宝匣掉落"
-	Tooltip:
-		'''
-		切换启用是否为各个模组增加更多宝匣掉落
-		[C/959595:译者补充:经源码查询和反编译，该选项没对应代码意味着没有任何用处]
-		'''
-}
-
 RemoveThoriumExhaustion: {
 	Label: "[i:509] [C/00E5FF:瑟银] - 移除疲劳值"
 	Tooltip: 切换启用是否将瑟银投手武器的疲劳值机制移除
@@ -76,9 +72,9 @@ EndlessInspirationPotionsAmount: {
 	Tooltip: 更改 无尽灵感药水 所需的物品数量
 }
 
-CalamityEntropyArmorPrefixesHaveEnchantedEffects: {
-	Label: "[i:1067] [C/9E22E7:灾熵] - 盔甲前缀具有附魔特效"
-	Tooltip: 切换启用是否让 灾熵有前缀的盔甲具有类似《我的世界》附魔特效
+ThoriumRarityFix: {
+	Label: "[i:161] [C/00E5FF:瑟银] - 稀有度修复"
+	Tooltip: 切换启用是否将 丛林之心正确归类为专家物品
 }
 
 ShimmerableAnglerCoins: {
