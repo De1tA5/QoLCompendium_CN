@@ -1,7 +1,5 @@
 [h2] Quality of Life Compendium - 更全面的体验-直装汉化[/h2]
 
-硬编码部分汉化使用——[url=https://github.com/TigerChenzzz/TerrariaTigerForceLocalizationLib] TigerForceLocalizationLib [/url]
-以及我自己的代码进行修复
 目前汉化程度：99%
 
 [url=https://github.com/De1tA5/QoLCompendium_CN] 开源汉化库 [/url]
