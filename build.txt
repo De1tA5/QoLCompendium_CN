@@ -1,7 +1,6 @@
-displayName = 更全面的体验
+displayName = Quality of Life Compendium - 更全面的体验
 author = 三杯伍迪
-version = 1.0
+version = 1.2
 sortAfter = QoLCompendium
 modReferences = QoLCompendium
-dllReferences = TigerForceLocalizationLib
 translationMod = true
