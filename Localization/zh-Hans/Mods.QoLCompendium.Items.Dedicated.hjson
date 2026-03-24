@@ -1,34 +1,47 @@
 LittleEgg: {
 	DisplayName: Little Egg
-	Tooltip: Summons a Yagi
+	Tooltip: 召唤小Yagi
 }
 
 Lamp: {
-	DisplayName: Lamp
-	Tooltip: Summons a Moth
+	DisplayName: 台灯
+	Tooltip: 召唤一只飞蛾
 }
 
 THEButton: {
-	DisplayName: THE Button
-	Tooltip: Press for a permanent new world perspective!
+	DisplayName: 按 钮
+	Tooltip:
+		''' 
+		按下会获得永久的新世界视角！
+		[C/FF0000:警告：这会使你永久颠倒世界，常规方法无法解除！]
+		'''
 }
 
 THEotherButton: {
-	// DisplayName: THE other Button
-	// Tooltip: Permanently back by unpopular demand!
+	DisplayName: THE other Button
+	Tooltip: Permanently back by unpopular demand!
 }
 
 OwlNest: {
-	DisplayName: Owl Nest
-	Tooltip: Summons an Owl
+	DisplayName: 猫头鹰巢穴
+	Tooltip: 召唤一只猫头鹰
 }
 
 Flute: {
-	DisplayName: Flute
-	Tooltip: Summons a Snake
+	DisplayName: 长笛
+	Tooltip: 召唤一只蛇
 }
 
 WoodenClub: {
-	DisplayName: Wooden Club
-	Tooltip: Pairs well with the Sea Scarf
+	DisplayName: 木棒
+	Tooltip: 与海洋围巾很般配
+}
+
+GlassCannon: {
+	DisplayName: 玻璃大炮
+	Tooltip:
+		'''
+		改变你的受伤音效
+		“我在捣乱”
+		'''
 }

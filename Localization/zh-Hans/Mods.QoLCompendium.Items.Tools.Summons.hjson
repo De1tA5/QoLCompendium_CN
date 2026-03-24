@@ -144,6 +144,24 @@ ReaperSharkSummon: {
 		'''
 }
 
+HauntedTomeSummon: {
+	DisplayName: 可疑书本
+	Tooltip:
+		'''
+		召唤闹鬼之书
+		在夜晚使用 
+		'''
+}
+
+OccultistSummon: {
+	DisplayName: 舌状宝石
+	Tooltip:
+		'''
+		召唤玄虚术士
+		在血夜使用
+		'''
+}
+
 SummoningRemote: {
 	DisplayName: 召唤遥控
 	Tooltip:

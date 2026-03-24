@@ -1,8 +1,8 @@
 ConfigGlintID: {
 	Tooltip: ""
 
-	White: {
-		Label: 白色
+	Rainbow: {
+		Label: 彩虹色
 		Tooltip: ""
 	}
 
@@ -31,8 +31,8 @@ ConfigGlintID: {
 		Tooltip: ""
 	}
 
-	Blue: {
-		Label: 蓝色
+	Teal: {
+		Label: 青绿色
 		Tooltip: ""
 	}
 
@@ -43,6 +43,11 @@ ConfigGlintID: {
 
 	SkyBlue: {
 		Label: 天蓝色
+		Tooltip: ""
+	}
+
+	Blue: {
+		Label: 蓝色
 		Tooltip: ""
 	}
 
@@ -61,18 +66,13 @@ ConfigGlintID: {
 		Tooltip: ""
 	}
 
-	Rainbow: {
-		Label: 彩虹色
-		Tooltip: ""
-	}
-
-	Teal: {
-		Label: 青绿色
-		Tooltip: ""
-	}
-
 	Black: {
 		Label: 黑色
+		Tooltip: ""
+	}
+
+	White: {
+		Label: 白色
 		Tooltip: ""
 	}
 }

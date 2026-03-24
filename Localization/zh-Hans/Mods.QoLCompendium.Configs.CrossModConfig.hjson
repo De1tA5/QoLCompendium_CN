@@ -106,3 +106,8 @@ SpiritClassicBossSummonClassificationFix: {
 	Label: "[i:560] [C/51BDE3:魂灵·经典] - Boss召唤物归类修复"
 	Tooltip: 切换启用是否让魂灵·经典的Boss召唤物品能被正确归类为Boss召唤物
 }
+
+SpiritClassicYoyoClassificationFix: {
+	Label: "[i:3278] [C/51BDE3:魂灵·经典] -  悠悠球归类修复"
+	Tooltip: 切换启用是否让魂灵·经典的悠悠球物品能被正确归类为悠悠球
+}
