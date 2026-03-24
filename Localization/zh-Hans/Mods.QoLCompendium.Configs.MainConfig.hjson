@@ -771,13 +771,3 @@ DisableCredits: {
 	Tooltip: 切换启用是否在击败月亮领主后不显示制作人员名单
 	Label: "[i:264] 禁用制作人员名单"
 }
-
-MoreCrateDrops: {
-	// Label: "[i:3979] More Crate Drops"
-	// Tooltip: Toggles if more crate drops are added to vanilla and modded crates
-}
-
-HerbSmartCursor: {
-	// Label: "[i:5295] Smart Cursor Works With Alchemy Herbs"
-	// Tooltip: Toggles if smart cursor can be used with alchemy herbs
-}
