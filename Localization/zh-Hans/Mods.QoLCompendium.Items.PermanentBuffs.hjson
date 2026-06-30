@@ -1,4 +1,4 @@
-DefaultPermanent: 永久
+DefaultPermanent: “永久 ”
 PermanentAmmoBox.DisplayName: 永久弹药箱
 PermanentAmmoReservation.DisplayName: 永久弹药储备
 PermanentArchery.DisplayName: 永久箭术
@@ -182,7 +182,7 @@ PermanentCalamityAlcohols.DisplayName: 永久灾厄酒类增益
 PermanentCalamityAbyss.DisplayName: 永久灾厄深渊增益
 PermanentCalamityDamage.DisplayName: 永久灾厄伤害增益
 PermanentCalamityDefense.DisplayName: 永久灾厄防御增益
-PermanentCalamityFarming.DisplayName: 永久灾厄刷怪增益
+PermanentCalamityFarming.DisplayName: 永久灾厄实用增益
 PermanentCalamityMovement.DisplayName: 永久灾厄移动增益
 PermanentCalamityArena.DisplayName: 永久灾厄场地增益
 PermanentCalamityFlasks.DisplayName: 永久灾厄武器灌注
@@ -214,7 +214,7 @@ PermanentNuke.DisplayName: 永久核爆
 PermanentParasite.DisplayName: 永久寄生
 PermanentRightist.DisplayName: 永久右边
 PermanentSignal.DisplayName: 永久信号
-PermanentHomewardJourneyFarming.DisplayName: 永久旅人归途刷怪增益
+PermanentHomewardJourneyFarming.DisplayName: 永久旅人归途实用增益
 PermanentHomewardJourneyMovement.DisplayName: 永久旅人归途移动增益
 PermanentHomewardJourneyArena.DisplayName: 永久旅人归途场地增益
 PermanentHomewardJourneyFlasks.DisplayName: 永久旅人归途武器灌注
@@ -307,7 +307,7 @@ PermanentShadowsOfAbaddonDamage.DisplayName: 永久亚巴顿之影伤害增益
 PermanentShadowsOfAbaddonDefense.DisplayName: 永久亚巴顿之影防御增益
 PermanentShadowsOfAbaddonRevenant.DisplayName: 永久亚巴顿之影Revenant增益
 PermanentShadowsOfAbaddonMovement.DisplayName: 永久亚巴顿之影移动增益
-PermanentShadowsOfAbaddonFarming.DisplayName: 永久亚巴顿之影刷怪增益
+PermanentShadowsOfAbaddonFarming.DisplayName: 永久亚巴顿之影实用增益
 PermanentShadowsOfAbaddon.DisplayName: 永久亚巴顿之影增益
 PermanentDeathsinger.DisplayName: 永久Deathsinger
 PermanentInspirationRegeneration.DisplayName: 永久Inspiration Regeneration
@@ -364,3 +364,13 @@ PermanentFlaskOfForceBreak.DisplayName: 永久断键灌注
 PermanentStarstrikinglySatiated.DisplayName: 永久饱如巨星
 PermanentManhattan.DisplayName: 永久曼哈顿
 PermanentPainter.DisplayName: 永久画家
+PermanentAnxiety.DisplayName: 永久焦虑
+PermanentAttraction.DisplayName: 永久引力
+PermanentDiligence.DisplayName: 永久勤奋
+PermanentGelidMana.DisplayName: 永久魔力溢出
+PermanentPurity.DisplayName: 永久净化
+PermanentKeystone.DisplayName: 永久基石
+PermanentWarningSign.DisplayName: 永久警告牌
+PermanentSplit.DisplayName: 永久裂痕增益
+PermanentBaconOil.DisplayName: 永久培根油
+PermanentMalnourished.DisplayName: 永久吃的坏

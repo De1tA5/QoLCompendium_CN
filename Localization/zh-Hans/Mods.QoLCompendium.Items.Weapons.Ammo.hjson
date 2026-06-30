@@ -219,7 +219,7 @@ EndlessExplosiveJackOLantern: {
 }
 
 EndlessGelTank: {
-	DisplayName: 无尽凝胶仓
+	DisplayName: 无尽凝胶罐
 	Tooltip: ""
 }
 
@@ -915,5 +915,35 @@ EndlessT3MissilePouch: {
 
 EndlessT4MissilePouch: {
 	DisplayName: 无尽四类导弹袋
+	Tooltip: ""
+}
+
+EndlessBlackQuiver: {
+	DisplayName: 无尽黑暗箭袋
+	Tooltip: ""
+}
+
+EndlessTracingQuiver: {
+	DisplayName: 无尽追踪箭袋
+	Tooltip: ""
+}
+
+EndlessPiercingBulletPouch: {
+	DisplayName: 无尽穿甲弹袋
+	Tooltip: ""
+}
+
+EndlessPrismaticBulletPouch: {
+	DisplayName: 无尽棱镜弹袋
+	Tooltip: ""
+}
+
+EndlessLavaCreamTank: {
+	DisplayName: 无尽熔岩膏罐
+	Tooltip: ""
+}
+
+EndlessRedHotSolution: {
+	DisplayName: 无尽炽热溶液
 	Tooltip: ""
 }

@@ -295,14 +295,19 @@ EtherealCollectorCanSpawn: {
 	Tooltip: 切换启用是否让飘灵收藏家可以入住
 }
 
-RemoveBiomeShopRequirements: {
-	Label: "[i:4766] 移除商店环境需求"
+RemoveBiomeVisitRequirements: {
+	Label: "[i:4766] 移除更全面体验NPC所需的商店环境"
 	Tooltip:
 		'''
 		切换启用是否移除商店某些物品需要访问特定环境才能解锁的条件
 		启用后会永久影响这个世界
-		（疑似不生效）
+		只会影响黑市商人和飘灵收藏家！
 		'''
+}
+
+RemoveShopConditions: {
+	Label: "[i:4766] 移除商店需求"
+	Tooltip: 移除大部分城镇NPC售卖物品需要环境的要求
 }
 
 TownNPCsDontDie: {
@@ -426,6 +431,11 @@ LavaSlimesDontDropLava: {
 ExtraDefenderMedalDrops: {
 	Tooltip: 切换启用是否让 [i:3828]撒旦军队 小Boss掉落护卫奖章
 	Label: "[i:3817] 额外护卫奖章掉落"
+}
+
+EarlyOldOnesArmyRelics: {
+	Tooltip: 切换启用是否让黑暗魔法师和食人魔在第1和第2阶段带掉落对应的圣物
+	Label: "[i:4946] 撒旦军队圣物时期前移"
 }
 
 RelicsInExpert: {
@@ -659,6 +669,11 @@ FullHealthRespawn: {
 	Tooltip: 切换启用是否在复活后处于满生命值和魔力值
 }
 
+NoBedRestrictions: {
+	Label: "[i:224] 床无复活点设置限制"
+	Tooltip: 切换启用是否让床复活点可以在任何地方设置
+}
+
 WingSlot: {
 	Label: "[i:4978] 翅膀栏"
 	Tooltip: 切换启用一个用于翅膀的饰品栏
@@ -730,12 +745,8 @@ BreakAllDungeonBricks: {
 }
 
 BombableHardmodeOres: {
-	Label: "[i:167] 困难模式矿石可被炸掉"
-	Tooltip:
-		'''
-		切换启用是否让困难模式矿石在击败所有机械Boss后可以被炸掉
-		击败世纪之花后可以炸掉叶绿矿
-		'''
+	Label: "[i:167] 可被炸掉的困难模式矿石"
+	Tooltip: 切换启用是否让困难模式矿石能被炸掉
 }
 
 MoreFallenStars: {

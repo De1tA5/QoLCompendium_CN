@@ -47,3 +47,8 @@ GlowingMossStaff: {
 	DisplayName: 发光苔藓法杖
 	Tooltip: 右键点击该物品切换发光的类型
 }
+
+StaffOfScorching: {
+	// DisplayName: Staff of Scorching
+	// Tooltip: ""
+}

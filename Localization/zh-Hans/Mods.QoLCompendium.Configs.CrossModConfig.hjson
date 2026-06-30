@@ -1,5 +1,10 @@
 DisplayName: 跨模组设置
 
+MagicStorageShadowDiamondDrops: {
+	Label: "[i:182] 魔法存储 - 模组Boss掉落暗影钻石"
+	Tooltip: 切换启用是否让所有模组Boss必定掉落暗影钻石
+}
+
 AFKPetsCropFix: {
 	Label: "[i:369] [C/2C7C4B:AFKPets] - 作物能被快速破坏"
 	Tooltip: 切换启用是否让AFKPets的作物能被弹幕或近战挥舞破坏
@@ -100,6 +105,21 @@ EndlessVoidConsumablesAmount: {
 ElementsAwokenPuffSlimes: {
 	Label: "[i:440] [C/52B875:元素觉醒] - 泡芙史莱姆"
 	Tooltip: 切换启用是否让泡芙史莱姆能够在森林里自然生成
+}
+
+ElementsAwokenBatteriesInBanks: {
+	Label: "[i:530] [C/52B875:元素觉醒] - 电池在个人存储中生效"
+	Tooltip: 切换启用是否让提升最大能量上限物品在个人存储中生效
+}
+
+ElementsAwokenEndlessFuel: {
+	Label: "[i:2701] [C/52B875:元素觉醒] -  Endless Generator Fuel"
+	Tooltip: Toggles endless generator fuel
+}
+
+ElementsAwokenEndlessFuelAmount: {
+	Label: "[i:161] [C/52B875:元素觉醒] Endless Fuel Amount"
+	Tooltip: Change the amount of items needed for endless generator fuel
 }
 
 SpiritClassicBossSummonClassificationFix: {
