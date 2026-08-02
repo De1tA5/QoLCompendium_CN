@@ -29,7 +29,7 @@ ActiveBanner: Banner Activated
 ActiveCraftingStation: Crafting Station Activated
 PotionCrateTooltip: Right click while holding a stack of {0} potions to deposit them
 ItemDisabled: (ITEM DISABLED)
-Disabled: (DISABLED)
+Disabled: " (DISABLED)"
 FromMod: From mod: {0}
 WarriorClass: "[c/fe7902:-Melee Class-]"
 RangerClass: "[c/22dd97:-Ranger Class-]"
@@ -48,6 +48,8 @@ EngineerClass: "[c/6dd450:-Engineer Class-]"
 ArtistClass: "[c/ff7d8e:-Artist Class-]"
 RevenantClass: "[c/42305b:-Revenant Class-]"
 BloodHunterClass: "[c/A00000:-Blood Hunter Class-]"
+DemolisherClass: "[c/bf4c0a:-Demolisher Class-]"
+KiClass: "[c/a7faf2:-Ki Class-]"
 VoidWarriorClass: "[c/51257d:-Void Melee Class-]"
 VoidRangerClass: "[c/51257d:-Void Ranger Class-]"
 VoidSorcererClass: "[c/51257d:-Void Mage Class-]"
