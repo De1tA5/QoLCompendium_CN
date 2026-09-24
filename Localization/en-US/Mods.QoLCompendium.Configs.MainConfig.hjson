@@ -449,6 +449,11 @@ NoNaturalBossSpawns: {
 		'''
 }
 
+DreadnautilusBossHead: {
+	Label: "[i:4271] Dreadnautilus Map Icon"
+	Tooltip: Toggles if the Dreadnautilus is given a map icon
+}
+
 ExtraLures: {
 	Label: "[i:5139] Extra Fishing Lines"
 	Tooltip: Change the amount of bobbers fishing rods cast

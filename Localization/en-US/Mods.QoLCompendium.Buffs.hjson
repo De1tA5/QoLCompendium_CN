@@ -17,3 +17,8 @@ SnakeBuff: {
 	DisplayName: Snake
 	Description: Oh ok
 }
+
+NoneBuff: {
+	Description: There is nothing
+	DisplayName: None
+}
