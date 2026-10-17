@@ -30,8 +30,9 @@ DestinationGlobe: {
 	DisplayName: 环境地球仪
 	Tooltip:
 		'''
-		左键使用 切换所处环境
-		收藏该物品永久处于所选的环境
+		左键使用 打开选择界面
+		在物品栏中右键点击 打开选择界面
+		无论物品在何处，已选择的环境都会保持激活
 		'''
 }
 
@@ -40,7 +41,8 @@ EntityManipulator: {
 	Tooltip:
 		'''
 		左键使用 切换生成率倍率调整
-		收藏该物品激活所选的生成率调整
+		在物品栏中右键点击 打开选择界面
+		无论物品在何处，已选择的选项都会保持激活
 		'''
 }
 
@@ -66,7 +68,11 @@ MiniSundial: {
 
 PhaseInterrupter: {
 	DisplayName: 月相中断器
-	Tooltip: 左键使用选择月相
+	Tooltip:
+		'''
+		左键使用 选择月相
+		在物品栏中右键点击 打开选择界面
+		'''
 }
 
 PotionCrate: {
@@ -132,4 +138,13 @@ WatchingEye: {
 SuperchargedSuperCell: {
 	DisplayName: 超级充能电池
 	Tooltip: 使嘉登军械库的物品处于100%充能
+}
+
+TimeWrinkler: {
+	DisplayName: 时光扭曲镜
+	Tooltip:
+		'''
+		左键使用 打开选择界面改变时间
+		在物品栏中右键点击 打开选择界面
+		'''
 }

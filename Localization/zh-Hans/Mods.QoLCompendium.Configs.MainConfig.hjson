@@ -465,6 +465,11 @@ NoNaturalBossSpawns: {
 		'''
 }
 
+DreadnautilusBossHead: {
+	Label: "[i:4271] 恐惧鹦鹉螺地图图标"
+	Tooltip: 切换启用是否为恐惧鹦鹉螺提供地图Boss图标
+}
+
 ExtraLures: {
 	Label: "[i:5139] 额外鱼线"
 	Tooltip: 改变钓鱼竿投掷的浮标数量

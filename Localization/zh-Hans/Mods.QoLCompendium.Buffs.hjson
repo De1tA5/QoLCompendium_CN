@@ -21,3 +21,8 @@ SnakeBuff: {
 	DisplayName: 蛇
 	Description: 哦，好吧
 }
+
+NoneBuff: {
+	Description: 这啥也没有
+	DisplayName: 无
+}

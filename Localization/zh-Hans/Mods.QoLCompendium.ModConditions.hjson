@@ -1,3 +1,4 @@
+ItemObtained: 当物品堆叠数在 {0} 以上时出售
 beenThroughNight: 至少经过一次夜晚
 downedLunarEvent: 完成月亮事件
 downedEclipse: 完成日食
@@ -462,9 +463,9 @@ shimmerableAfterMoonLordOrSupremeCalamitas: 击败月亮领主，或启用《灾
 downedCruiser: 击败巡游者
 downedCursedCoffin: 击败咒缚灵棺
 downedOrdealAny: 击败任意考验
+//灾熵
 downedNihilityTwin: 击败虚无双子
 downedProphet: 击败先知
-ItemObtained: 当物品堆叠数在 {0} 以上时出售
 downedLuminaris: 击败 Luminaris
 downedExcavator: 击败掘地重蝎
 downedHauntedRainforest: 完成 the Haunted Rainforest
@@ -481,6 +482,7 @@ beenToInfernalDepths: 访问炼狱深渊
 beenToMaze: 访问暗处
 beenToFrozenHell: 访问寒狱
 downedPrimordialWyrm: 击败始源妖龙
+//惊惧
 downedSpookFishron: 击败 Spook Fishron
 beenToLowerCatacombs: 访问the Lower Catacombs
 beenToTempleOfMoco: 访问the Temple of Moco
@@ -504,19 +506,25 @@ DownedRegaroth: 击败 Regaroth
 DownedScourgeFighter: 击败 the Scourge Fighter
 DownedInfernace: 击败 Infernace
 DownedWasteland: 击败废土
+//极性
 downedRiftDenizen: 击败隙间之眼
 downedSelfsimilarSentinel: 击败自相似哨位
 downedEclipxie: 击败蚀日妖灵
 downedHemorrphage: 击败血裂噬菌体
 downedPolarities: 击败电磁两级
+//魂灵·新魄
 HasBeenToSavanna: 访问稀树平原
+//灾厄
 RevengeanceMode: 处于复仇模式
 DeathMode: 处于死亡模式
 RevengeanceOrDeathMode: 处于复仇或死亡模式
+//灾熵
 DownedAcropolisMachine: 击败阿萨福勒卫城机甲
 DownedApsychos: 击败烬甲秽魔
+//魂灵·新魄
 DownedReforgedScarabeus: 击败圣甲虫
 HasBeenToSaltFlats: 访问盐滩
+//裂痕
 DownedSpirit: 击败诡影幽灵
 DownedOneShot: 击败冰封神枪手
 DownedMenace: 击败灾星雷云
@@ -526,6 +534,7 @@ DownedInsurgent: 击败叛世幻灵
 DownedSeth: 击败赛斯
 DownedUltimateSeth: 击败究极赛斯
 HasBeenToStrandedShip: 访问搁浅冰帆
+//
 HasBeenToUnderworldDomain: 访问冥域
 DownedZephyrSquid: 击败柔风鱿鱼
 DownedGlacieron: 击败冰峰翼龙
@@ -540,3 +549,55 @@ DownedMindFlayer: 击败噬心魔
 DownedAbyssalArmageddon: 完成冥渊末日事件
 HasBeenToShadowSurface: 访问幽影之地
 HasBeenToShadowDepths: 访问黑渊
+//远古觉醒·经典
+DownedAcidRainAny: Completed any Acid Rain
+HasBeenToSunkenShip: Visited the Sunken Ship
+HasBeenToParthenan: Visited the Parthenan
+HasBeenToLostKeep: Visited the Lost Keep
+HasBeenToAACVoid: Visited the Void
+HasBeenToTerrarium: Visited the Terrarium
+HasBeenToRedMushroom: Visited the Red Mushroom biome
+HasBeenToMire: Visited the Mire
+HasBeenToInferno: Visited the Inferno
+HasBeenToHoard: Visited the Hoard
+HasBeenToAcropolis: Visited the Acropolis
+DownedBiomiteCore: 击败the Biomite Core
+DownedCthulhu: 击败Cthulhu
+DownedSoulOfCthulhu: 击败the Soul of Cthulhu
+DownedInfinityZero: 击败无限零
+DownedShenDoragonAwakened: 击败Shen Doragon Awakened
+DownedShenDoragon: 击败Shen Doragon
+DownedRajahRabbitRevenge: 击败巨兔王公的复仇
+DownedZeroProtocol: 击败Zero Protocol
+DownedZero: 击败Zero
+DownedYamataNoOrochi: 击败Yamata No Orochi
+DownedYamata: 击败Yamata
+DownedOniAkuma: 击败Oni Akuma
+DownedAkuma: 击败Akuma
+DownedSistersOfDiscord: 击败混沌姐妹
+DownedEquinoxWorms: 击败the Equinox Worms
+DownedWormKingGreed: 击败Worm King Greed
+DownedOlympianAthena: 击败Olympian Athena
+DownedForsakenAnubis: 击败Forsaken Anubis
+DownedRajahRabbit: 击败Rajah Rabbit
+DownedGreed: 击败Greed
+DownedAthena: 击败Athena
+DownedAnubis: 击败Anubis
+DownedRaiderUltima: 击败Raider Ultima
+DownedOrthrusX: 击败Orthrus X
+DownedTheRetriever: 击败the Retriever
+DownedTechnoTruffle: 击败the Techno Truffle
+DownedSagittarius: 击败Sagittarius
+DownedDesertDjinn: 击败the Desert Djinn
+DownedSubzeroSerpent: 击败the Subzero Serpent
+DownedAACHydra: 击败the Hydra
+DownedBroodmother: 击败the Broodmother
+DownedTruffleToad: 击败the Truffle Toad
+DownedGripsOfChaos: 击败the Grips of Chaos
+DownedFeudalFungus: 击败the Feudal Fungus
+DownedMushroomMonarch: 击败赤孢皇
+DownedSiegeUnitAny: 击败any Siege Unit
+DownedEarlyAncientAny: 击败Olympian Athena or Worm King Greed
+DownedLateAncientAny: 击败Akuma, Yamata, or Zero
+DownedSuperAncientAny: 击败Shen Doragon, Infinity Zero, or Soul of Cthulhu
+DownedSirNautilus: 击败Sir Nautilus

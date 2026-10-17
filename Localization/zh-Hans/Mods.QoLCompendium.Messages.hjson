@@ -1,6 +1,7 @@
 MeteorStopped: "[c/32FF82:一颗陨石在大气层中燃烧殆尽！]"
 MeteoriteGiven: "[c/FFF014:收集 {0} {$ItemName.Meteorite}] [i/s{0}:116]"
 TeleportNPCsHome: "[c/32FF82:城镇NPC已经传送回家！]"
+EventLanternNight: 已安排灯笼夜
 EventRain: 天空正在变暗
 EventWind: 大风开始涌起
 EventSandstorm: 沙漠狂风正在呼啸
@@ -14,6 +15,7 @@ LockedBossWithTwoOptions: 击败 {0} 或 {1} 进行解锁
 LockedHardmode: 进入困难模式进行解锁
 LockedOneMech: 击败1个机械Boss进行解锁
 LockedThreeMechs: 击败所有3个机械Boss进行解锁
+Locked: 已解锁 {0}
 WorldJourney: 难度切换为 旅行模式
 WorldNormal: 难度切换为 普通模式
 WorldExpert: 难度切换为 专家模式

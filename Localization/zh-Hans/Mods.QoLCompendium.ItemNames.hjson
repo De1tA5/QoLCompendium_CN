@@ -33,32 +33,34 @@ GlowingMossStaff: {
 }
 
 DestinationGlobe: {
-	Biome0: 环境地球仪 （未选择）
-	Biome1: 环境地球仪 （沙漠）
-	Biome2: 环境地球仪 （雪原）
-	Biome3: 环境地球仪 （丛林）
-	Biome4: 环境地球仪 （发光蘑菇）
-	Biome5: 环境地球仪 （腐化）
-	Biome6: 环境地球仪 （猩红）
-	Biome7: 环境地球仪 （神圣）
-	Biome8: 环境地球仪 （纯净）
+	Biome0: 纯净
+	Biome1: 沙漠
+	Biome2: 雪原
+	Biome3: 丛林
+	Biome4: 发光蘑菇
+	Biome5: 腐化
+	Biome6: 猩红
+	Biome7: 神圣
+	Biome8: 未选择
+	Selected: 激活的环境：
 }
 
 EntityManipulator: {
-	SpawnModifier0: 实体操纵仪 （未选择）
-	SpawnModifier1: 实体操纵仪 （增加生成）
-	SpawnModifier2: 实体操纵仪 （减少生成）
-	SpawnModifier3: 实体操纵仪 （取消生成）
-	SpawnModifier4: 实体操纵仪 （取消事件）
-	SpawnModifier5: 实体操纵仪 （取消生成&事件）
+	SpawnManipulator0: 提升刷怪率
+	SpawnManipulator1: 减少刷怪率
+	SpawnManipulator2: 禁止刷怪
+	SpawnManipulator3: 禁止事件
+	SpawnManipulator4: 未选择
+	Selected: 激活的操纵模式：
 }
 
 SummoningRemote: {
 	Boss: 召唤遥控 （{0}）
 	BossTwins: 召唤遥控 （双子魔眼）
 	BossMoonLord: 召唤遥控 （月亮领主）
+	EventLanternNight: 召唤遥控 （灯笼夜）
 	EventRain: 召唤遥控 （下雨）
-	EventWind: 召唤遥控 （大风）
+	EventWind: 召唤遥控 （大风天）
 	EventSandstorm: 召唤遥控 （沙尘暴）
 	EventParty: 召唤遥控 （派对）
 	EventSlimeRain: 召唤遥控 （史莱姆雨）
@@ -70,10 +72,6 @@ SummoningRemote: {
 	EventPumpkinMoon: 召唤遥控 （南瓜月）
 	EventFrostMoon: 召唤遥控 （霜月）
 	EventMartianMadness: 召唤遥控 （火星暴乱）
-	EventNebulaPillar: 召唤遥控 （星云柱）
-	EventSolarPillar: 召唤遥控 （日耀柱）
-	EventStardustPillar: 召唤遥控 （星辰柱）
-	EventVortexPillar: 召唤遥控 （星漩柱）
 	EventLunar: 召唤遥控 （月亮事件）
 	NoModifier: 召唤遥控 （未选择）
 }
@@ -108,21 +106,12 @@ BottomlessLiquidBucket: {
 	Liquid3: 无底流体桶 （微光）
 }
 
-PermanentFlasks: {
-	FlaskOfCursedFlames: Permanent Flasks (Cursed Flames)
-	FlaskOfFire: Permanent Flasks (Fire)
-	FlaskOfGold: Permanent Flasks (Gold)
-	FlaskOfIchor: Permanent Flasks (Ichor)
-	FlaskOfNanites: Permanent Flasks (Nanites)
-	FlaskOfParty: Permanent Flasks (Party)
-	FlaskOfPoison: Permanent Flasks (Poison)
-	FlaskOfVenom: Permanent Flasks (Venom)
-}
-
-PermanentThoriumCoatings: {
-	DeepFreezeCoating: Permanent Thorium Coatings (Deep Freeze)
-	ExplosiveCoating: Permanent Thorium Coatings (Explosive)
-	GorgonCoating: Permanent Thorium Coatings (Gorgon)
-	SporeCoating: Permanent Thorium Coatings (Spore)
-	ToxicCoating: Permanent Thorium Coatings (Toxic)
+TimeWrinkler: {
+	Time0: 永久白天
+	Time1: 永久夜晚
+	Time2: 永久血月
+	Time3: 永久日食
+	Time4: 时间暂停
+	Time5: 未选择
+	Selected: 激活的操纵模式：
 }

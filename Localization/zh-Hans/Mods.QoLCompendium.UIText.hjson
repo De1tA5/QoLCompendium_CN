@@ -1,63 +1,58 @@
-ECPotionText: 模组药水
-ECStationText: 模组药剂，增益站 & 食物
-ECMaterialText: 模组材料 （模组：A-M）
-ECMaterial2Text: 模组材料 （模组：N-Z）
-ECBagText: 模组宝藏袋
-ECCrateText: 模组宝匣 & 摸彩袋
-ECOreText: 模组矿石 & 锭
-ECNaturalBlockText: 模组自然物块
-ECBuildingBlockText: 模组建筑物块
-ECHerbText: 模组草药 & 植物
-ECFishText: 模组鱼类 & 钓鱼装备
-BossText: Boss
-EventText: 事件
-MinibossText: 迷你Boss
-IncreaseSpawnText: 提升生成率
-DecreaseSpawnText: 降低生成率
-CancelSpawnText: 禁用生成
-CancelEventText: 禁用事件
-CancelSpawnAndEventText: 禁用生成和事件
-RevertText: 撤销更改
-FullMoonText: 满月
-WaningGibbousText: 亏凸月
-ThirdQuarterText: 下弦月
-WaningCrescentText: 残月
-NewMoonText: 新月
-WaxingCrescentText: 娥眉月
-FirstQuarterText: 上弦月
-WaxingGibbousText: 盈凸月
-PiggyBankText: 猪猪存钱罐
-SafeText: 保险箱
-DefendersForgeText: 护卫熔炉
-VoidVaultText: 虚空袋
-DesertText: 沙漠
-SnowText: 雪原
-JungleText: 丛林
-GlowingMushroomText: 发光蘑菇
-CorruptionText: 腐化
-CrimsonText: 猩红
-HallowText: 神圣 （需要困难模式）
-PurityText: 纯净
-CloseText: 关闭
-ResetText: 重置选项
-DisabledText: "{0} [c/cf1d1d:（已禁用）]"
-GardenGnomeText: 花园地精
-ArenaText: Arena Buffs
-PotionText: Potion Buffs
-StationText: Station Buffs
-AddonText: Addon Buffs
-RepellentText: Repellent Buffs
-CandyText: Candy Buffs
-VanillaText: Open Vanilla Buffs
-CalamityText: Open Calamity Buffs
-HomewardJourneyText: Open Homeward Journey Buffs
-MartinsOrderText: Open Martin's Order Buffs
-SOTSText: Open Secrets of the Shadows Buffs
-SpiritClassicText: Open Spirit Classic Buffs
-ThoriumText: Open Thorium Buffs
-VitalityText: Open Vitality Buffs
-UnloadedText: 模组未加载
-EnableText: 左键点击以[C/7BF900:启用]
-DisableText: 左键点击以[C/FF3500:禁用]
-NoBuffText: 无激活Buff
-BuffTogglerText: 永久Buff切换面板
+AllInOneAccessUI.OpenStorage: 打开{0}
+
+DestinationGlobeUI: {
+	DesertText: 沙漠
+	SnowText: 雪原
+	JungleText: 丛林
+	GlowingMushroomText: 发光蘑菇
+	CorruptionText: 腐化
+	CrimsonText: 猩红
+	HallowText: 神圣 （需要困难模式）
+	PurityText: 纯净
+	ResetText: 重置环境地球仪
+}
+
+EntityManipulatorUI: {
+	IncreaseSpawnsText: 提升刷怪率
+	DecreaseSpawnsText: 降低刷怪率
+	DisableSpawnsText: 禁用生成
+	DisableEventsText: 禁用事件
+	ResetText: 重置实体操纵仪
+}
+
+PermanentBuffTogglerUI: {
+	BuffTogglerText: 永久Buff切换面板
+	BuffSearchEmptyText: 搜寻Buff
+	NoBuffText: 无激活Buff
+	EnableText: 左键点击以[C/7BF900:启用]
+	DisableText: 左键点击以[C/FF3500:禁用]
+}
+
+SummoningRemoteUI: {
+	TwinsText: 双子魔眼
+	MoonLordText: 月亮领主
+	PartyText: 排队
+	LanternNightText: 灯笼夜
+	RainText: 雨
+	SandstormText: 沙尘暴
+	WindyDayText: 大风天
+	BloodMoonText: 血月
+	SlimeRainText: 史莱姆雨
+	GoblinArmyText: 哥布林军队
+	FrostLegionText: 雪人军团
+	PirateInvasionText: 海盗入侵
+	SolarEclipseText: 日食
+	PumpkinMoonText: 南瓜月
+	FrostMoonText: 霜月
+	MartianMadnessText: 火星暴乱
+	LunarEventText: 月亮事件
+}
+
+TimeWrinklerUI: {
+	AlwaysDay: 永久白天
+	AlwaysNight: 永久夜晚
+	AlwaysBloodMoon: 永久血月
+	AlwaysEclipse: 永久日食
+	TimePaused: 暂停时间
+	ResetText: 重置时光扭曲镜
+}

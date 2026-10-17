@@ -209,3 +209,18 @@ BossScaling: {
 	Label: "[i:560] Boss宝藏袋价格倍率调整"
 	Tooltip: 切换启用是否让宝藏袋在每次击败Boss后价格增加
 }
+
+BlackMarketDealerShops: {
+	Tooltip: ""
+	Label: 黑市商人商店
+}
+
+EtherealCollectorDealerShops: {
+	Label: 飘
+	Tooltip: ""
+}
+
+AllShopToggles: {
+	Tooltip: ""
+	Label: 切换所有商店
+}

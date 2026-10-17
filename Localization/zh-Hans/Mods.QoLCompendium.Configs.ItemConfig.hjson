@@ -204,7 +204,7 @@ FishingAccessories: {
 }
 
 CrossModItems: {
-	Label: "[i:QoLCompendium/ForgottenOneSummon] 跨模组物品"
+	Label: "[i:QoLCompendium/SuperchargedSuperCell] 跨模组物品"
 	Tooltip: 切换启用 跨模组物品
 }
 
@@ -226,4 +226,9 @@ PermanentBuffs: {
 RepairedLifeFruit: {
 	Label: "[i:QoLCompendium/RepairedLifeFruit] 修复的生命果"
 	Tooltip: 切换启用 修复的生命果
+}
+
+TimeWrinkler: {
+	Label: "[i:QoLCompendium/TimeWrinkler] 时光扭曲镜"
+	Tooltip: 切换启用 时光扭曲镜
 }

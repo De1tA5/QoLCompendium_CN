@@ -5,6 +5,11 @@ MagicStorageShadowDiamondDrops: {
 	Tooltip: 切换启用是否让所有模组Boss必定掉落暗影钻石
 }
 
+FargosCaughtNPCs: {
+	Label: "[i:267] [C/32FFBF:Fargo突变] - 捕获本模组NPC"
+	Tooltip: 切换启用是否当《Fargo突变》启用后，黑市商人和飘灵收藏家能被虫网捕获
+}
+
 AFKPetsCropFix: {
 	Label: "[i:369] [C/2C7C4B:AFKPets] - 作物能被快速破坏"
 	Tooltip: 切换启用是否让AFKPets的作物能被弹幕或近战挥舞破坏
@@ -128,6 +133,6 @@ SpiritClassicBossSummonClassificationFix: {
 }
 
 SpiritClassicYoyoClassificationFix: {
-	Label: "[i:3278] [C/51BDE3:魂灵·经典] -  悠悠球归类修复"
+	Label: "[i:3389] [C/51BDE3:魂灵·经典] -  悠悠球归类修复"
 	Tooltip: 切换启用是否让魂灵·经典的悠悠球物品能被正确归类为悠悠球
 }
